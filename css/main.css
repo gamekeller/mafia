@@ -1,23 +1,4 @@
-/*
- __                  __
-/\ \                /\ \
-\ \ \___   __  __   \_\ \     __
- \ \  _ `\/\ \/\ \  /'_` \  /'__`\
-  \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
-   \ \_\ \_\/`____ \ \___,_\ \____\
-    \/_/\/_/`/___/> \/__,_ /\/____/
-               /\___/
-               \/__/
-
-Hyde is an elegant, open source, mobile first theme for Jekyll.  It includes
-lightweight styles and placeholder content to get you up and running with a
-simple blog in no time.
-
-Designed, built, and released under MIT license by @mdo.
-
-Learn more at http://andhyde.com or https://github.com/mdo/hyde.
-
-*/
+/* Based on Hyde https://github.com/mdo/hyde. */
 
 
 /* Fonts
@@ -255,7 +236,7 @@ a:hover {
 .masthead h1 {
   margin-top: 0;
   font-size: 160px;
-  line-height: 0.6;
+  line-height: 0.7;
   font-family: "valencialight";
 }
 .masthead .lead {
@@ -276,44 +257,11 @@ a:hover {
 }
 
 
-/* Posts
+/* Content
 -------------------------------------------------- */
 
-/* Wrapper for all posts on homepage */
-.posts {
-  margin-left:  20px;
-  margin-right: 20px;
-}
-
-/* Single post */
-.post {
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-.post-date {
-  display: block;
-  margin: -10px 0 10px;
-  color: #9a9a9a;
-}
-
-/* Related posts */
-.related {
-  padding-top: 40px;
-  border-top: 1px solid #eee;
-}
-.related-posts {
-  list-style: none;
-}
-.related-posts li small {
-  font-size: 75%;
-  color: #999;
-}
-.related-posts li a:hover {
-  color: #000;
-  text-decoration: none;
-}
-.related-posts li a:hover small {
-  color: #000;
+.content {
+  margin: 20px;
 }
 
 
@@ -326,36 +274,6 @@ a:hover {
 }
 
 
-/* Pagination
--------------------------------------------------- */
-
-.pagination {
-  overflow: hidden; /* clearfix */
-  margin-top: 40px;
-  font-weight: bold;
-  color: #ccc;
-  text-align: center;
-  border-top: 1px solid #eee;
-}
-.pagination a,
-.pagination span {
-  float: left;
-  width: 50%;
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-  padding: 20px;
-}
-.pagination a:first-child,
-.pagination span:first-child {
-  border-right: 1px solid #eee;
-}
-.pagination a:hover {
-  text-decoration: none;
-  background-color: #f5f5f5;
-}
-
-
 /* Responsive
 -------------------------------------------------- */
 
@@ -363,9 +281,8 @@ a:hover {
   .masthead-inner {
     padding: 40px;
   }
-  .posts {
-    margin-left: 40px;
-    margin-right: 40px;
+  .content {
+    margin: 40px;
   }
 }
 
@@ -380,10 +297,7 @@ a:hover {
 
   /* Center container in available real estate */
   .container {
-    margin-top: 60px;
-    margin-left: 35%;
-    margin-right: 10%;
-    margin: 60px 10% 60px 35%;
+    margin-left: 400px;
     width: 55%;
   }
 
@@ -394,8 +308,7 @@ a:hover {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 25%;
-    max-width: 320px;
+    width: 320px;
     margin-bottom: 0;
   }
   .masthead-inner {
@@ -413,21 +326,10 @@ a:hover {
     margin-top: 0;
   }
 
-  /* Remove mobile device padding from list of posts */
-  .posts {
-    margin-left: 0;
-    margin-right: 0;
-  }
   /* Increase space between posts */
-  .post {
+  .content {
     margin-top: 60px;
     margin-bottom: 60px;
-  }
-
-  /* Make pagination stand alone */
-  .pagination {
-    margin-bottom: 60px;
-    border: 1px solid #eee;
   }
 
 }
