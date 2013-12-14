@@ -35,7 +35,7 @@ Natürlich brauchen die Bürger Unterstützung da sie alleine nicht Klar kommen 
 - Gesinnung: Town
 - Beschreibung: Der Arzt ist eine Schwere Rolle und nicht Leicht zu spielen. Er darf seine Rolle nicht einfach so Preisgeben sonst ist er schnell das Target No. 1 bei der Mafia.
 - Spielweise: Vorsichtig!
-- Fähigkeit: Einmal Pro Nacht wird der Arzt vom Spielleiter gefragt welchen Spieler er retten will. Darauf hin musst der Arzt sich entscheiden wenn er retten will und nach dem die Mafia über die Person drüber gegangen ist die getötet werden sollte kommt der Arzt und flickt ihn oder sie wieder zusammen.
+- Fähigkeit: Einmal Pro Nacht wird der Arzt vom Spielleiter gefragt welchen Spieler er retten will. Darauf hin musst der Arzt sich entscheiden wenn er retten will und nach dem die Mafia über die Person drüber gegangen ist die getötet werden sollte kommt der Arzt und flickt ihn oder sie wieder zusammen. Er darf eine Person nicht Zweimal hintereinander retten, Außerdem darf er auch nicht sich selbst retten.
 
 ### Cop
 - Gesinnung: Town
@@ -59,13 +59,14 @@ Natürlich brauchen die Bürger Unterstützung da sie alleine nicht Klar kommen 
 - Gesinnung: Town
 - Beschreibung: Der Magier ist lang schon nicht mehr auf Tour und mit seinen kleinen Shows in der Town kann er auch nicht mehr wirklich das große Geld verdienen, da ist so ein Menschen Tausch Trick schon echt das Highlight.
 - Spielweise: Verdeckt.
-- Fähigkeit: Er hat die Fähigkeit Zwei Personen zu vertauschen. Der Spielleiter wird ihn Fragen "Switch?" darauf hin Antwortet der Magier mit Zwei Spielername die vertauscht werden. Sollte also einer der beiden Personen erschossen werden wird der Platz getauscht und die andere Person wird erschossen.
+- Fähigkeit: Er hat die Fähigkeit Zwei Personen zu vertauschen. Der Spielleiter wird ihn Fragen "Switch?" darauf hin Antwortet der Magier mit Zwei Spielername die vertauscht werden. Sollte also einer der beiden Personen erschossen werden wird der Platz getauscht und die andere Person wird erschossen. Der Magier darf sich auch selber vertauschen, außerdem darf er auch eine Person mehrere Nächte hintereinander vertauschen. Er hat also NICHT die Limitierungen vom Arzt!
 
 ### Hypnotiseur
 - Gesinnung: Town
 - Beschreibung: Ex-Therapeut ohne Anstellung.
 - Spielweise: Psycho, sehr Gefährlich für ALLE!
-- Fähigkeit: Ein Hypnotisierter Spieler muss seine Rolle inner halt der ersten 10 Sekunden der Tag Phase preisgeben. Das Funktioniert leider nur EINMAL im ganzen spiel. Der Hypnotiseur wird von Spielleiter gefragt "Hypno?" darauf hin antwortet der Hypnotiseur mit "Nein" oder mit "Ja, Spielernamen" wobei Spielername natürlich der Spielername dann ist. Sollte der Hypnotiseur sterben in der Nacht in der er jemanden Hypnotisiert hat ist der "Zauber" aufgehoben und er muss seine Rolle NICHT preisgeben.
+- Fähigkeit: Der Hypnotiseur kann eine Person Hypnotisieren, wenn sie Hypnotisiert ist muss sie ihre Rolle innerhalb von 10 Sekunden der Tag Phase preisgeben, das kann der Hypnotiseur nur ZWEI mal im ganzen Spiel machen. Zudem musst er das auch Nachts dem Spielleiter sagen. Die Hypnotisierte Person muss ihre Rolle und Gesinnung aber nicht dirket sagen sondern kann es auch im subtext einfliessen lassen.
+
 
 ### Gärtner
 - Gesinnung: Mafia (Town)
