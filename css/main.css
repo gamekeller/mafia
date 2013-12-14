@@ -245,7 +245,6 @@ a:hover {
 -------------------------------------------------- */
 
 /* Header */
-.masthead-desktop { display: none; }
 .masthead {
   color: #fff;
   background-color: #1a1a1a;
@@ -388,16 +387,15 @@ a:hover {
   }
 
   /* Fix the masthead to the side for impact and awesomeness */
-  .masthead-mobile { display: none; }
-  .masthead-desktop {
+  .masthead {
     display: block;
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
     width: 25%;
-    margin-bottom: 0;
     max-width: 320px;
+    margin-bottom: 0;
   }
   .masthead-inner {
     position: absolute;
@@ -406,8 +404,9 @@ a:hover {
     left: 0;
   }
   .masthead h1 {
-    line-height: 0.8;
-    margin-bottom: -40%;
+    line-height: 0.6;
+    text-indent: -4px;
+    font-size: 250px;
   }
   .colophon {
     margin-top: 0;
