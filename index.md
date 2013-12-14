@@ -81,8 +81,6 @@ Auch die Mafiosi bekommen bisher eine Spicial Rolle:
 - Spielweise: Wie ein Mafiosi!
 - Fähigkeit: Er hat die gleichen Fähigkeiten wie ein Mafiosi es sei denn es ist ein Unstimmigkeit in der Entscheidung wer bei denn "Fischen schlafen darf", dann hat der Pate ein doppel Stimmrecht um alle zu "Überzeugen". Außerdem wird er wenn er vom Detektiv "gecheckt" wird als Town angesehen, da er mit seinem verhalten so auffällig unauffällig ist.
 
-Third Party:
-
 ### Psychopath
 - Gesinnung: (Sich selbst)
 - Beschreibung: ASPIONFASONEMI PAMARPAIOMSFPOM PAOSFNPASONFEPCMI PIANMFSPIN.
