@@ -84,7 +84,7 @@ Natürlich brauchen die Bürger Unterstützung da sie alleine nicht Klar kommen 
 - *Fähigkeit*: Er hat keine Fähigkeit außer der er für denn Detektiv aussieht wie ein Mafiosi. Da anscheint die Nächtlichen Gartenarbeiten gleich ein Zeichen dafür sind das man ein Mafiosi ist...PFFF...
 
 
-Auch die Mafiosi bekommen Spzial Rolle/n:
+Auch die Mafiosi bekommen Spzial Rollen:
 
 ### Der Pate
 - *Gesinnung*: Mafia
