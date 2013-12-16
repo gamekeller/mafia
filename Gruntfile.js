@@ -32,6 +32,7 @@ module.exports = function(grunt) { "use strict";
           'js/**/*',
           '**/*.md',
           '_layouts/*',
+          '_includes/*',
           '!_site/**/*'
         ],
         tasks: ['jekyll:site']
@@ -44,6 +45,6 @@ module.exports = function(grunt) { "use strict";
   grunt.loadNpmTasks('grunt-jekyll');
 
   // Default task(s).
-  grunt.registerTask('default', ['connect', 'watch']);
+  grunt.registerTask('default', ['jekyll:site', 'connect', 'watch']);
 
 };

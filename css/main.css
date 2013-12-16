@@ -233,6 +233,9 @@ a:hover {
 .masthead-inner {
   padding: 20px;
 }
+.masthead-nav {
+  padding: 0 20px;
+}
 .masthead h1 {
   margin-top: 0;
   font-size: 160px;
@@ -257,11 +260,64 @@ a:hover {
 }
 
 
+/* Navigation
+-------------------------------------------------- */
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav > li > a {
+  display: block;
+  padding: 10px 20px;
+  font-weight: 400;
+  color: #888580;
+}
+
+.nav > li > a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav > .active > a {
+  border-left: 2px solid #fff;
+  color: #fff;
+}
+
+.nav.top > .active > a {
+  border: none;
+  color: #1a1a1a;
+  background-color: #fff;
+}
+
+.nav .nav {
+  display: none;
+  padding: 0;
+}
+
+.nav .nav > li > a {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  font-size: 80%;
+}
+
+.nav .nav > li:first-child > a { padding-top: 6px; }
+
+.nav .nav > .active > a { padding-left: 28px; }
+
+
 /* Content
 -------------------------------------------------- */
 
 .content {
   margin: 20px;
+}
+
+h1 a[id] {
+  display: block;
 }
 
 
@@ -280,6 +336,9 @@ a:hover {
 @media (min-width: 768px) {
   .masthead-inner {
     padding: 40px;
+  }
+  .masthead-nav {
+    padding: 0 40px;
   }
   .content {
     margin: 40px;
@@ -316,14 +375,31 @@ a:hover {
     bottom: 0;
     right: 0;
     left: 0;
+    padding: 20px;
+    background-color: #1a1a1a;
+  }
+  .masthead-nav {
+    padding: 0 0 96px;
+    max-height: 100%;
+    overflow: auto;
   }
   .masthead h1 {
-    line-height: 0.6;
-    text-indent: -4px;
-    font-size: 250px;
+    float: left;
+    margin: 0;
+    line-height: 0.8;
+    font-size: 70px;
   }
   .colophon {
     margin-top: 0;
+    padding-left: 10px;
+    overflow: hidden;
+  }
+  .colophon-links {
+    margin: 0;
+  }
+
+  .nav .nav {
+    display: block;
   }
 
   /* Increase space between posts */

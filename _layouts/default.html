@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ page.title }} &middot; Gamekeller</title>
+    <title>{{ page.title }} &middot; {{ site.name }}</title>
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="/css/main.css">
   </head>
   <body>
 
@@ -19,8 +19,10 @@
             </li>
             <li>Aktuell v0.1.0</li>
           </ul>
-          <small>© 2013 Gamekeller. All rights reserved.</small>
         </div>
+      </div>
+      <div class="masthead-nav">
+        {% include nav.html %}
       </div>
     </header>
 
@@ -29,5 +31,7 @@
       {{ content }}
 
     </div>
+
+    <script src="/js/main.js"></script>
   </body>
 </html>

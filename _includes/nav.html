@@ -1,0 +1,19 @@
+<nav>
+  <ul class="nav top">
+    <li{% if page.url == "/" %} class="active"{% endif %}>
+      <a href="/">Home</a>
+    </li>
+    <li{% if page.url == "/roles/" %} class="active"{% endif %}>
+      <a href="/roles/">Rollen</a>
+      {% if page.url == "/roles/" %}
+        {% include nav-roles.html %}
+      {% endif %}
+    </li>
+    <li{% if page.url == "/modes/" %} class="active"{% endif %}>
+      <a href="/modes/">Spielmodi</a>
+      {% if page.url == "/modes/" %}
+        {% include nav-modes.html %}
+      {% endif %}
+    </li>
+  </ul>
+</nav>
