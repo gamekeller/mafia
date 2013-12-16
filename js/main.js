@@ -3,10 +3,13 @@
   if(!document.querySelector || !document.querySelectorAll || !window.addEventListener || !document.body.classList)
     return alert('Um Himmels Willen, update doch mal deinen Browser!');
 
+  if(!document.querySelector('.js-spy'))
+    return;
+
   var spy = {
 
     update: function() {
-      this.elements  = document.getElementsByClassName('js-spy')[0];
+      this.elements  = document.querySelector('.js-spy');
       this.selectors = this.elements.querySelectorAll('[href^="#"]');
       this.targets   = [];
       this.offsets   = [];
