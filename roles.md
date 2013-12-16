@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rollen
+base_url: "../"
 ---
 
 # <a id="arzt"></a>Arzt

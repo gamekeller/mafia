@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mafia
+base_url: "./"
 ---
 
 # Phasen:
