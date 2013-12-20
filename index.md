@@ -47,7 +47,7 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 
 ## Town
 
-####Barbar - Der ist ein Normaler Bürger, allerdings dauert sein Tot eine Nacht länger. (Heißt stirbt er in der Ersten Nacht, ist es verzögert und er Stirbt erst in der Zweiten.)
+###Barbar - Der ist ein Normaler Bürger, allerdings dauert sein Tot eine Nacht länger. (Heißt stirbt er in der Ersten Nacht, ist es verzögert und er Stirbt erst in der Zweiten.)
 
 ####Cop - Er kann jede Nacht eine Person überprüfen. Er bekommt zurück welche Gesinnung sie hat. (Neutrale Rollen werden als Town angezeigt.)
 
