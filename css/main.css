@@ -298,13 +298,11 @@ a:hover {
 }
 
 .nav .nav > li > a {
-  padding-top: 3px;
-  padding-bottom: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   padding-left: 30px;
   font-size: 80%;
 }
-
-.nav .nav > li:first-child > a { padding-top: 6px; }
 
 .nav .nav > .active > a { padding-left: 28px; }
 
