@@ -1,84 +1,113 @@
 ---
 layout: default
-title: Rollen
-base_url: "../"
+title: Mafia
 ---
 
-# <a id="arzt"></a>Arzt
-- *Gesinnung*: Town
-- *Beschreibung*: Der Arzt ist eine Schwere Rolle und nicht Leicht zu spielen. Er darf seine Rolle nicht einfach so Preisgeben sonst ist er schnell das Target No. 1 bei der Mafia.
-- *Spielweise*: Vorsichtig!
-- *Fähigkeit*: Einmal Pro Nacht wird der Arzt vom Spielleiter gefragt welchen Spieler er retten will. Darauf hin musst der Arzt sich entscheiden wenn er retten will und nach dem die Mafia über die Person drüber gegangen ist die getötet werden sollte kommt der Arzt und flickt ihn oder sie wieder zusammen. Er darf eine Person nicht Zweimal hintereinander retten, Außerdem darf er auch nicht sich selbst retten.
+#Ziel
 
-# <a id="cop"></a>Cop
-- *Gesinnung*: Town
-- *Beschreibung*: Der Cop ist eine Wichtige Rolle und ebenfalls schwer zu spielen. Der Cop sollte probieren immer aufgeschlossen zur denn Bürgern zu sein und natürlich wäre es auch vom vorteil denn Arzt zu kennen falls eine Kugel sich mal verirrt oder die Beton schuhe zu eng sitzen.
-- *Spielweise*: Stark (im sinne von ein Fels in der Brandung/Town)
-- *Fähigkeit*: Einmal Pro Nacht wird der Cop vom Spielleiter gefragt welchen Spieler er überprüfen will, dabei wird allerdings NUR die Gesinnung überprüft und mitgeteilt.
+- Die Mafiosi: Haben gewonnen wenn alle Bürger in der Stadt tot sind.
 
-# <a id="detektiv"></a>Detektiv
-- *Gesinnung*: Town
-- *Beschreibung*: Der Detektiv ist im Ruhestand und möchte einfach nur sich in GK-Town zur Ruhe setzten. Allerdings ist die Mafia ihm dabei im Weg seinen Ruhestand zu genießen. Deshalb rackert er sich auf und hilft mit. Der Detektiv wird ähnlich gespielt wie der Cop. Das Relevante beim Detektiv ist das er auch Rollen überprüft da er die ganze Nacht die Person beobachtet und somit weiß was sie arbeitet. Außerdem ist er noch gut im Training von den ganzen Betrügerischen Ehemännern die er schon auf denn Grund gehen musste.
-- *Spielweise*: Siehe Cop
-- *Fähigkeit*: Einmal Pro Nacht wird der Detektiv vom Spielleiter gefragt welchen Spieler er überprüfen will, dabei wird die Gesinnung UND Rolle überprüftund dem Detektiv mitgeteilt. (Special Rule: Wenn der Gärtner "gecheckt" wird, wird er als Mafia angezeigt, aufgrund seiner verdächtigen "Gartenarbeit". Der Pate wird allerdings als Town angezeigt da er sich wie ein Gentlemen kleidet, redet und benimmt.)
+- Bürger: Haben gewonnen wenn alle Mafiosi tot sind.
 
-# <a id="veteran"></a>Veteran
-- *Gesinnung*: Town
-- *Beschreibung*: Neben seinen Flashbacks bleibt ihm nichts mehr außer seine Letzte Kugel wenn es irgendwann nicht mehr mit Anti-Depressiver geregelt werden kann. Aber jetzt wo die Mafia in der Stadt ist muss die Letzte Kugel vielleicht doch lieber in ein schönen Italienischen Anzug gefeuert werden.
-- *Spielweise*: Vorsichtig, nach dem die eine Kugel verfeuert ist die dir Rolle mehr oder weniger Nutzlos.
-- *Fähigkeit*: Der Veteran hat die Möglichkeit EINMAL in einer Nacht eine Person zu erschießen. Das Einmal ist ernst gemeint er hat nur EINE Kugel für das ganze Spiel. Der Spielleiter fragt einmal die Nacht "Shot?", "Nein" heißt natürlich Nein, und "Ja, Spielername!" wird die Kugel verschossen in die Person.
+- Thirt Party Roles: Haben meistens ihre eigenen Ziele in der Rollen Beschreibung stehen. 
 
-# <a id="magier"></a>Magier
-- *Gesinnung*: Town
-- *Beschreibung*: Der Magier ist lang schon nicht mehr auf Tour und mit seinen kleinen Shows in der Town kann er auch nicht mehr wirklich das große Geld verdienen, da ist so ein Menschen Tausch Trick schon echt das Highlight.
-- *Spielweise*: Verdeckt.
-- *Fähigkeit*: Er hat die Fähigkeit Zwei Personen zu vertauschen. Der Spielleiter wird ihn Fragen "Switch?" darauf hin Antwortet der Magier mit Zwei Spielername die vertauscht werden. Sollte also einer der beiden Personen erschossen werden wird der Platz getauscht und die andere Person wird erschossen. Der Magier darf sich auch selber vertauschen, außerdem darf er auch eine Person mehrere Nächte hintereinander vertauschen. Er hat also NICHT die Limitierungen vom Arzt!
+---
 
-# <a id="hypnotiseur"></a>Hypnotiseur
-- *Gesinnung*: Town
-- *Beschreibung*: Ex-Therapeut ohne Anstellung.
-- *Spielweise*: Psycho, sehr Gefährlich für ALLE!
-- *Fähigkeit*: Der Hypnotiseur kann eine Person Hypnotisieren, wenn sie Hypnotisiert ist muss sie ihre Rolle innerhalb von 10 Sekunden der Tag Phase preisgeben, das kann der Hypnotiseur nur ZWEI mal im ganzen Spiel machen. Zudem musst er das auch Nachts dem Spielleiter sagen. Die Hypnotisierte Person muss ihre Rolle und Gesinnung aber nicht dirket sagen sondern kann es auch im subtext einfliessen lassen.
+#Phasen
 
-# <a id="samurai"></a>Samurai
-- *Gesinnung*: Town
-- *Beschreibung*: Ein Spezial Ausbildung zum Mafia töten ist dem Samurai schon in der Kindheit zu gute gekommen.
-- *Fähigkeit*: Er muss JEDE Nacht eine Person töten. Ist es ein Bürger begeht er Seppuku (Ehrenhaften Selbstmord), sollte es allerdings ein Mafiosi sein macht er weiter. (Er wird erst auf Nacht 1 Aktiv, das heißt Nacht 0 muss er noch keine Person umbringen.)
+Das Spiel ist in mehrere Phasen unterteilt.
 
-# <a id="hutmacher"></a>Verrückter Hutmacher
-- *Gesinnung*: Town
-- *Beschreibung*: Eine Bombe in denn Hut und eine in den...HiHi
-- *Fähigkeit*: Er kann eine Bombe an einen Spieler platzieren (Einmalig), wenn der Hutmacher Stirbt, geht sie hoch.
+##Nacht
+In der Nacht werde die Nachtaktionen gemacht.
+Also die Mafiosi bringen eine Person um, der Arzt probiert jemanden zu retten,
+der Cop überprüft jemanden und so weiter und so fort.
 
-# <a id="gaertner"></a>Gärtner
-- *Gesinnung*: Mafia (Town)
-- *Beschreibung*: Mexikanisch, Nachtaktiv und ein faible für Messer. Das kann ja nur verdächtig aus sehen.
-- *Spielweise*: Offen, vielleicht sogar schon am Anfang seine Rolle preisgeben. Kann aber auch böse enden für denn Gärtner!
-- *Fähigkeit*: Er hat keine Fähigkeit außer der er für denn Detektiv aussieht wie ein Mafiosi. Da anscheint die Nächtlichen Gartenarbeiten gleich ein Zeichen dafür sind das man ein Mafiosi ist...PFFF...
+Der Morgen (Zwischen Phase)
+In der Phase werden nur die Nächtlichen toten verkündet.
 
-Auch die Mafiosi bekommen Spzial Rollen:
+##Tag
+Am Tag können die alle Spieler im Spiel Personen erst Nominieren und dann Lynchen. Es können soviele Personen Nominiert werden wie die Spieler lust haben. Allerdings darf nur eine gelyncht werden. Eine Nominierte Person verteidigt sich dann, danach wir der Lynch Vote gemacht ob sie schuldig oder unschuldig ist.
 
-# <a id="pate"></a>Der Pate
-- *Gesinnung*: Mafia
-- *Beschreibung*: Der Pate war schon ein paar mal Bürgermeister und ist bekannt dafür das er der Nette Nachbar ist der öfters schon mal Leckers BBQ veranstaltet hat.
-- *Spielweise*: Wie ein Mafiosi!
-- *Fähigkeit*: Er hat die gleichen Fähigkeiten wie ein Mafiosi es sei denn es ist ein Unstimmigkeit in der Entscheidung wer bei denn "Fischen schlafen darf", dann hat der Pate ein doppel Stimmrecht um alle zu "Überzeugen". Außerdem wird er wenn er vom Detektiv "gecheckt" wird als Town angesehen, da er mit seinem verhalten so auffällig unauffällig ist.
+Hinrichtung und wieder Nacht (Zwischen Phase)
+Der Spielleiter gibt kurz bekannt wer gestorben ist nach der Tag Phase und danach startet auch wieder die Nacht.
 
-# <a id="hure"></a>Hure (Role Block)
-- *Gesinnung*: Mafia
-- *Beschreibung*: Die Hure beschäftigt jemand in der Nacht. Das heißt er oder sie können ihre Fähigkeit nicht nutzen.
-- *Spielweise*: Die Mafia weiß das die Hure existiert. Allerdings nicht wer sie ist! Das heißt sie gewinnt mit Mafia, aber ist nicht im Mafia Chat.
-- *Fähigkeit*: Die Hure hat die möglichkeit jemanden zu "Role Blocken" einmal pro Nacht.
+So geht es weiter, bis eine Fraktion gewonnen hat.
 
-Es gibt auch noch die so genannten "Third Roles" also die Dritten Rollen die weder zur Mafia noch zur Town gehören:
 
-# <a id="psychopath"></a>Psychopath
-- *Gesinnung*: (Sich selbst)
-- *Beschreibung*: ASPIONFASONEMI PAMARPAIOMSFPOM PAOSFNPASONFEPCMI PIANMFSPIN.
-- *Spielweise*: Er ist auf sich alleine gestellt, so sollte er auch spielen.
-- *Fähigkeit*: Jede Nacht kann er jemanden Töten.
+- Es wird meistens die Anzahl der Spieler genommen und durch Vier geteilt um die Mafiosi Anzahl heraus zu finden. Allerdings gibt es da auch von Spielleiter zu Spielleiter auch andere Regelungen und Variationen. 
 
-# <a id="kult-anfuehrer"></a>Kult Anführer
-- *Gesinnung*: Kult (Third Party)
-- *Beschreibung*: Der Kult wird vom Kult Anführer angeführt. Jeder der im Kult ist wird Kontrolliert vom Kult Anführer.
-- *Fähigkeit*: Beim Beginn des Spiels wählt der Kult Anführer wer sein erstes Mitglied sein soll. Sollte der ausgefähte Spieler eine Spezial Rolle haben wird diese mit seinen Fähigkeiten gelöscht und überschreiben, er ist nur noch ein Kult Mitglied. Jede weitere Nacht kann der Kult Anführer eine Person zwingen seinem Kult bei zu tretten. Nur das Erste Kult Mitglied kennt die Identität vom Kult Anführer. Wenn der Kult Anführer stribt sterben alle Kult Anhänger/Mitglieder ebendfalls. (Gewonnen ist das Spiel wenn alle lebenden Spieler dem Kult angehören.) (Sollte ein Mafiosi zu einem Kult Mitglied werden stimmt er einfach nur noch zu jeder Anfrage im Chat zu!)
+- Außerdem wird auch die Anzahl der Mafiosi genommen Minus Eins Ergibt die Anzahl der Spezial Rollen.
+
+- Als Gesinnung/Fraktion/Partei gibt es natürlich die Town also die Bürger und natürlich die Mafiosi wobei auch hier wieder Variationen vorkommen können mit Thrid Party Roles also mit Drittpartei Rollen wie zum beispiel Golem oder Kult Meister.
+
+
+
+---
+
+#Rollen
+
+
+##Town
+
+Barbar - Der ist ein Normaler Bürger, allerdings dauert sein Tot eine Nacht länger. (Heißt stirbt er in der Ersten Nacht, ist es verzögert und er Stirbt erst in der Zweiten.) 
+
+Cop - Er kann jede Nacht eine Person überprüfen. Er bekommt zurück welche Gesinnung sie hat. (Neutrale Rollen werden als Town angezeigt.)
+
+Arzt - Kann jede Nacht jemanden retten (Er kann, keine Person Doppelt retten.)
+
+Detektiv - Jede Nacht kann er eine Person überprüfen. Er bekommt die Gesinnung und Rolle zurück. (Spezial, Siehe Gärtner und Pate.)
+
+Veteran - Er verfügt über nur eine Kugel übers ganze Spiel hinweg. Er kann sie eine Nacht abschießen auf jeden Spieler denn er möchte.
+
+Magier - Vertauscht Zwei Personen. Die eine Person bekommt immer das ab was die andere bekommen hätte. (Gilt auch fürs Retten und Überprüfungen)
+
+Hypnotiseur - Über das ganze Spiel hinweg kann er Zwei mal Personen in der Nacht Hypnotisieren diese müssen dann ihre Rolle innerhalb von 10 Sekunden der Tag Phase ihre Rolle Preisgeben. (Kann nicht Zweimal in einer Nacht verwendet werden. Muss die ganze Nacht am leben bleiben. Ja ungefähre Offenbarungen sind auch ok, sollte aber verständlich sein.) 
+
+Samurai - Er muss jede Nacht einen Spieler Töten, Sollte es kein Mafiosi sein, begeht der Samurai Ehrenhaften-Selbstmord. Sollte es ein Mafiosi sein, macht er einfach weiter bis alles Mafiosi tot sind. (Erste Nacht nicht eingerechnet)
+
+Verrückter Hutmacher - Du kannst eine Bombe platzieren, stirbst du, geht sie hoch!
+
+Amor - In der Ersten Nacht verkuppelt Amor zwei Personen, wenn die eine Stirbt, Stirbt die andere auch. Nach der Ersten Nacht zählt Amor als Normaler Bürger.
+
+Gärtner - Der Gärtner sieht aus wie ein Mafia Mitglied für denn Detektiv, allerdings ist er keins. 
+
+Orakel - Wähle eine Person aus in der Nacht, wenn du Stirbt wird ihre Rolle allen Offenbart.
+
+
+
+##Mafia
+
+Mafia Goon - Ohne Fähigkeiten er ist im Chat und wählt die Person aus die getötet werden soll.
+
+Pate - Er sieht aus wie ein Bürger wenn er von Detektiv überprüft wird. Wenn eine Stechen ist bei dem Hinrichtungsvote bei denn Mafiosi kann der Pate zu seinen Gunsten entscheiden. 
+
+Hure (Role Block) - Jede Nacht "Blockst" du eine Person. Sie kann damit ihre Rolle nicht mehr benutzen. Die Hure ist nicht im Mafia Chat zudem weiß die Mafia auch nicht wer die Hure ist.
+
+Anwalt - Du kannst einen Mafiosi eine Nacht lang wie ein Bürger Mitglied aussehen lassen. (Die Mafiosi wissen die Identität vom Anwalt nicht. Der Anwalt ist auch nicht im Mafia Chat.) 
+
+Terrorist - In der Tag Phase kann er ein Selbstmordattentat verursachen. Ja dabei stirbt er selber auch! (Wie bei denn anderen Rollen in der Mafia kennt die Mafia ihn nicht und er die Mafia nicht, er ist auch nicht im Mafia Chat.) 
+
+
+##Thrid Party Roles (Drittpartei Rollen)
+
+Der Narr - Wenn du gelyncht wurdest, hast du gewonnen. Sollte dich etwas anderes als der Galgen töten, hast du verloren. (Sollte die Rolle vom Narr offenbart werden vom Orakel oder Hypnotiseur, stirbt der Narr sofort.)
+
+Golem - Der Golem ist ein Mitglied der Town, sollten alle Mafiosi tot sein übernimmt der Golem für die Mafiosi. Der Golem hat gewonnen wenn erst alle Mafiosi tot sind und dann alle Bürger.
+
+Kult Meister - In der ersten Nacht wählt der Kult Meister sein erstes Mitglied,  jede weitere Nacht wählt er ein weiteres. Gewonnen hat der Kult Meister erst wenn alle Spieler im Spiel dem Kult angehören, oder Tot sind. (Wenn der Kult Meister stirbt, sterben alle Kult Mitglieder mit ihm.) (Jeder Rolle wird überschreiben wenn er dem Kult angehört.) (Nur das erste Mitglied steht über denn Spielleiter mit dem Kult Meister im Kontakt und kennt seine Wahre Identität.) 
+
+Psychopat/Kannibale - Jede Nacht kannst du jemanden töten, du hast gewonnen wenn alle Tot sind.
+
+Shaun (Last Man Stading) - Dein Ziel ist es der Letzte überlebende zu sein. Du hast eine Schusssichere Weste, dir wird aber nicht mitgeteilt wenn sie Leer ist.
+
+---
+
+# Regeln //Need update
+
+1. Wenn die Nacht beginnt Muten sie ALLE Spieler und es wird Musik gespielt bis der Spielleiter alle Rollen "abgefragt hat."
+2. Seit Fair, Freundlich und Witzig. (Oh ja, und hört auf Wursti immer in der 0ten Nacht zu töten.)
+3. Mafiosi schreiben NUR Nachts im Chat!!!
+4. Wenn du fragen hast, bitte IM Private Chat mit dem Spielleiter fragen.
+5. Wer sich daneben benimmt wird von Spielleiter gekickt bzw. aus dem Spiel genommen. (Mod killed)
+6. Tote können nicht reden. (Leute die schon gestorben sind muten sich und schreiben NICHT Leute per Chat an die noch im Spiel sind.)
+7. Das Hosten ist echt schwer und manchmal dauert Nacht 0 ein bisschen also Quengelt nicht rum! Das ist so schon nicht ganz so easy!
