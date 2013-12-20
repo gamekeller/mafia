@@ -47,53 +47,53 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 
 ## Town
 
-###Barbar - Der ist ein Normaler Bürger, allerdings dauert sein Tot eine Nacht länger. (Heißt stirbt er in der Ersten Nacht, ist es verzögert und er Stirbt erst in der Zweiten.)
+**Barbar** - Der ist ein Normaler Bürger, allerdings dauert sein Tot eine Nacht länger. (Heißt stirbt er in der Ersten Nacht, ist es verzögert und er Stirbt erst in der Zweiten.)
 
-####Cop - Er kann jede Nacht eine Person überprüfen. Er bekommt zurück welche Gesinnung sie hat. (Neutrale Rollen werden als Town angezeigt.)
+**Cop** - Er kann jede Nacht eine Person überprüfen. Er bekommt zurück welche Gesinnung sie hat. (Neutrale Rollen werden als Town angezeigt.)
 
-####Arzt - Kann jede Nacht jemanden retten (Er kann, keine Person Doppelt retten.)
+**Arzt** - Kann jede Nacht jemanden retten (Er kann, keine Person Doppelt retten.)
 
-####Detektiv - Jede Nacht kann er eine Person überprüfen. Er bekommt die Gesinnung und Rolle zurück. (Spezial, Siehe Gärtner und Pate.)
+**Detektiv** - Jede Nacht kann er eine Person überprüfen. Er bekommt die Gesinnung und Rolle zurück. (Spezial, Siehe Gärtner und Pate.)
 
-####Veteran - Er verfügt über nur eine Kugel übers ganze Spiel hinweg. Er kann sie eine Nacht abschießen auf jeden Spieler denn er möchte.
+**Veteran** - Er verfügt über nur eine Kugel übers ganze Spiel hinweg. Er kann sie eine Nacht abschießen auf jeden Spieler denn er möchte.
 
-####Magier - Vertauscht Zwei Personen. Die eine Person bekommt immer das ab was die andere bekommen hätte. (Gilt auch fürs Retten und Überprüfungen)
+**Magier** - Vertauscht Zwei Personen. Die eine Person bekommt immer das ab was die andere bekommen hätte. (Gilt auch fürs Retten und Überprüfungen)
 
-####Hypnotiseur - Über das ganze Spiel hinweg kann er Zwei mal Personen in der Nacht Hypnotisieren diese müssen dann ihre Rolle innerhalb von 10 Sekunden der Tag Phase ihre Rolle Preisgeben. (Kann nicht Zweimal in einer Nacht verwendet werden. Muss die ganze Nacht am leben bleiben. Ja ungefähre Offenbarungen sind auch ok, sollte aber verständlich sein.)
+**Hypnotiseur** - Über das ganze Spiel hinweg kann er Zwei mal Personen in der Nacht Hypnotisieren diese müssen dann ihre Rolle innerhalb von 10 Sekunden der Tag Phase ihre Rolle Preisgeben. (Kann nicht Zweimal in einer Nacht verwendet werden. Muss die ganze Nacht am leben bleiben. Ja ungefähre Offenbarungen sind auch ok, sollte aber verständlich sein.)
 
-####Samurai - Er muss jede Nacht einen Spieler Töten, Sollte es kein Mafiosi sein, begeht der Samurai Ehrenhaften-Selbstmord. Sollte es ein Mafiosi sein, macht er einfach weiter bis alles Mafiosi tot sind. (Erste Nacht nicht eingerechnet)
+**Samurai** - Er muss jede Nacht einen Spieler Töten, Sollte es kein Mafiosi sein, begeht der Samurai Ehrenhaften-Selbstmord. Sollte es ein Mafiosi sein, macht er einfach weiter bis alles Mafiosi tot sind. (Erste Nacht nicht eingerechnet)
 
-####Verrückter Hutmacher - Du kannst eine Bombe platzieren, stirbst du, geht sie hoch!
+**Verrückter Hutmacher** - Du kannst eine Bombe platzieren, stirbst du, geht sie hoch!
 
-####Amor - In der Ersten Nacht verkuppelt Amor zwei Personen, wenn die eine Stirbt, Stirbt die andere auch. Nach der Ersten Nacht zählt Amor als Normaler Bürger.
+**Amor** - In der Ersten Nacht verkuppelt Amor zwei Personen, wenn die eine Stirbt, Stirbt die andere auch. Nach der Ersten Nacht zählt Amor als Normaler Bürger.
 
-####Gärtner - Der Gärtner sieht aus wie ein Mafia Mitglied für denn Detektiv, allerdings ist er keins.
+**Gärtner** - Der Gärtner sieht aus wie ein Mafia Mitglied für denn Detektiv, allerdings ist er keins.
 
-####Orakel - Wähle eine Person aus in der Nacht, wenn du Stirbt wird ihre Rolle allen Offenbart.
+**Orakel** - Wähle eine Person aus in der Nacht, wenn du Stirbt wird ihre Rolle allen Offenbart.
 
 ## Mafia
 
-####Mafia Goon - Ohne Fähigkeiten er ist im Chat und wählt die Person aus die getötet werden soll.
+**Mafia Goon** - Ohne Fähigkeiten er ist im Chat und wählt die Person aus die getötet werden soll.
 
-####Pate - Er sieht aus wie ein Bürger wenn er von Detektiv überprüft wird. Wenn eine Stechen ist bei dem Hinrichtungsvote bei denn Mafiosi kann der Pate zu seinen Gunsten entscheiden.
+**Pate** - Er sieht aus wie ein Bürger wenn er von Detektiv überprüft wird. Wenn eine Stechen ist bei dem Hinrichtungsvote bei denn Mafiosi kann der Pate zu seinen Gunsten entscheiden.
 
-####Hure (Role Block) - Jede Nacht "Blockst" du eine Person. Sie kann damit ihre Rolle nicht mehr benutzen. Die Hure ist nicht im Mafia Chat zudem weiß die Mafia auch nicht wer die Hure ist.
+**Hure (Role Block)** - Jede Nacht "Blockst" du eine Person. Sie kann damit ihre Rolle nicht mehr benutzen. Die Hure ist nicht im Mafia Chat zudem weiß die Mafia auch nicht wer die Hure ist.
 
-####Anwalt - Du kannst einen Mafiosi eine Nacht lang wie ein Bürger Mitglied aussehen lassen. (Die Mafiosi wissen die Identität vom Anwalt nicht. Der Anwalt ist auch nicht im Mafia Chat.)
+**Anwalt** - Du kannst einen Mafiosi eine Nacht lang wie ein Bürger Mitglied aussehen lassen. (Die Mafiosi wissen die Identität vom Anwalt nicht. Der Anwalt ist auch nicht im Mafia Chat.)
 
-####Terrorist - In der Tag Phase kann er ein Selbstmordattentat verursachen. Ja dabei stirbt er selber auch! (Wie bei denn anderen Rollen in der Mafia kennt die Mafia ihn nicht und er die Mafia nicht, er ist auch nicht im Mafia Chat.)
+**Terrorist** - In der Tag Phase kann er ein Selbstmordattentat verursachen. Ja dabei stirbt er selber auch! (Wie bei denn anderen Rollen in der Mafia kennt die Mafia ihn nicht und er die Mafia nicht, er ist auch nicht im Mafia Chat.)
 
 ## Thrid Party Roles (Drittpartei Rollen)
 
-####Der Narr - Wenn du gelyncht wurdest, hast du gewonnen. Sollte dich etwas anderes als der Galgen töten, hast du verloren. (Sollte die Rolle vom Narr offenbart werden vom Orakel oder Hypnotiseur, stirbt der Narr sofort.)
+**Der Narr** - Wenn du gelyncht wurdest, hast du gewonnen. Sollte dich etwas anderes als der Galgen töten, hast du verloren. (Sollte die Rolle vom Narr offenbart werden vom Orakel oder Hypnotiseur, stirbt der Narr sofort.)
 
-####Golem - Der Golem ist ein Mitglied der Town, sollten alle Mafiosi tot sein übernimmt der Golem für die Mafiosi. Der Golem hat gewonnen wenn erst alle Mafiosi tot sind und dann alle Bürger.
+**Golem** - Der Golem ist ein Mitglied der Town, sollten alle Mafiosi tot sein übernimmt der Golem für die Mafiosi. Der Golem hat gewonnen wenn erst alle Mafiosi tot sind und dann alle Bürger.
 
-####Kult ####Meister - In der ersten Nacht wählt der Kult Meister sein erstes Mitglied,  jede weitere Nacht wählt er ein weiteres. Gewonnen hat der Kult Meister erst wenn alle Spieler im Spiel dem Kult angehören, oder Tot sind. (Wenn der Kult Meister stirbt, sterben alle Kult Mitglieder mit ihm.) (Jeder Rolle wird überschreiben wenn er dem Kult angehört.) (Nur das erste Mitglied steht über denn Spielleiter mit dem Kult Meister im Kontakt und kennt seine Wahre Identität.)
+**Kult Meister** - In der ersten Nacht wählt der Kult Meister sein erstes Mitglied,  jede weitere Nacht wählt er ein weiteres. Gewonnen hat der Kult Meister erst wenn alle Spieler im Spiel dem Kult angehören, oder Tot sind. (Wenn der Kult Meister stirbt, sterben alle Kult Mitglieder mit ihm.) (Jeder Rolle wird überschreiben wenn er dem Kult angehört.) (Nur das erste Mitglied steht über denn Spielleiter mit dem Kult Meister im Kontakt und kennt seine Wahre Identität.)
 
-####Psychopat/Kannibale - Jede Nacht kannst du jemanden töten, du hast gewonnen wenn alle Tot sind.
+**Psychopat/Kannibale** - Jede Nacht kannst du jemanden töten, du hast gewonnen wenn alle Tot sind.
 
-####Shaun (Last Man Stading) - Dein Ziel ist es der Letzte überlebende zu sein. Du hast eine Schusssichere Weste, dir wird aber nicht mitgeteilt wenn sie Leer ist.
+**Shaun (Last Man Stading)** - Dein Ziel ist es der Letzte überlebende zu sein. Du hast eine Schusssichere Weste, dir wird aber nicht mitgeteilt wenn sie Leer ist.
 
 ---
 
