@@ -301,9 +301,10 @@ a:hover {
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 30px;
-  font-size: 80%;
+  font-size: 90%;
 }
 
+.nav .nav > :first-child > a { padding-top: 10px; }
 .nav .nav > .active > a { padding-left: 28px; }
 
 
