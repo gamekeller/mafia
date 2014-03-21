@@ -71,6 +71,12 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 
 **Orakel** - Wählt eine Person in der Nacht, wenn du stirbst wird ihre Rolle allen Offenbart.
 
+**Mathematiker** - Der Mathematiker sucht sich eine beliebige Anzahl an Mitspieler aus, die nicht der Gesamtanzahl an Mitspielern entsprechen darf. Der Spielleiter teilt daraufhin dem Mathematiker mit, wie viele Mafiosi sich unter den Mitspielern befinden. Nach Nutzung seiner Fähigkeit stirbt der Mathematiker.
+
+**Judas** - Judas gewinnt, wenn die Bürger gewinnen. Falls er stirbt bekommt er ein Zweites Leben und gewinnt nur noch wenn die Mafiosi gewinnen.
+
+**Geist** - Jeder weiß wer der Geist ist. Der Geist kann nicht gelyncht werden, allerdings darf er auch nicht mit lynchen. Der Geist zählt natürlich nicht zur Siegbedingung (Anzahl Mafia = Anzahl Townies).
+
 
 ## Mafia
 
@@ -84,6 +90,11 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 
 **Terrorist** - In der Tag Phase kann er ein Selbstmordattentat begehen. Dabei stirbt er selber auch! (Wie bei den anderen Rollen in der Mafia kennt die Mafia ihn nicht und er die Mafia nicht, er ist auch nicht im Mafia Chat.)
 
+**Heckenschütze (Mafia Veteran)** - Der Heckenschütze ist im Mafia Chat und fungiert wie ein Veteran. Der Unterschied - er bringt die Bevölkerung am Tag um. Dabei wird der Spielleiter angeschrieben/angepoked.
+
+**Voodoo-Puppe** -In der Nacht sucht sich die Voodoo-Puppe ein Ziel. Alles was ihr zustößt, geschieht nun auch mit der ausgewählten Person.
+
+
 ## Thrid Party Roles (Drittpartei Rollen)
 
 **Der Narr** - Wenn du gelyncht wurdest, hast du gewonnen. Sollte dich etwas anderes als der Galgen töten, hast du verloren. (Sollte die Rolle vom Narr offenbart werden vom Orakel oder Hypnotiseur, stirbt der Narr sofort.)
@@ -95,6 +106,14 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 **Psychopat/Kannibale** - Jede Nacht kannst du jemanden töten, du hast gewonnen wenn alle Tot sind.
 
 **Shaun (Last Man Stading)** - Dein Ziel ist es der letzte Überlebende zu sein. Du hast eine Schusssichere Weste die einen Schuss aushält, dir wird aber nicht mitgeteilt wenn sie verbraucht ist.
+
+**Schleimer** - Der Schleimer ist zu Anfang neutral. Er nimmt die Rolle des ersten toten Spielers an.
+
+**Prominenter** - Jeder kennt deine Identität. Du bekommst ein Spielziel vom Spielleiter.
+
+**Brandstifter** - Er ist nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird von Detektiv/Cop als Mafiosi angezeigt.
+
+
 
 ---
 
