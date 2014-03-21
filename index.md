@@ -4,42 +4,35 @@ title: Allgemein
 base_url: "./"
 ---
 
+# <a id="setup"></a>Spielaufbau
 
-# <a id="goal"></a>Ziel
+## Allgemeines
 
-- Die Mafiosi: Haben gewonnen wenn alle Bürger in der Stadt tot sind.
+Die Anzahl der Mafiosi/Third-Party-Roles im Spiel richtet sich an die Gesamtspieleranzahl bzw. wird vom Spielleiter festgelegt.
 
-- Bürger: Haben gewonnen wenn alle Mafiosi tot sind.
-
-- Thirt Party Roles: Haben meistens ihre eigenen Ziele in der Rollen Beschreibung stehen.
-
----
-
-# <a id="phases"></a>Phasen
+## Phasen
 
 Das Spiel ist in mehrere Phasen unterteilt.
 
-## Nacht
-In der Nacht werde die Nachtaktionen gemacht.
-Die Mafiosi bringen eine Person um, der Arzt probiert jemanden zu retten,
-der Cop überprüft jemanden usw..
+### Nacht
+In der Nacht machen alle nachtaktiven Rollen ihre Handlungen.
+Die Mafiosi bringen eine Person um, der Arzt versucht jemanden zu retten,
+der Cop überprüft einen Spieler usw..
 
 Der Morgen (Zwischen Phase)
-In der Phase werden nur die Nächtlichen Verstorbenen verkündet.
+In dieser Phase werden nur die nächtlichen Verstorbenen verkündet.
 
-## Tag
-Am Tag können alle Spieler im Spiel Personen erst Nominieren und dann Lynchen. Es können soviele Personen Nominiert werden wie die Spieler Lust haben. Allerdings darf nur eine Person gelyncht werden. Eine Nominierte Person verteidigt sich dann, danach wir der Lynch-Vote gemacht ob sie schuldig oder unschuldig ist.
+### Tag
+Am Tag haben die noch lebenden Spieler die Möglichkeit, Personen zuerst zu nominieren und anschließend zu lynchen. Es können beliebig viele Personen nominiert werden, sofern die Rundenzeit nicht abgelaufen ist. Es ist jedoch nur erlaubt eine Person zu lynchen. Nach einer erfolgreichen Nominierung kann sich die ausgewählte Person verteidigen. Anschließend wird eine Lynch-Vote vorgenommen, mit der Möglichkeit für schuldig oder unschuldig zu stimmen.
 
-Hinrichtung und wieder Nacht (Zwischen Phase)
-Der Spielleiter gibt kurz bekannt wer gestorben ist in der Tag Phase, danach startet auch wieder die Nacht.
+Hinrichtung (Zwischen Phase)
+Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es beginnt die Nachtphase.
 
-So geht es weiter, bis eine Fraktion gewonnen hat.
+## Ziel
 
-
-- Es wird meistens die Anzahl der Spieler genommen und durch Vier geteilt um die Mafiosi Anzahl zu bestimmen.
-- Die Anzahl der Mafiosi minus eins ergibt die Anzahl der Spezial Rollen.
-
-- Als Gesinnung/Fraktion/Partei gibt es natürlich die Town, die Bürger und die Mafiosi, wobei auch hier wieder Variationen vorkommen können, mit Thrid Party Roles, die Drittpartei Rollen wie der Golem oder Kult Meister.
+- Die Mafiosi - haben gewonnen, sofern alle Bürger in der Stadt tot sind.
+- Bürger - entscheiden das Spiel für sich, wenn alle Mafiosi tot sind.
+- Third-Party-Roles - gewinnen durch Erfüllung der jeweiligen Ziele in ihrer Beschreibung.
 
 ---
 
@@ -47,29 +40,29 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 
 ## Town
 
-**Barbar** - Ein Normaler Bürger, allerdings dauert sein Tot eine Nacht länger. (Heißt stirbt er in der Ersten Nacht, ist es verzögert und er Stirbt erst in der Zweiten.)
+**Barbar** - Er zählt als normaler Bürger. Allerdings setzt sein Tod durch einen Angriff der Mafia erst in der 2. Nacht ein.
 
-**Cop** - Er kann jede Nacht eine Person überprüfen. Er bekommt zurück welche Gesinnung sie hat. (Neutrale Rollen werden als Town angezeigt.)
+**Cop** - Der Cop ist in der Lage jede Nacht eine Person zu überprüfen. Er erhält Informartionen welche Gesinnung diese hat. (Neutrale Rollen werden als Town angezeigt)
 
-**Arzt** - Kann jede Nacht jemanden retten (Er kann keine Person Doppelt retten.)
+**Arzt** - Jede Nacht kann der Arzt jemanden retten, jedoch nicht zwei mal hintereinander die selbe Person.
 
-**Detektiv** - Jede Nacht kann er eine Person überprüfen. Er bekommt die Gesinnung und Rolle zurück. (Spezial, Siehe Gärtner und Pate.)
+**Detektiv** - Auch der Detektiv kann jede Nacht eine Person überprüfen. Unterschied zum Cop ist, dass sowohl die Gesinnung, als auch die Rolle mitgeteilt wird. (Spezial, Siehe Gärtner und Pate.)
 
-**Veteran** - Er verfügt über nur eine Kugel übers ganze Spiel hinweg. Er kann sie eine Nacht abschießen auf jeden Spieler denn er möchte.
+**Veteran** - Er besitzt im gesamten Spiel nur eine Kugel im Lauf. Diese kann er in der Nacht auf jeden Spieler abfeuern.
 
-**Magier** - Vertauscht Zwei Personen. Die eine Person bekommt immer das ab was die andere bekommen hätte. (Gilt auch fürs Retten und Überprüfungen)
+**Busfahrer** - Der Busfahrer hat die Möglichkeit, die Plätze zweier Spieler zu tauschen. Dadurch werden Aktionen die auf eine bestimmte Person gerichtet waren, auf die getauschten Person geleitet. (Gilt auch fürs Retten und für Überprüfungen)
 
-**Hypnotiseur** - Über das ganze Spiel hinweg kann er Zwei mal Personen in der Nacht hypnotisieren, diese müssen dann ihre Rolle innerhalb von 10 Sekunden der Tag Phase ihre Rolle preisgeben. (Kann nicht Zweimal in einer Nacht verwendet werden. Muss die ganze Nacht am leben bleiben. Ja ungefähre Offenbarungen sind auch ok, sollte aber verständlich sein.)
+**Hypnotiseur** - Durch seine hypnotische Fähigkeit kann der Hypnotiseur in zwei verschiedenen Nächten andere Rollen aufdecken, sofern er die Nacht überlebt. Die hypnotisierte Person muss ihre Rolle in den ersten 10 Sekunden zu Beginn der Tag Phase preisgeben.
 
-**Samurai** - Er muss jede Nacht einen Spieler Töten, sollte es kein Mafiosi sein, begeht der Samurai Ehrenhaften-Selbstmord. Sollte es ein Mafiosi sein, macht er einfach weiter bis alle Mafiosi tot sind. (Erste Nacht nicht eingerechnet)
+**Samurai** - Tötet jede Nacht einen beliebigen Spieler. Sollte das Ziel kein Mafiosi sein, begeht der Samurai ehrenhaften Selbstmord. (In der ersten Nacht handlungsunfähig)
 
-**Verrückter Hutmacher** - Du kannst eine Bombe platzieren, stirbst du, geht sie hoch!
+**Verrückter Hutmacher** - Kann eine Bombe an einer Person anbringen, die zündet sobald er stirbt.
 
-**Amor** - In der ersten Nacht verkuppelt Amor zwei Personen, wenn die eine stirbt, stirbt die andere auch. Nach der ersten Nacht zählt Amor als Bürger.
+**Amor** - In der ersten Nacht verkuppelt Amor zwei Personen. Sobald einer dieser Personen stirbt, geschieht es der anderen ebenso. Nach genutzter Fähigkeit ist er ein Bürger.
 
-**Gärtner** - Der Gärtner sieht aus wie ein Mafia Mitglied für denn Detektiv, allerdings ist er keins.
+**Gärtner** - Der Gärtner wird für den Detektiv als Mafiosi ausgegeben zählt jedoch zur Town.
 
-**Orakel** - Wählt eine Person in der Nacht, wenn du stirbst wird ihre Rolle allen Offenbart.
+**Orakel** - Die Rolle einer vom Orakel ausgewählten Person wird beim Tod des Orakels offenbart.
 
 **Mathematiker** - Der Mathematiker sucht sich eine beliebige Anzahl an Mitspieler aus, die nicht der Gesamtanzahl an Mitspielern entsprechen darf. Der Spielleiter teilt daraufhin dem Mathematiker mit, wie viele Mafiosi sich unter den Mitspielern befinden. Nach Nutzung seiner Fähigkeit stirbt der Mathematiker.
 
@@ -80,40 +73,40 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 
 ## Mafia
 
-**Mafia Goon** - Ohne Fähigkeiten, er ist im Chat und wählt die Person aus die getötet werden soll.
+### Vollmitglieder
 
-**Pate** - Er sieht aus wie ein Bürger, wenn er vom Detektiv überprüft wird. Wenn es ein stechen gibt, kann der Pate zugunsten des Mafiosi entscheiden.
+**Mafia Goon** - Nimmt am Mafia Chat teil und wählt die Person aus die getötet werden soll.
 
-**Hure (Role Block)** - Jede Nacht "blockst" du eine Person. Sie kann damit ihre Rolle nicht mehr benutzen. Die Hure ist nicht im Mafia Chat zudem weiß die Mafia auch nicht wer die Hure ist.
-
-**Anwalt** - Du kannst einen Mafioso eine Nacht lang wie einem Bürger Mitglied aussehen lassen. (Die Mafiosi wissen die Identität vom Anwalt nicht. Der Anwalt ist auch nicht im Mafia Chat.)
-
-**Terrorist** - In der Tag Phase kann er ein Selbstmordattentat begehen. Dabei stirbt er selber auch! (Wie bei den anderen Rollen in der Mafia kennt die Mafia ihn nicht und er die Mafia nicht, er ist auch nicht im Mafia Chat.)
+**Pate** - Der Detektiv erkennt den Paten als Bürger. Wenn es ein Stechen gibt, kann der Pate zugunsten des Mafiosi entscheiden.
 
 **Heckenschütze (Mafia Veteran)** - Der Heckenschütze ist im Mafia Chat und fungiert wie ein Veteran. Der Unterschied - er bringt die Bevölkerung am Tag um. Dabei wird der Spielleiter angeschrieben/angepoked.
 
 **Voodoo-Puppe** -In der Nacht sucht sich die Voodoo-Puppe ein Ziel. Alles was ihr zustößt, geschieht nun auch mit der ausgewählten Person.
 
+### Unterstützer (Identität nicht bekannt; keine Teilnahme am Mafia Chat)
+
+**Hure (Role Block)** - Jede Nacht vergnügt sich die Hure mit einer Person dessen Fähigkeiten dadurch blockiert werden.
+
+**Anwalt** - Hat die Fähigkeit einen Mafiosi eine Nacht lang als Bürger zu tarnen.
+
+**Terrorist** - In der Tag Phase kann er ein Selbstmordattentat begehen. Dies ist auch während der Verteidigung bei einer Nominierung möglich.
+
 
 ## Thrid Party Roles (Drittpartei Rollen)
 
-**Der Narr** - Wenn du gelyncht wurdest, hast du gewonnen. Sollte dich etwas anderes als der Galgen töten, hast du verloren. (Sollte die Rolle vom Narr offenbart werden vom Orakel oder Hypnotiseur, stirbt der Narr sofort.)
+**Der Narr** - Wenn du gelyncht wurdest, hast du gewonnen. Sollte dich etwas anderes als der Galgen töten, hast du verloren. Bei Offenbarung der Rolle durch Fähigkeiten anderer Spieler stirbt der Narr sofort.
 
-**Golem** - Der Golem ist ein Mitglied der Town, sollten alle Mafiosi tot sein übernimmt der Golem für die Mafiosi. Der Golem hat gewonnen wenn erst alle Mafiosi tot sind und dann alle Bürger.
+**Golem** - Der Golem ist ein Mitglied der Town. Sollten alle Mafiosi tot sein übernimmt der Golem die Aufgaben der Mafia. Dieser hat gewonnen, wenn sowohl die Mafia als auch die Town ausgelöscht ist.
 
-**Kult Meister** - In der ersten Nacht wählt der Kult Meister sein erstes Mitglied,  jede weitere Nacht wählt er ein weiteres. Gewonnen hat der Kult Meister erst wenn alle Spieler im Spiel dem Kult angehören, oder Tot sind. (Wenn der Kult Meister stirbt, sterben alle Kult Mitglieder mit ihm.) (Jede Rolle wird überschrieben wenn er dem Kult angehört.) (Nur das erste Mitglied kennt seine Wahre Identität.)
+**Kultmeister** - In der ersten Nacht wählt der Kultmeister sein erstes Mitglied. Der gewählte Spieler erhält die Information wer der Kultmeister ist. Jede weitere Nacht erweitert er seine Reihen um einen Spieler seiner Wahl. Dieser verliert seine alte Rolle. Gewonnen hat der Kultmeister erst, sobald alle Spieler dem Kult angehören oder tot sind. Bei Tod des Kultmeisters sterben seine Anhänger ebenfalls.
 
-**Psychopat/Kannibale** - Jede Nacht kannst du jemanden töten, du hast gewonnen wenn alle Tot sind.
-
-**Shaun (Last Man Stading)** - Dein Ziel ist es der letzte Überlebende zu sein. Du hast eine Schusssichere Weste die einen Schuss aushält, dir wird aber nicht mitgeteilt wenn sie verbraucht ist.
+**Psychopath/Kannibale** - Gewinnt durch das Töten von Spielern in der Nacht.
 
 **Schleimer** - Der Schleimer ist zu Anfang neutral. Er nimmt die Rolle des ersten toten Spielers an.
 
 **Prominenter** - Jeder kennt deine Identität. Du bekommst ein Spielziel vom Spielleiter.
 
 **Brandstifter** - Er ist nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird von Detektiv/Cop als Mafiosi angezeigt.
-
-
 
 ---
 
@@ -127,4 +120,5 @@ So geht es weiter, bis eine Fraktion gewonnen hat.
 6. Tote Personen können nicht Reden und sollten sich bitte auch daran halten.
 7. Es wird nicht im Private Chat mit anderen Personen geschrieben während das Spiel noch läuft. Der Spielleiter kann jeder Zeit angeschrieben wieder.
 8. Das Hosten ist echt schwer und manchmal dauert die Nacht 0 ein bisschen also nervt nicht rum! Das ist so schon nicht ganz so easy!
+
 
