@@ -19,13 +19,13 @@ In der Nacht machen alle nachtaktiven Rollen ihre Handlungen.
 Die Mafiosi bringen eine Person um, der Arzt versucht jemanden zu retten,
 der Cop überprüft einen Spieler usw..
 
-Der Morgen (Zwischen Phase)
+#### Der Morgen (Zwischen Phase)
 In dieser Phase werden nur die nächtlichen Verstorbenen verkündet.
 
 ### Tag
 Am Tag haben die noch lebenden Spieler die Möglichkeit, Personen zuerst zu nominieren und anschließend zu lynchen. Es können beliebig viele Personen nominiert werden, sofern die Rundenzeit nicht abgelaufen ist. Es ist jedoch nur erlaubt eine Person zu lynchen. Nach einer erfolgreichen Nominierung kann sich die ausgewählte Person verteidigen. Anschließend wird eine Lynch-Vote vorgenommen, mit der Möglichkeit für schuldig oder unschuldig zu stimmen.
 
-Hinrichtung (Zwischen Phase)
+#### Hinrichtung (Zwischen Phase)
 Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es beginnt die Nachtphase.
 
 ## Ziel
