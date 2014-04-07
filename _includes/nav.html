@@ -6,11 +6,11 @@
         {% include nav-general.html %}
       {% endif %}
     </li>
-    <li{% if page.url == "/modes/" %} class="active"{% endif %}>
-      <a href="{{ page.base_url }}modes/">Spielmodi</a>
-    </li>
     <li{% if page.url == "/extended/" %} class="active"{% endif %}>
       <a href="{{ page.base_url }}extended/">Rollen (Ausführlich)</a>
+    </li>
+    <li{% if page.url == "/modes/" %} class="active"{% endif %}>
+      <a href="{{ page.base_url }}modes/">Spielmodi</a>
     </li>
   </ul>
 </nav>
