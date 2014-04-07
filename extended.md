@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Allgemein (extended)
-base_url: "./"
+base_url: "../"
 ---
 
