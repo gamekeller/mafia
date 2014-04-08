@@ -4,27 +4,41 @@ title: Allgemein (extended)
 base_url: "../"
 ---
 
+
 #Rollen 
+
 
 Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie nicht!
 
+
 ##Town
+
 
 ###Bürger
 
 
 **Alias**
+
 - Townie
+
 - Double-Cheese-Burger
+
 - “Normaler Spieler”
+
 - “Nicht Spezial Rolle” 
+
 
 **Fähigkeit** - Der Bürger hat die Große Ehre Leute zu beschuldigen, Lynchen oder einfach nur ein Mitläufer zu sein. 
 
+
 **Tipps**
+
 * Seine Rolle am Anfang zu offenbaren ist nicht immer Klug.
+
 * Wenn du dich verteidigen musst ist es ein Guter Zeitpunkt seine Rolle zu offenbaren und die “Checks” der letzten Nächte wieder zu geben.
+
 * Aufpassen es kann immer sein das ein Busfahrer im Spiel ist.
+
 * Du bist nicht gezwungen jede Nacht zu checken, allerdings solltest du dem Spielleiter das schreiben.
 
 **Schwierigkeitsgrad: Mittel**
