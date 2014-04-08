@@ -14,10 +14,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 
 **Alias**
-* Townie
-* Double-Cheese-Burger
-* “Normaler Spieler”
-* “Nicht Spezial Rolle” 
+- Townie
+- Double-Cheese-Burger
+- “Normaler Spieler”
+- “Nicht Spezial Rolle” 
 
 **Fähigkeit** - Der Bürger hat die Große Ehre Leute zu beschuldigen, Lynchen oder einfach nur ein Mitläufer zu sein. 
 
