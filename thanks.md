@@ -8,7 +8,7 @@ base_url: "../"
   
 * [Sakary] (https://www.facebook.com/dominik.si.5)  
 * [Shiyoda] ()  
-* [The Forgotten One](https://soundcloud.com/the-forgotten-one)
+* [The Forgotten One] (https://soundcloud.com/the-forgotten-one)
 
 
 **... für die Korrektur.**  
