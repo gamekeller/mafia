@@ -11,7 +11,7 @@ base_url: "../"
 * [The Forgotten One](https://soundcloud.com/the-forgotten-one)
 
 
-**... für die Korrektur**  
+**... für die Korrektur.**  
   
   
 * Blubb  
@@ -24,7 +24,7 @@ base_url: "../"
 
 **... für das erstellen der Webseite.**
   
-**Natürlich auch an alle die jede Woche mitspielen :heart:**  
+**Natürlich auch an alle die jede Woche mitspielen <3**  
   
   
 **Sorry wenn ich jemanden vergessen habe!**  
