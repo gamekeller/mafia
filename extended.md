@@ -39,6 +39,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   
 ### **Cop**
   
+  
 **Alias**  
 * Polizist  
 * Fahrkartenkontrolleur  
