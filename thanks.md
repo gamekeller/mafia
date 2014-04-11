@@ -20,7 +20,7 @@ base_url: "../"
   
 **... für die Rollen die sie eingesendet haben.**  
   
-* hrnch02
+* [hrnch02] (http://lkd.to/hnrch02)
 
 **... für das erstellen der Webseite.**
   
