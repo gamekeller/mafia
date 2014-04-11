@@ -33,8 +33,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 **Augenmerk des Spielleiters**  
 * Ein Normaler Anständiger Bürger!  
 
+***
 
-## **Aufdeckrollen**
+## **Aufdeckrollen (Town)**
   
 
   
@@ -65,10 +66,13 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 *Der Busfahrer kann zwei Spieler vertauschen. Das bedeutet, dass ebenfalls die Rollen vertauscht werden. Der Cop bekommt also ebenfalls die Rolle des getauschten, statt des eigentlichen Ziels.  
 * Dem Cop wird nur “Mafia” oder “Town” angezeigt. Drittparteitrollen werden als Town angezeigt.  
 
-**Varianten**  
-* “Bastard-Spielleiter I”, er bekommt immer das Gegenteil der eigentlichen Gesinnung raus.  
-* “Bastard-Spielleiter II”, er bekommt immer eine zufällige Gesinnung raus. (Coin-Flip)  
-* “Psycho-Cop (Kira)”, jeder, den er überprüft, (ugs. checkt) stirbt.  
+**Varianten** 
+
+* “Bastard-Spielleiter I”, er bekommt immer das Gegenteil der eigentlichen Gesinnung raus.
+
+* “Bastard-Spielleiter II”, er bekommt immer eine zufällige Gesinnung raus. (Coin-Flip)
+
+* “Psycho-Cop (Kira)”, jeder, den er überprüft, (ugs. checkt) stirbt.
 
 
 ### **Detektiv**  
@@ -89,36 +93,42 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 * Der Busfahrer kann zwei Spieler vertauschen. Dies bedeutet, dass ebenfalls die Rollen  vertauscht werden. Der Detektiv bekommt also ebenfalls die Rolle des Getauschten, statt des eigentlichen Zieles.  
 * Dem Detektiv wird die Gesinnung und die Rolle angezeigt, also es wird “Mafia” oder “Town/Doctor” angezeigt.   Drittparteitrollen werden als das angezeigt, was sie sind.  
   
-####Orakel  
+### **Orakel**  
 
 **Fähigkeit**  - Die Rolle einer vom Orakel ausgewählten Spieler wird beim Tod des Orakels offenbart.  
   
 **Tipp:**  
+
 * Seine Rolle am Anfang des Spiels bekannt zu geben, erweist sich oft als intelligenter Spielzug, da die Mafiosi wahrscheinlich Angst haben dich zu töten.  
   
 **Schwierigkeitsgrad: Einfach**  
   
 **Augenmerk des Spielleiters**  
+
 * Offenbaren heißt in dem Fall, es wird deutlich vom Spielleiter verkündet.  
   
   
-####Hypnotiseur  
+### **Hypnotiseur**  
   
 **Fähigkeit** - Durch seine hypnotische Fähigkeit kann der Hypnotiseur in zwei verschiedenen Nächten die Rollen von anderen Spielern aufdecken, sofern er die Nacht überlebt. Der hypnotisierte Spieler muss seine Rolle in den ersten 10 Sekunden zu Beginn der Tagphase laut und deutlich preisgeben. Kommt der hynotisierte Spieler dieser Vorgabe nicht nach, wird er vom Spielleiter aus dem Spiel genommen, und zählt fortan zu den Toten von Kellytown (ugs. Modkill)  
   
 **Tipps**  
-* Probiere die anderen Spieler zu überzeugen, dass es wichtig ist, dass die Spieler in den ersten 10 Sekunden die Klappe halten, damit du hören kannst was der hypnotisierte Spieler zu seiner Rolle sagt.  
-* Du musst die ganze Nacht am leben bleiben um jemanden zu hypnotisieren, also ist es vielleicht nicht so intelligent, seine Rolle am Anfang des Spieles zu benutzen.  
+
+* Probiere die anderen Spieler zu überzeugen, dass es wichtig ist, dass die Spieler in den ersten 10 Sekunden die Klappe halten, damit du hören kannst was der hypnotisierte Spieler zu seiner Rolle sagt.
+
+* Du musst die ganze Nacht am leben bleiben um jemanden zu hypnotisieren, also ist es vielleicht nicht so intelligent, seine Rolle am Anfang des Spieles zu benutzen.
   
 **Schwierigkeitsgrad: Schwer**  
   
-**Augenmerk des Spielleiters**  
+**Augenmerk des Spielleiters**
+
 * Die 10 Sekunden sind ein ungefährer Richtwert, wenn der Spielleiter Lust hat, kann er auch am Anfang jeder Runde von 10 zu 0 runterzählen.  
+ 
 * Die Rolle preiszugeben ist immer eine heikle Sache, der Spielleiter muss ganz genau darauf achten.  
   
   
 
-####Mathematiker  
+### **Mathematiker**
   
 **Fähigkeit** - Der Mathematiker sucht sich eine beliebige Anzahl an Mitspielern aus, die nicht der Gesamtanzahl an Mitspielern entsprechen darf. Der Spielleiter teilt daraufhin den Spielern die Anzahl von Mafiosi oder wahlweise Kultanhängern mit, die sich unter den Mitspielern befinden. Nach Nutzung seiner Fähigkeit stirbt der Mathematiker.  
   
