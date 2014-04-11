@@ -660,7 +660,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 * Die Grenzen sind unendlich! Es ist nicht schwer, ein eigenes Ziel zu suchen. Auch ein guter Weg für den Spielleiter, um Ideen für die Rolle zu testen!
 
 
-####Brandstifter
+#### Brandstifter
 
 **Fähigkeit** - Er ist nachts in der Lage Häuser (Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden, in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird von Detektiv/Cop als Mafioso angezeigt.
 
