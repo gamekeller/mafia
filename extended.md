@@ -36,15 +36,20 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 ## **Aufdeckrollen**
   
+
   
 ### **Cop**
   
   
 **Alias**  
-* Polizist  
-* Fahrkartenkontrolleur  
-* Strafzettelverteiler  
-* Scout  
+
+- Polizist  
+
+- Fahrkartenkontrolleur  
+
+- Strafzettelverteiler  
+
+- Scout  
   
 **Fähigkeit** - Der Cop ist in der Lage, jede Nacht eine Spieler zu überprüfen (ugs. checken). Er erhält Informationen über die Gesinnung der jeweiligen Person. (Neutrale Rollen werden als Town angezeigt)  
 
@@ -65,7 +70,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 * “Bastard-Spielleiter II”, er bekommt immer eine zufällige Gesinnung raus. (Coin-Flip)  
 * “Psycho-Cop (Kira)”, jeder, den er überprüft, (ugs. checkt) stirbt.  
 
-#### Detektiv  
+
+### **Detektiv**  
   
 **Fähigkeit** - Auch der Detektiv kann jede Nacht einen Spieler überprüfen. Der Unterschied zum Cop ist, dass sowohl die Gesinnung, als auch die Rolle mitgeteilt wird. Hierbei ist besonders das gegenseitige Wirken von Gärtner und Pate zu beachten.  
 
