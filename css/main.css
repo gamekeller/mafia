@@ -208,6 +208,27 @@ img {
   border-radius: 5px;
 }
 
+img.emoji {
+  display: inline-block;
+  vertical-align: baseline;
+  border-radius: 0;
+  margin: 0;
+}
+
+.table-bordered {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.table-bordered a {
+  font-weight: 400;
+}
+
+.table-bordered th a {
+  font-size: 24px;
+  font-weight: 600;
+}
+
 
 /* Links
 -------------------------------------------------- */

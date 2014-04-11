@@ -3,4 +3,10 @@ markdown:     kramdown
 permalink:    pretty
 exclude:      ["node_modules", "CNAME", "Gruntfile.js", "LICENSE", "package.json", "README.md"]
 
+kramdown:
+  auto_ids: false
+
+gems:
+  - jemoji
+
 version:       0.3.0

@@ -8,13 +8,40 @@ base_url: "../"
 
 Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie nicht!
 
+[Town](#town) | [Mafia](#mafia) | [Third Party](#third-party)
+------------- | --------------- | ---------------------------
+[Bürger](#buerger) | [Goon](#goon) | [Der Narr](#narr)
+[Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
+[Detektiv](#detektiv) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
+[Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
+[Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
+[Mathematiker](#mathematiker) | [Hure](#hure) | [Schleimer](#schleimer)
+[Petze](#petze) | [Terrorist](#terrorist) | [Prominenter](#prominenter)
+[Maler](#maler) | | [Brandstifter](#brandstifter)
+[Arzt](#arzt) | |
+[Busfahrer](#busfahrer) | |
+[Bildhauer](#bildhauer) | |
+[Justizvollzugsbeamter](#justizvollzugsbeamter) | |
+[Samurai](#samurai) | |
+[Verrückter Hutmacher](#verrueckter-hutmacher) | |
+[Veteran](#veteran) | |
+[Amor](#amor) | |
+[Gärtner](#gaertner) | |
+[Judas](#judas) | |
+[Geist](#geist) | |
+[Barbar](#barbar) | |
+[Freimaurer](#freimaurer) | |
+{: #toc .table-bordered}
+
 ***
 
 # Town
+{: #town}
 
 - ## **Allgemeine Rollen**
 
   - ### **Bürger**
+      {: #buerger}
 
       **Alias**:
 
@@ -36,6 +63,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 - ## **Aufdeckrollen**
 
   - ### **Cop**
+      {: #cop}
 
       **Alias**:
 
@@ -67,6 +95,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Psycho-Cop (Kira)”, jeder, den er überprüft, (ugs. checkt) stirbt.
 
   - ### **Detektiv**
+      {: #detektiv}
 
       **Fähigkeit**: Auch der Detektiv kann jede Nacht einen Spieler überprüfen. Der Unterschied zum Cop ist, dass sowohl die Gesinnung, als auch die Rolle mitgeteilt wird. Hierbei ist besonders das gegenseitige Wirken von Gärtner und Pate zu beachten.
 
@@ -87,6 +116,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Dem Detektiv wird die Gesinnung und die Rolle angezeigt, also es wird “Mafia” oder “Town/Doctor” angezeigt.   Drittparteitrollen werden als das angezeigt, was sie sind.
 
   - ### **Orakel**
+      {: #orakel}
 
       **Fähigkeit**: Die Rolle einer vom Orakel ausgewählten Spieler wird beim Tod des Orakels offenbart.
 
@@ -98,6 +128,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 
   - ### **Hypnotiseur**
+      {: #hypnotiseur}
 
       **Fähigkeit**: Durch seine hypnotische Fähigkeit kann der Hypnotiseur in zwei verschiedenen Nächten die Rollen von anderen Spielern aufdecken, sofern er die Nacht überlebt. Der hypnotisierte Spieler muss seine Rolle in den ersten 10 Sekunden zu Beginn der Tagphase laut und deutlich preisgeben. Kommt der hynotisierte Spieler dieser Vorgabe nicht nach, wird er vom Spielleiter aus dem Spiel genommen, und zählt fortan zu den Toten von Kellytown (ugs. Modkill)
 
@@ -114,6 +145,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Die Rolle preiszugeben ist immer eine heikle Sache, der Spielleiter muss ganz genau darauf achten.
 
   - ### **Mathematiker**
+      {: #mathematiker}
 
       **Fähigkeit**: Der Mathematiker sucht sich eine beliebige Anzahl an Mitspielern aus, die nicht der Gesamtanzahl an Mitspielern entsprechen darf. Der Spielleiter teilt daraufhin den Spielern die Anzahl von Mafiosi oder wahlweise Kultanhängern mit, die sich unter den Mitspielern befinden. Nach Nutzung seiner Fähigkeit stirbt der Mathematiker.
 
@@ -133,6 +165,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Du sagst den Spielern wie viele Mafiosi oder Kultanhänger sich unter den Ausgewählten befinden. Zum Beispiel: “Unter den 5 Ausgewählten Spielern befinden sich 3 Mafiosi”
 
   - ### **Petze**
+      {: #petze}
 
       **Alias**:
 
@@ -154,6 +187,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
   - ### **Maler**
+      {: #maler}
 
       **Alias**:
 
@@ -177,6 +211,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 - ## **Rettungsrollen**
 
   - ### **Arzt**
+      {: #arzt}
 
       **Alias**:
 
@@ -204,6 +239,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Mafia-Engel”, der Doktor ist ganz klar auf der Seite der Mafia und auch im Chat zum lesen. Er rettet die Mafiosi vor dem Veteran und ähnlichen Rollen.
 
   - ### **Busfahrer**
+      {: #busfahrer}
 
       **Alias**:
 
@@ -226,6 +262,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: Busfahrer kann sich selbst nicht Tauschen.
 
   - ### **Bildhauer**
+      {: #bildhauer}
 
       **Alias**: “Die Rolle, die wie ein One-Up Pilz in Mario funktioniert”
 
@@ -246,6 +283,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
   - ### **Justizvollzugsbeamter**
+      {: #justizvollzugsbeamter}
 
       **Alias**:
 
@@ -271,6 +309,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 - ## **Mörderrollen**
 
   - ### **Samurai**
+      {: #samurai}
 
       **Fähigkeit**: Tötet jede Nacht einen beliebigen Spieler. Sollte das Ziel kein Mafiosi sein, begeht der Samurai ehrenhaften Selbstmord [Seppuku]. (In der ersten Nacht handlungsunfähig)
 
@@ -290,6 +329,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 
   - ### **Verrückter Hutmacher**
+      {: #verrueckter-hutmacher}
 
       **Alias**:
 
@@ -315,6 +355,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: Der Hutmacher kann die Bombe vor seinem Tod entschärfen.
 
   - ### **Veteran**
+      {: #veteran}
 
       **Alias**: Vigilante
 
@@ -337,6 +378,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 - ## **Besondere Rollen auf Seiten der Town**
 
   - ### **Amor**
+      {: #amor}
 
       **Fähigkeit**: In der ersten Nacht verkuppelt Amor zwei Spieler. Sobald einer dieser Spieler stirbt, geschieht es dem anderen ebenso. Nach genutzter Fähigkeit ist er ein normaler Bürger.
 
@@ -350,6 +392,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Im ganzen Spiel darauf achten, dass die zwei verkuppelt sind.
 
   - ### **Gärtner**
+      {: #gaertner}
 
       **Alias**: Miller
 
@@ -362,6 +405,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Detektiv schreiben, dass er Mafia ist und nicht Town.
 
   - ### **Judas**
+      {: #judas}
 
       **Fähigkeit**: Judas gewinnt, wenn die Bürger gewinnen. Falls er stirbt, bekommt er ein zweites Leben und gewinnt nur noch wenn die Mafiosi gewinnen.
 
@@ -378,6 +422,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Judas zählt nicht in der Rechnung: Spieler = Mafia win.
 
   - ### **Geist**
+      {: #geist}
 
       **Alias**: Ghost
 
@@ -396,6 +441,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 - ## **Mutierte Bürgerrollen**
 
   - ### **Barbar**
+      {: #barbar}
 
       **Fähigkeit**: Er zählt als normaler Bürger. Allerdings setzt sein Tod durch einen Angriff der Mafia erst in der Nacht darauf ein.
 
@@ -404,6 +450,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Schwierigkeitsgrad**: Einfach - Mittel
 
   - ### **Freimaurer**
+      {: #freimaurer}
 
       **Alias**: Die Verbundenen
 
@@ -417,10 +464,12 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 
 # Mafia
+{: #mafia}
 
 - ## **Vollmitglieder**
 
   - ### **Mafia Goon**
+      {: #goon}
 
       **Alias**:
 
@@ -436,6 +485,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Mafia-Mitglieder dürfen nur nachts schreiben.
 
   - ### **Pate**
+      {: #pate}
 
       **Fähigkeit**: Der Detektiv erkennt den Paten als Bürger. Der Mafia Goon dient nur als Berater, wenn der Pate im Spiel ist.
 
@@ -453,6 +503,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   *Identität ist bekannt; Teilnahme am Mafia Chat erfolgt nur durch lesen, nicht durch schreiben.*
 
   - ### **Heckenschütze**
+      {: #heckenschuetze}
 
       **Alias**: Mafia Veteran
 
@@ -470,6 +521,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 
   - ### **Voodoo-Puppe**
+      {: #voodoo-puppe}
 
       **Alias**: Voodoo Schamane
 
@@ -487,6 +539,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Schauen, dass der Spieler nichts im Mafia Chat schreibt!
 
   - ### **Anwalt**
+      {: #anwalt}
 
       **Alias**: Schneider/in
 
@@ -504,6 +557,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 
   - ### **Hure (Role Block)**
+      {: #hure}
 
       **Alias**:
 
@@ -522,6 +576,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Wenn ein Spieler geblockt wird, einfach “Du wurdest von der Hure geblockt!” schreiben.
 
   - ### **Terrorist**
+      {: #terrorist}
 
       **Fähigkeit**: In der Tag-Phase kann er ein Selbstmordattentat begehen. Dies ist auch während der Verteidigung bei einer Nominierung möglich.
 
@@ -532,8 +587,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Achte auf den Terroristen, wenn er etwas sagt.
 
 # Thrid Party Roles *(Drittpartei-Rollen)*
+{: #third-party}
 
   - ### **Der Narr**
+      {: #narr}
 
       **Alias**:
 
@@ -555,6 +612,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: “Schärfer”, er muss erst in der Nacht von den Mafiosi “getötet” werden und danach von den Bürgern am Tag darauf gelyncht werden.
 
   - ### **Lyncher**
+      {: #lyncher}
 
       **Ziel**: Du musst einen vom Spielleiter bestimmten Spieler dazu kriegen, gelyncht zu werden.. Sollte diese Person dann gelyncht werden, hast du gewonnen. Sollte sie anders sterben, hast du verloren.
 
@@ -565,6 +623,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: “Mit Lynchee”, diese Variante wird mit einer weiteren Rolle gespielt. Dem Lynchee, dessen Ziel es ist, nicht durch lynchen getötet zu werden (ugs. gelynch-killt)
 
   - ### **Golem**
+      {: #golem}
 
       **Alias**: Jüdischer Golem
 
@@ -579,6 +638,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: “Steiniger Golem”, Der Golem hat ein Steinumhang, was ihm ein extra Leben gibt. (Siehe Bildhauer)
 
   - ### **Kultmeister**
+      {: #kultmeister}
 
       **Fähigkeit**: In der ersten Nacht wählt der Kultmeister sein erstes Mitglied. Der gewählte Spieler erhält die Information, wer der Kultmeister ist. Jede weitere Nacht erweitert er seine Reihen um einen Spieler seiner Wahl. Dieser verliert seine alte Rolle. Gewonnen hat der Kultmeister erst, sobald alle Spieler dem Kult angehören oder tot sind. Beim Tod des Kultmeisters sterben seine Anhänger ebenfalls.
 
@@ -595,6 +655,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: “Gedanken Leser”, der Kultmeister bekommt mit seinem ersten Mitglied einen Chat, in dem sie Nachts schreiben dürfen. (ähnlich wie Mafia)
 
   - ### **Psychopath**
+      {: #psychopath}
 
       **Alias**:
 
@@ -610,6 +671,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Note: Psych**
 
   - ### **Schleimer**
+      {: #schleimer}
 
       **Fähigkeit**: Der Schleimer ist zu Beginn des Spiels neutral. Er nimmt die Rolle des ersten toten Spielers ein.
 
@@ -618,7 +680,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Der Schleimer wird nicht zum Kultmitglied, sondern zu der Rolle die dieser vor der Umwandlung hatte, aber nur wenn die Person in der gleichen Nacht zum Kultmitglied wurde.
 
 
-  - ### **Prominenter**
+  - ### :sparkles: **Prominenter** :sparkles:
+      {: #prominenter}
 
       **Beschreibung**: Jeder kennt deine Identität. Du bekommst ein Spielziel vom Spielleiter.
 
@@ -635,6 +698,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Die Grenzen sind unendlich! Es ist nicht schwer, ein eigenes Ziel zu suchen. Auch ein guter Weg für den Spielleiter, um Ideen für die Rolle zu testen!
 
   - ### **Brandstifter**
+      {: #brandstifter}
 
       **Fähigkeit**: Er ist nachts in der Lage Häuser (Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden, in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird von Detektiv/Cop als Mafioso angezeigt.
 
