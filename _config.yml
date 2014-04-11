@@ -1,5 +1,5 @@
 name:         Mafia
-markdown:     redcarpet
+markdown:     kramdown
 permalink:    pretty
 exclude:      ["node_modules", "CNAME", "Gruntfile.js", "LICENSE", "package.json", "README.md"]
 
