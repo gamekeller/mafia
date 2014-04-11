@@ -10,10 +10,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   
 ***  
   
-##**Town**  
+## **Town**  
   
   
-###**Bürger** 
+### **Bürger** 
   
   
 **Alias**  
@@ -34,10 +34,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 * Ein Normaler Anständiger Bürger!  
 
 
-###Aufdeckrollen  
+### Aufdeckrollen  
   
   
-####Cop  
+#### Cop  
   
 **Alias**  
 * Polizist  
@@ -64,7 +64,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 * “Bastard-Spielleiter II”, er bekommt immer eine zufällige Gesinnung raus. (Coin-Flip)  
 * “Psycho-Cop (Kira)”, jeder, den er überprüft, (ugs. checkt) stirbt.  
 
-####Detektiv  
+#### Detektiv  
   
 **Fähigkeit** - Auch der Detektiv kann jede Nacht einen Spieler überprüfen. Der Unterschied zum Cop ist, dass sowohl die Gesinnung, als auch die Rolle mitgeteilt wird. Hierbei ist besonders das gegenseitige Wirken von Gärtner und Pate zu beachten.  
 
