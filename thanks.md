@@ -18,13 +18,13 @@ base_url: "../"
 * [KleinGala] (https://twitter.com/kleinGala)
 * Börny 
   
-**... für die Rollen die sie eingesendet haben.**  
+**... für die Rollen die, sie eingesendet haben.**  
   
 * [hrnch02] (http://lkd.to/hnrch02)
 
-**... für das erstellen der Webseite.**
+**... für das Erstellen der Webseite.**
   
-**Natürlich auch an alle die jede Woche mitspielen <3**  
+**Natürlich auch an alle, die jede Woche mitspielen <3**  
   
   
-**Sorry wenn ich jemanden vergessen habe!**  
+**Sorry, wenn ich jemanden vergessen habe!**  
