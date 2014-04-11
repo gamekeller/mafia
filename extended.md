@@ -531,7 +531,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp für den *Spielleiter***: Achte auf den Terroristen, wenn er etwas sagt.
 
-- ## **Thrid Party Roles** (Drittpartei Rollen)
+# Thrid Party Roles *(Drittpartei-Rollen)*
 
   - ### **Der Narr**
 
