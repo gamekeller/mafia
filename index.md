@@ -4,7 +4,8 @@ title: Allgemein
 base_url: "./"
 ---
 
-# <a id="setup"></a>Spielaufbau
+# Spielaufbau
+{: #setup}
 
 ## Allgemeines
 
@@ -36,7 +37,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 ---
 
-# <a id="roles"></a>Rollen
+# Rollen
+{: #roles}
 
 ## Town
 
@@ -122,7 +124,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 ---
 
-# <a id="rules"></a>Regeln
+# Regeln
+{: #rules}
 
 1. Wenn die Nacht-Phase anfängt, schalten sich alle Spieler stumm außer der Spielleiter.
 2. Seid fair, freundlich und witzig.
