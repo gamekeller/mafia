@@ -130,7 +130,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 4. Wenn du fragen hast, bitte per Private Chat den Spielleiter fragen.
 5. Wer sich daneben benimmt, wird vom Spielleiter gekickt bzw. aus dem Spiel genommen. (ugs. Mod kill)
 6. Tote Personen können nicht reden und sollten sich bitte auch daran halten. (stumm schalten!)
-7. Es wird nicht im Private Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Der Spielleiter kann jeder Zeit angeschrieben werden.
+7. Es wird **nicht** im privaten Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Dies gilt ausnahmlos für alle Rollen. Der Spielleiter kann jeder Zeit angeschrieben werden. 
 8. Das Hosten ist echt schwer und manchmal dauert die Nacht 0 ein bisschen, übt euch also bitte ein wenig in Geduld. Das ist so schon nicht ganz so easy!
 
 
