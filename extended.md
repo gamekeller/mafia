@@ -292,7 +292,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Jailkeeper
       * Wärter
 
-      **Fähigkeit**: Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch nicht mehr ihre Fähigkeit benutzen.
+      **Fähigkeit**: Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch nicht mehr seine Fähigkeit benutzen.
 
       **Tipps**:
 
