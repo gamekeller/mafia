@@ -135,5 +135,4 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 6. Tote Personen können nicht reden und sollten sich bitte auch daran halten. (stumm schalten!)
 7. Es wird **nicht** im privaten Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Dies gilt ausnahmlos für alle Rollen. Der Spielleiter kann jeder Zeit angeschrieben werden. 
 8. Das Hosten ist echt schwer und manchmal dauert die Nacht 0 ein bisschen, übt euch also bitte ein wenig in Geduld. Das ist so schon nicht ganz so easy!
-
-
+9. Ein Spieler kann niemals Selbstmord begehen, außer, wenn jener Spieler in einer Mafia Support Rolle der Stufe I oder II spielt und der **letzte** verbleibende Mafiosi ist.
