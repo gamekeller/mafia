@@ -20,7 +20,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Maler](#maler) | | [Brandstifter](#brandstifter)
 [Arzt](#arzt) | |
 [Busfahrer](#busfahrer) | |
-[Ausrüster](#ausrüster) | |
+[Ausrüster](#ausruester) | |
 [Justizvollzugsbeamter](#justizvollzugsbeamter) | |
 [Samurai](#samurai) | |
 [Verrückter Hutmacher](#verrueckter-hutmacher) | |
@@ -264,7 +264,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Variante**: Busfahrer kann sich selbst nicht Tauschen.
 
   - ### **Ausrüster**
-      {: #ausrüster}
+      {: #ausruester}
 
       **Alias**:
 
