@@ -20,7 +20,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Maler](#maler) | | [Brandstifter](#brandstifter)
 [Arzt](#arzt) | |
 [Busfahrer](#busfahrer) | |
-[Bildhauer](#bildhauer) | |
+[Ausrüster](#ausrüster) | |
 [Justizvollzugsbeamter](#justizvollzugsbeamter) | |
 [Samurai](#samurai) | |
 [Verrückter Hutmacher](#verrueckter-hutmacher) | |
@@ -183,6 +183,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * Die Petze kann sich nicht selber auswählen. Sonst wäre sie ja ein Cop.
       * Die Petze “petzt” die Rolle und Gesinnung herum, also bekommt der Zielspieler  Gesinnung und Rolle gesagt.
+      * Die Petze braucht die ganze Nacht um ihre Fähigkeit zu benutzen sollte sie also getötet werden passiert nichts.
+      * In der esten Nacht kann sie Petze noch nichts machen ähnlich wie der Samurai. 
 
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
@@ -261,24 +263,28 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Variante**: Busfahrer kann sich selbst nicht Tauschen.
 
-  - ### **Bildhauer**
-      {: #bildhauer}
+  - ### **Ausrüster**
+      {: #ausrüster}
 
-      **Alias**: “Die Rolle, die wie ein One-Up Pilz in Mario funktioniert”
+      **Alias**:
 
-      **Fähigkeit**: Der Bildhauer fertigt eine Statue oder einen Steinumhang an, welcher dem Spieler ähnelt. Das rettet ihn oder sie einmal, sozusagen ein zweites Leben. Der Bildhauer kann nur eine Statue pro Spiel  anfertigen.
+      * Bildhauer
+      * Die Rolle, die wie ein One-Up Pilz in Mario funktioniert
 
-      **Tipp**: Keine Tipps bekannt/Wurde noch nicht gespielt
+      **Fähigkeit**: Der Ausrüster vergibt eine Schutzweste. Das rettet ihn oder sie einmal, sozusagen ein zweites Leben. Der Ausrüster kann nur eine Schutzweste pro Spiel vergeben.
 
-      **Schwierigkeitsgrad**: ???
+      **Tipp**: Höre genau zu, da du auch den Mafiosi deine Schutzweste geben kannst.
+
+      **Schwierigkeitsgrad**: Anspruchsvoll
 
       **Tipps für den *Spielleiter***:
 
       * Der Spieler ist dann wie ein Barbar. Allerdings stirbt er nicht in der Runde danach, sondern erst, wenn sie im Prinzip zwei mal getötet worden ist.
-      * [Der Steinumhang wird beim Lynchen ignoriert?](http://strawpoll.me/1459487)
-      * [Soll dem Spieler mitgeteilt werden wenn er eine Statur bekommen hat?](http://strawpoll.me/1459489)
+      * Die Schutzweste wird beim Lynchen ignoriert
+      * Dem Spieler wird mitgeteilt wenn er die Schutzweste erhält.
+      * Der Ausrüster kann sich selbst die Schutzweste nicht anlegen.
 
-      **Variante**: “Falscher Künstler”, Der Steinumhang (Die Statue) funktioniert nicht.
+      **Variante**: “1 von 5 Sternen Ausrüster”, Die Schutzweste hat löcher und funktioniert nicht.
 
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
@@ -292,19 +298,21 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Jailkeeper
       * Wärter
 
-      **Fähigkeit**: Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch nicht mehr seine Fähigkeit benutzen.
+      **Fähigkeit**: Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er (Der eingesperrte Spieler) auch nicht mehr seine Fähigkeit benutzen. Die Fähigkeit kann er jede Nacht benutzten und sie gilt auch nur für die Nacht, die Person wird also nach der Nacht wieder Freigelassen.
 
       **Tipps**:
 
       * Wenn nur noch ein Mafiosi im Spiel ist, ist die Rolle prima um diesen zu finden.
       * Zum Retten einer Bestimmten Rolle ist es auch prima.
 
-      **Schwierigkeitsgrad**: ???
+      **Schwierigkeitsgrad**: Mittel
 
       **Tipps für den *Spielleiter***:
 
       * Achte als Spielleiter auf den Busfahrer. Es kann immer sein, dass das Ziel vom Busfahrer aus dem Gefängnis ausgetauscht wird.
       * Die Person ist nicht unsterblich! (Siehe: Verrückter Hutmacher)
+      * Er kann sich nicht selbst einsperren.
+      * Der Geist kann auch nicht eingesperrt werden.
 
 - ## **Mörderrollen**
 
@@ -426,7 +434,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Ghost
 
-      **Fähigkeit**: Jeder weiß, wer der Geist ist. Der Geist kann nicht gelyncht werden, allerdings darf er auch nicht mit lynchen. Der Geist zählt natürlich nicht zur Siegbedingung (Anzahl Mafia = Anzahl Town).
+      **Fähigkeit**: Jeder weiß, wer der Geist ist. Der Geist kann nicht nominiert werden, allerdings darf er auch nicht nominieren. Der Geist ist unsterblich. Der Geist zählt natürlich nicht zur Siegbedingung (Anzahl Mafia = Anzahl Town).
 
       **Protipp**: Du bist ein Geist!
 
@@ -436,7 +444,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * Der Geist darf nicht mitlynchen.
       * Der Geist zählt auch nicht in der Rechnung: Mafia Gewinnbedingungen.
-
+      * Am Anfang der Runde wird gesagt wer der Geist ist von Spielleiter ähnlich wie beim Prominenten. 
 
 - ## **Mutierte Bürgerrollen**
 
@@ -454,14 +462,16 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Die Verbundenen
 
-      **Fähigkeit**: Die Freimauerer kennen sich schon vor dem Spiel. Sie wissen also untereinander, dass sie Freimaurer sind.
+      **Fähigkeit**: Allen Freimaurern wird mitgeteilt, wer die anderen Freimaurer sind. Sie haben nicht die Erlaubnis zu chatten, es sei den es wird die Variante “Offene Sekte” gespielt, wo sie einen Chat bekommen.
 
-      **Tipp**: Die Freimaurer können einfach zusammenarbeiten und sich untereinander decken.
+
+      **Tipp**: Freimaurer können einfach zusammenarbeiten und sich gegenseitig decken bzw. bestätigen.
 
       **Schwierigkeitsgrad**: Einfach
 
       **Tipp für den *Spielleiter***: Der Spielleiter schreibt den Freimaurern einfach so was wie “Deine Brüder sind (hier andere Freimaurer einfügen)”
 
+      **Variante**: "Offene Sekte", die Freimaurer bekommen einen Chat, genau wie die Mafia, sowie die Mafia dürfen sie ihn nur nachts benutzen.
 
 # Mafia
 {: #mafia}
