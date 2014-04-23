@@ -1,7 +1,7 @@
 name:         Mafia
 markdown:     kramdown
 permalink:    pretty
-exclude:      ["node_modules", "CNAME", "Gruntfile.js", "LICENSE", "package.json", "README.md"]
+exclude:      ["CNAME", "LICENSE", "README.md"]
 
 kramdown:
   auto_ids: false
