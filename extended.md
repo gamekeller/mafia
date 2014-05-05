@@ -532,7 +532,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Voodoo Schamane
 
-      **Fähigkeit**: Sucht sich in der Nacht ein Ziel. Alles was der Voodoo-Puppe zustößt, geschieht nun auch mit dem ausgewähltem Spieler. Dieser Effekt hält auch tagsüber an.
+      **Fähigkeit**: Sucht sich jede Nacht ein Ziel aus. Alles was der Voodoo-Puppe zustößt, geschieht nun auch mit dem ausgewähltem Spieler. Dieser Effekt hält auch tagsüber an.
 
       **Tipp**: Solltest du am nächsten Tag gelyncht werden, ist es immer eine guter Tipp, eine Spezialrolle leiden zu lassen.
 
