@@ -280,6 +280,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipps für den *Spielleiter***:
 
+      * Der Ausrüster benötigt die ganze Nacht, um die Schutzweste einem Spieler anzulegen.
       * Jener Spieler, der von der Weste geschützt wird, gleicht einem Barbaren. Allerdings stirbt er nicht in der Runde danach, sondern erst, wenn er im Prinzip zwei mal getötet worden ist.
       * Die Schutzweste wird beim Lynchen ignoriert.
       * Dem geschützten Spieler wird mitgeteilt, dass er nun eine Schutzweste trägt.
