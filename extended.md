@@ -426,10 +426,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Schwierigkeitsgard**: Schwer
 
-      **Tipps für den *Spielleiter***:
-
-      * Judas verhält sich ähnlich wie ein Spieler mit einer Schutzweste.
-      * Judas zählt nicht in der Rechnung: Spieler = Mafia win.
+      **Tipp für den *Spielleiter***: Judas verhält sich ähnlich wie ein Spieler mit einer Schutzweste.
 
   - ### **Geist**
       {: #geist}
