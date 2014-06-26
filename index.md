@@ -122,6 +122,10 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 [**Brandstifter**](extended/#brandstifter) - Er ist nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird vom Detektiv/Cop als Mafioso angezeigt.
 
+## Modifier
+
+[**Bürgermeister**](extended/#buergermeister) - Der Bürgermeister wird am Anfang des Spiels ausgewählt. Bei der Wahl in der Lynchphase zählt seine Stimme doppelt. Wenn der Bürgermeister stirbt wird ein neuer ausgewählt.
+
 ---
 
 # Regeln
