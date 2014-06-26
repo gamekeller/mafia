@@ -315,6 +315,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipps für den *Spielleiter***:
 
+      * Der eingesperrte Spieler wird über seinen Aufenthalt in der Haftanstalt informiert.
       * Achte als Spielleiter auf den Busfahrer. Es kann immer sein, dass das Ziel vom Busfahrer aus dem Gefängnis ausgetauscht wird.
       * Die Person ist nicht unsterblich! (siehe “Verrückter Hutmacher”)
       * Der Justizvollzugsbeamter kann sich nicht selbst einsperren.
