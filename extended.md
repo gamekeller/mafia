@@ -718,3 +718,16 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Wenn ein Spieler präpariert wurde, schreib ihm einfach “Du hast den Geruch von Gas in der Nase!”.
 
       *Eingereicht von Blubb*
+
+  - ### **Bürgermeister**
+      {: #buergermeister}
+
+      **Alias**: Doublevoter
+
+      **Fähigkeit**: Seine Stimme zählt beim Lynchen das zweifache einer normalen Rolle. Er wird am Anfang des ersten Tages gewählt, oder durch den Spielleiter ausgewählt. Sollte es beim Lynchvote zum Gleichstand kommen, wird immer zu Gunsten der Wahl des Bürgermeisters entschieden. Beim Tod des Bürgermeister wird - nach den gleichen Regeln wie zuvor - ein neuer Bürgermeister ausgewählt.
+
+      **Schwierigkeitsgrad**: Mittel - Anspruchsvoll
+
+      **Tipp für den *Spielleiter***: Die Identität des Bürgermeisters ist immer bekannt.
+
+      *Eingereicht von Bujuhu*
