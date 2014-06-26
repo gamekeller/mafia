@@ -237,6 +237,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Achte als Spielleiter auf den Busfahrer. Es kann immer sein, dass das Ziel vom Arzt verwechselt wird.
       * Der Arzt hat nicht die Möglichkeit, denselben Spieler zwei Nächte hintereinander zu retten.
       * Der Arzt kann sich nicht selbst retten.
+      * Sollte eine Person durch den Liebesbund des Amors sterben, kann auch der Arzt nicht helfen.
 
       **Varianten**:
 
