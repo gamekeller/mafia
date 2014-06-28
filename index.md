@@ -112,7 +112,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 [**Golem**](extended/#golem) - Der Golem ist ein Mitglied der Town. Sollten alle Mafiosi tot sein, übernimmt der Golem die Aufgaben der Mafia. Dieser hat gewonnen, wenn sowohl die Mafia als auch die Town ausgelöscht ist.
 
-[**Kultmeister**]((extended/#kultmeister) - In der ersten Nacht wählt der Kultmeister sein erstes Mitglied. Der gewählte Spieler erhält die Information wer der Kultmeister ist. Jede weitere Nacht erweitert er seine Reihen um einen Spieler seiner Wahl. Dieser verliert seine alte Rolle. Gewonnen hat der Kultmeister erst, sobald alle Spieler dem Kult angehören oder tot sind. Bei Tod des Kultmeisters sterben seine Anhänger ebenfalls.
+[**Kultmeister**](extended/#kultmeister) - In der ersten Nacht wählt der Kultmeister sein erstes Mitglied. Der gewählte Spieler erhält die Information wer der Kultmeister ist. Jede weitere Nacht erweitert er seine Reihen um einen Spieler seiner Wahl. Dieser verliert seine alte Rolle. Gewonnen hat der Kultmeister erst, sobald alle Spieler dem Kult angehören oder tot sind. Bei Tod des Kultmeisters sterben seine Anhänger ebenfalls.
 
 [**Psychopath**](extended/#psychopath) - Gewinnt durch das Töten von Spielern in der Nacht.
 
