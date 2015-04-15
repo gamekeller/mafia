@@ -19,6 +19,7 @@ Das Spiel ist in mehrere Phasen unterteilt.
 In der Nacht werden alle Handlungen der nachtaktiven Rollen getätigt..
 Die Mafiosi bringen eine Person um, der Arzt versucht jemanden zu retten,
 der Cop überprüft einen Spieler usw..
+In der Nacht werden erst die Aktionen der Third Party dann der Town und zu letzt der Mafia ausgeführt.
 
 ### Der Morgen (Zwischen Phase)
 In dieser Phase werden nur die nächtlich Verstorbenen verkündet.
@@ -62,11 +63,11 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 [**Ausrüster**](extended/#ausrüster) - Der Ausrüster vergibt eine Schutzweste. Das rettet ihn oder sie einmal, sozusagen ein zweites Leben. Der Ausrüster kann nur eine Schutzweste pro Spiel vergeben.
 
-[**Justizvollzugsbeamter**](extended/#justizvollzugsbeamter) - Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch seine Fähigkeit nicht mehr benutzen.
+[**Jailer**](extended/#jailer) - Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch seine Fähigkeit nicht mehr benutzen.
 
 [**Samurai**](extended/#samurai) - Tötet jede Nacht einen beliebigen Spieler. Sollte das Ziel kein Mafiosi sein, begeht der Samurai ehrenhaften Selbstmord. (In der ersten Nacht handlungsunfähig)
 
-[**Verrückter Hutmacher**](extended/#verrueckter-hutmacher) - Kann eine Bombe an einer Person anbringen, die zündet sobald er stirbt.
+[**Hutmacher**](extended/#hutmacher) - Kann eine Bombe an einer Person anbringen, die zündet sobald er stirbt.
 
 [**Veteran**](extended/#veteran) - Er besitzt im gesamten Spiel nur eine Kugel im Lauf. Diese kann er in der Nacht auf jeden Spieler abfeuern.
 
@@ -86,9 +87,9 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 ### Vollmitglieder
 
-[**Mafia Goon**](extended/#goon) - Nimmt am Mafia Chat teil und wählt die Person aus, die getötet werden soll.
+[**Mafia Goon**](extended/#goon) - Nimmt am Mafia Chat teil und wählt die Person aus, die getötet werden soll, es sei den ein Pate ist im Spiel. 
 
-[**Pate**](extended/#pate) - Der Detektiv erkennt den Paten als Bürger. Wenn es ein Stechen gibt, kann der Pate zugunsten des Mafioso entscheiden.
+[**Pate**](extended/#pate) - Der Detektiv erkennt den Paten als Bürger. Der Pate entscheidet wer sterben soll.
 
 #### Supporter der Mafia Klasse I (Identität ist bekannt; Teilnahme am Mafia Chat erfolgt nur durch lesen, nicht durch schreiben)
 
@@ -122,7 +123,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 
 [**Brandstifter**](extended/#brandstifter) - Er ist nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird vom Detektiv/Cop als Mafioso angezeigt.
 
-[**Bürgermeister**](extended/#buergermeister) - Der Bürgermeister wird am Anfang des Spiels ausgewählt. Bei der Wahl in der Lynchphase zählt seine Stimme doppelt. Wenn der Bürgermeister stirbt, wird ein neuer ausgewählt.
+[**Bürgermeister**](extended/#buergermeister) - Der Bürgermeister wird am Anfang des Spiels ausgewählt. Bei der Wahl in der Lynchphase zählt seine Stimme doppelt.
 
 ---
 
@@ -136,5 +137,5 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und es
 5. Wer sich daneben benimmt, wird vom Spielleiter gekickt bzw. aus dem Spiel genommen. (ugs. Mod kill)
 6. Tote Personen können nicht reden und sollten sich bitte auch daran halten. (stumm schalten!)
 7. Es wird **nicht** im privaten Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Dies gilt ausnahmlos für alle Rollen. Der Spielleiter kann jeder Zeit angeschrieben werden.
-8. Das Hosten ist echt schwer und manchmal dauert die Nacht 0 ein bisschen, übt euch also bitte ein wenig in Geduld. Das ist so schon nicht ganz so easy!
+8. Das Hosten ist echt schwer und manchmal dauert die Nacht Null ein bisschen, übt euch also bitte ein wenig in Geduld. Das ist so schon nicht ganz so easy!
 9. Ein Spieler kann niemals Selbstmord begehen, außer, wenn jener Spieler in einer Mafia Support Rolle der Stufe I oder II spielt und der **letzte** verbleibende Mafiosi ist.

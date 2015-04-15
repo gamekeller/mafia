@@ -21,9 +21,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Arzt](#arzt) | | [Bürgermeister](#buergermeister)
 [Busfahrer](#busfahrer) | |
 [Ausrüster](#ausruester) | |
-[Justizvollzugsbeamter](#justizvollzugsbeamter) | |
+[Jailer](#jailer) | |
 [Samurai](#samurai) | |
-[Verrückter Hutmacher](#verrueckter-hutmacher) | |
+[Hutmacher](#hutmacher) | |
 [Veteran](#veteran) | |
 [Amor](#amor) | |
 [Gärtner](#gaertner) | |
@@ -245,7 +245,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Jungspund”: Es besteht eine 50/50 Chance, dass er sein Opfer umbringt.
       * “Möchtegern Doktor”: In Wirklichkeit macht er nichts, außer Pflaster auf Knochenbrüche zu kleben. Also ein Kurpfuscher.
       * “Mafia-Engel”: Der Arzt ist ganz klar auf der Seite der Mafia und liest auch im Chat mit. Er rettet die Mafiosi vor dem Veteran und ähnlichen Rollen.
-
+	  * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (Ja, auch Town und Thirdparty.) 
+	  
   - ### **Busfahrer**
       {: #busfahrer}
 
@@ -295,8 +296,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
-  - ### **Justizvollzugsbeamter**
-      {: #justizvollzugsbeamter}
+  - ### **Jailer**
+      {: #Jailer}
 
       **Alias**:
 
@@ -344,8 +345,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Fauler Samurai”: Leute sollten sterben, tun sie aber nicht.
 
 
-  - ### **Verrückter Hutmacher**
-      {: #verrueckter-hutmacher}
+  - ### **Hutmacher**
+      {: #hutmacher}
 
       **Alias**:
 
@@ -396,7 +397,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Amor**
       {: #amor}
 
-      **Fähigkeit**: Verkuppelt in der ersten Nacht zwei Spieler. Sobald einer dieser Spieler stirbt, geschieht es dem anderen ebenso. Nach genutzter Fähigkeit ist er ein normaler Bürger.
+      **Fähigkeit**: Verkuppelt in einer beliebigen Nacht zwei Spieler. Sobald einer dieser Spieler stirbt, geschieht es dem anderen ebenso. Nach genutzter Fähigkeit ist er ein normaler Bürger.
 
       **Tipps**:
 
@@ -726,7 +727,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Doublevoter
 
-      **Fähigkeit**: Seine Stimme zählt beim Lynchen das zweifache einer normalen Rolle. Er wird am Anfang des ersten Tages gewählt, oder durch den Spielleiter ausgewählt. Sollte es beim Lynchvote zum Gleichstand kommen, wird immer zu Gunsten der Wahl des Bürgermeisters entschieden. Beim Tod des Bürgermeister wird - nach den gleichen Regeln wie zuvor - ein neuer Bürgermeister ausgewählt.
+      **Fähigkeit**: Der Bürgermeister funktioniert wie eine zweite Rolle. Sie wird von dem Spielleiter zufällig verteilt am Anfang des Spiels. Der Spieler der die Bürgermeister Rolle zusätzlich bekommen hat eine doppelte Stimme in der Wahl des Lynchens.
 
       **Schwierigkeitsgrad**: Mittel - Anspruchsvoll
 
