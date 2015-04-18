@@ -297,7 +297,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
   - ### **Jailer**
-      {: #Jailer}
+      {: #jailer}
 
       **Alias**:
 
