@@ -97,7 +97,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Heckenschütze (Mafia Veteran)**](extended/#heckenschuetze) - Bringt einmal im Spiel jemanden um, am Tag. Dafür schreibt er es dem Spielleiter privat.
 
-[**Voodoo-Puppe**](extended/#voodoo-puppe) - In der Nacht sucht sich die Voodoo-Puppe ein Ziel. Sie wird bei einer Überprüfung als Mafiosi angezeigt.
+[**Voodoo-Puppe**](extended/#voodoo-puppe) - In der Nacht sucht sich die Voodoo-Puppe ein Ziel. Alles was ihr zustößt, geschieht nun auch mit der ausgewählten Person.
 
 [**Anwalt**](extended/#anwalt) - Hat die Fähigkeit einen Mafiosi eine Nacht lang als Bürger zu tarnen.
 
