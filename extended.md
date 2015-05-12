@@ -511,7 +511,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp für den *Spielleiter***: Schauen, dass der Spieler nichts im Mafia Chat schreibt!
 	  
-	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi sondern Bürger aus. Die für einen Detektiv oder Cop aussehen wie ein Mafiosi.
+	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi, sondern Bürger aus, die für den Detektiv und Cop aussehen wie Mafiosi.
 	  
 - ## **Supporter der Mafia Tier II**
 
@@ -652,10 +652,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipps für den *Spielleiter***:
 
-	  * Du solltest auch schauen das auch zwei Spieler mit einander verlinkt werden können, mittels der Fähigkeit des Amors.
-	  * Sollte ein Spieler zum Kultmitglied gemacht wird der Trickster als Kultmeister gezählt. 
+	  * Du solltest auch darauf achten, dass zwei Spieler durch die Fähigkeit des Amors miteinander verknüpft sein können.
+	  * Sollte durch die zufällig gewählte Aktion ein Spieler zum Kultmitglied werden, gilt der Trickster als Kultmeister. 
 	  
    - ### **Vampirmeister**
       {: #vampirmeister}
 
-      **Fähigkeit**: Der Vampirmeister funktioniert ähnlich wie der Kultmeister, er sucht jede Nacht einen Spieler aus der zum Vampir wird und auch dem Chat vom Vampirmeister beitritt. Sollte er sterben sterben auch seine Vampiranhänger. Sollten folgene Rollen den Vampirmeister oder ein Vampiranhänger in der Nacht wählen, stirbt dieser sofort: Hynotiseur, Detektiv, Cop, Arzt, Maler und Amor.
+      **Fähigkeit**: Der Vampirmeister funktioniert ähnlich wie der Kultmeister: Er sucht jede Nacht einen Spieler aus, welcher zum Vampir wird und auch dem Chat des Vampirmeisters beitritt. Sollte der Vampirmeister sterben, sterben alle seine Vampiranhänger mit ihm. Sollten folgende Rollen den Vampirmeister oder einen Vampiranhänger in der Nacht als Ziel ihrer Fähigkeit wählen, stirbt dieser sofort: Hypnotiseur, Detektiv, Cop, Arzt, Maler und Amor.

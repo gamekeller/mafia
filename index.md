@@ -28,7 +28,7 @@ In dieser Phase werden nur die nächtlich Verstorbenen verkündet.
 Am Tag haben die noch lebenden Spieler die Möglichkeit, Personen zuerst zu nominieren und anschließend zu lynchen. Es können beliebig viele Personen nominiert werden, sofern die Rundenzeit nicht abgelaufen ist. Es ist jedoch nur erlaubt, eine Person am Tag zu lynchen. Nach einer erfolgreichen Nominierung kann sich die ausgewählte Person verteidigen. Anschließend wird ein Lynch-Vote vorgenommen, mit der Möglichkeit für schuldig oder unschuldig zu stimmen.
 
 ### Hinrichtung (Zwischen Phase)
-Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und der gelyncht Spieler kann noch seine letzten Worte verkünden, danach beginnt die Nachtphase.
+Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und der gelynchte Spieler kann noch seine letzten Worte verkünden, danach beginnt die Nachtphase.
 
 ## Ziel
 
@@ -137,5 +137,5 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 1. Wenn die Nacht-Phase anfängt, schalten sich alle Spieler stumm außer der Spielleiter.
 2. Seid fair, freundlich und witzig.
 3. Mafiosi schreiben NUR nachts im Chat! (Andernfalls Mod kill)
-4. Tote Personen können nicht reden und sollten sich bitte auch daran halten. (stumm schalten!)
-5. Es wird **nicht** im privaten Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Dies gilt ausnahmlos für alle Rollen. Der Spielleiter kann jeder Zeit angeschrieben werden.
+4. Tote Personen können nicht reden und sollten sich bitte auch daran halten. (stummschalten!)
+5. Es wird **nicht** im privaten Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Dies gilt ausnahmlos für alle Rollen. Der Spielleiter kann jederzeit angeschrieben werden.
