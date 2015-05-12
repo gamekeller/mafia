@@ -125,7 +125,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Brandstifter**](extended/#brandstifter) - Er ist nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” zu töten.
 
-
+[**Trickster**](extended/#trickster) - Wählt zwei Spieler pro Nacht, dennen etwas zufälliges passiert. Gewinnt wenn alle tot sind.
 
 ---
 

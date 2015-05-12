@@ -18,7 +18,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Mathematiker](#mathematiker) | [Hure](#hure) | [Schleimer](#schleimer)
 [Petze](#petze) | [Terrorist](#terrorist) | [Prominenter](#prominenter)
 [Maler](#maler) | | [Brandstifter](#brandstifter)
-[Arzt](#arzt) | | [Bürgermeister](#buergermeister)
+[Arzt](#arzt) | | [Trickster](#trickster)
 [Busfahrer](#busfahrer) | |
 [Ausrüster](#ausruester) | |
 [Jailer](#jailer) | |
@@ -31,6 +31,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Geist](#geist) | |
 [Barbar](#barbar) | |
 [Freimaurer](#freimaurer) | |
+[Bürgermeister](#buergermeister) | |
 {: #toc .table-bordered}
 
 ***
@@ -58,8 +59,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Da der Bürger keine besonderen Fähigkeiten besitzt, wird er oft unterschätzt. Also hütet euch vor dem rachelüsternen Mob aus Bürgern.
       * Seine Rolle am Anfang zu offenbaren ist nicht immer intelligent, aber als Bürger wird man gerne von der Mafia unterschätzt.
 
-      **Schwierigkeitsgrad**: Mittel - Anspruchsvoll
-
       **Tipp für den *Spielleiter***: Ein normaler, anständiger Bürger!
 
 - ## **Aufdeckrollen**
@@ -84,8 +83,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Offensichtliche Bürger solltest du nicht überprüfen, da es nur eine Verschwendung deiner Fähigkeit wäre.
       * Du bist nicht gezwungen jede Nacht einen Spieler zu überprüfen, allerdings solltest du das dem Spielleiter schreiben.
 
-      **Schwierigkeitsgrad**: Mittel
-
       **Tipps für den *Spielleiter***:
 
       * Die Gesinnung wird für den Spieler als “Grün (Gut)” und “Rot (Böse)” ausgegeben. Der Spielleiter kann allerdings auch “Town/Nicht-Town”, “Schuldig/Unschuldig” oder “Mafia/Nicht-Mafia” verwenden.
@@ -103,22 +100,18 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Detektiv**
       {: #detektiv}
 
-      **Fähigkeit**: Überprüft—ähnlich dem Cop—jede Nacht einen Spieler. Der Unterschied zum Cop besteht darin, dass sowohl die Gesinnung, als auch die Rolle mitgeteilt wird. Hierbei ist besonders das gegenseitige Wirken von Gärtner und Pate zu beachten.
+      **Fähigkeit**: Überprüft—ähnlich dem Cop—jede Nacht einen Spieler. Der Unterschied zum Cop besteht darin, dass er eine ungefähre Rolle gesagt bekommt. Dabei hängen Pate und Gärtner, Arzt und Psychopath so wie Geist und Voodoo-Puppe zusammen.
 
       **Tipps**:
 
-      * Seine Rolle am Anfang zu offenbaren ist nicht immer intelligent.
       * Wenn du dich verteidigen musst, ist es meist ein guter Zeitpunkt seine Rolle zu offenbaren und den überprüften Spielerkreis der letzten Nächte wieder zu geben.
       * Aufpassen! Es kann immer sein, dass ein Busfahrer im Spiel ist.
       * Du bist nicht gezwungen, jede Nacht einen Spieler zu überprüfen, allerdings solltest du das dem Spielleiter mitteilen.
-      * Beachtet die Rolle des Gärtners und des Paten, diese werden anders angezeigt.
-      * Vielleicht ist es intelligent sich den Gärtner zu sichern um diesen als erstes heraus zu finden.
-
-      **Schwierigkeitsgrad**: Schwer
+      * Beachte das dir bei den Rollen Pate & Gärtner, Arzt & Psychpath so wie Geist und Voodoo-Puppe nur das Werkzeug ausgegeben wird.
 
       **Tipps für den *Spielleiter***:
 
-      * Der Busfahrer kann zwei Spieler vertauschen. Dies bedeutet, dass ebenfalls die Rollen  vertauscht werden. Der Detektiv bekommt also ebenfalls die Rolle des Getauschten, statt des eigentlichen Zieles.
+      * Der Busfahrer kann zwei Spieler vertauschen. Dies bedeutet, dass ebenfalls die Rollen vertauscht werden. Der Detektiv bekommt also ebenfalls die Rolle des Getauschten, statt des eigentlichen Zieles.
       * Dem Detektiv wird die Gesinnung und die Rolle angezeigt, also es wird “Mafia” oder “Town/Doctor” angezeigt.   Drittparteitrollen werden als das angezeigt, was sie sind.
 
   - ### **Orakel**
@@ -127,8 +120,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Fähigkeit**: Wählt zu Beginn des Spiels einen Spieler aus, dessen Rolle zum Todeszeitpunkt des Orakels offenbart wird.
 
       **Tipp**: Seine Rolle am Anfang des Spiels bekannt zu geben, erweist sich oft als intelligenter Spielzug, da die Mafiosi wahrscheinlich Angst haben werden dich zu töten.
-
-      **Schwierigkeitsgrad**: Einfach
 
       **Tipp für den *Spielleiter***: Offenbaren heißt in dem Fall, es wird deutlich vom Spielleiter verkündet.
 
@@ -143,8 +134,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Probiere die anderen Spieler zu überzeugen, dass es wichtig ist, dass die Spieler in den ersten zehn Sekunden die Klappe halten, damit du hören kannst, was der hypnotisierte Spieler zu seiner Rolle sagt.
       * Du musst die ganze Nacht am Leben bleiben, um jemanden zu hypnotisieren, also ist es vielleicht nicht so intelligent, deine Rolle am Anfang des Spieles zu benutzen.
 
-      **Schwierigkeitsgrad**: Schwer
-
       **Tipps für den *Spielleiter***:
 
       * Die zehn Sekunden sind ein ungefährer Richtwert, wenn der Spielleiter Lust hat, kann er auch am Anfang jeder Runde von 10 zu 0 runterzählen.
@@ -154,21 +143,11 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       {: #mathematiker}
 
       **Fähigkeit**: Sucht sich irgendwann am Tag eine beliebige Anzahl an Mitspielern aus und lässt den Spielleiter verraten, wie viele Mafiosi/Kultanhänger sich unter ebendiesen ausgewählten Spielern befinden. Nach Nutzung seiner Fähigkeit stirbt der Mathematiker. Die Anzahl an ausgewählten Spielern muss geringer als die Gesamtspieleranzahl sein.
-
-      **Tipps**:
-
-      * Dein Ergebnis ist immer gut! Wenn du vier Spieler auswählst und davon keiner Mafiosi ist, bringt das deinen Mitspielern trotzdem was.
-      * Du musst auswählen, ob du nach dem Kult oder nach den Mafiosi suchst.
-      * Wenn vier Spieler nominiert sind, ist es manchmal intelligent diese auszuwählen und mittels deiner Formel zu enttarnen.
-
-      **Schwierigkeitsgrad**: Mittel - Schwer (Setupbedingt)
-
+	  
       **Tipps für den *Spielleiter***:
 
       * Das Ergebnis wird allen Spielern mitgeteilt.
-      * Die Fähigkeit ist nur am Tag nutzbar.
-      * Er muss sich aussuchen, ob er nach dem Kult oder nach den Mafiosi sucht.
-      * Du sagst den Spielern, wie viele Mafiosi oder Kultanhänger sich unter den Ausgewählten befinden. Zum Beispiel: “Unter den fünf ausgewählten Spielern befinden sich drei Mafiosi”
+      * Er kann sich aussuchen, ob er nach dem Kult oder nach den Mafiosi sucht.
 
   - ### **Petze**
       {: #petze}
@@ -182,16 +161,11 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Die Petze sollte sehr wohl wissen, wen oder welche Rolle sie verpetzt.
 
-
-      **Schwierigkeitsgrad**: Anspruchsvoll
-
       **Tipps für den *Spielleiter***:
 
       * Die Petze kann sich nicht selber auswählen. Sonst wäre sie ja ein Cop.
-      * Die Petze “petzt” die Rolle und Gesinnung herum, also bekommt der Zielspieler Gesinnung und Rolle gesagt.
       * Die Petze braucht die ganze Nacht um ihre Fähigkeit zu benutzen. Sollte sie also getötet werden, passiert nichts.
-      * In der esten Nacht kann die Petze noch nichts machen, ähnlich wie der Samurai.
-
+	  
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
   - ### **Maler**
@@ -208,8 +182,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * Diese Rolle sollte seine Fähigkeit eher im späteren Spielverlauf einsetzen, da die Wahrscheinlichkeit von einem Treffer eher gering ist und dadurch nützliche Rollen zu früh aufgedeckt werden.
       * Mit dieser Rolle kann man Spieler in Zugzwang bringen. Das weiß auch die Mafia!
-
-      **Schwierigkeitsgrad**: Mittel
 
       **Tipp für den *Spielleiter***: Der Name des Malers wird mit dem Namen jenes Spielers, dessen Identität aufgedeckt wird, genannt.
 
@@ -230,8 +202,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Es ist schwer dem Arzt Tipps zu geben. Probiert einfach nicht die Mafiosi zu retten.
 
-      **Schwierigkeitsgrad**: Mittel
-
       **Tipps für den *Spielleiter***:
 
       * Achte als Spielleiter auf den Busfahrer. Es kann immer sein, dass das Ziel vom Arzt verwechselt wird.
@@ -245,7 +215,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Jungspund”: Es besteht eine 50/50 Chance, dass er sein Opfer umbringt.
       * “Möchtegern Doktor”: In Wirklichkeit macht er nichts, außer Pflaster auf Knochenbrüche zu kleben. Also ein Kurpfuscher.
       * “Mafia-Engel”: Der Arzt ist ganz klar auf der Seite der Mafia und liest auch im Chat mit. Er rettet die Mafiosi vor dem Veteran und ähnlichen Rollen.
-	  * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (Ja, auch Town und Thirdparty.) 
+	  * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (sowohl Town, Thirdparty also auch Mafiosi.) 
 	  
   - ### **Busfahrer**
       {: #busfahrer}
@@ -260,8 +230,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Fähigkeit**: Vertauscht die Plätze zweier Spieler. Dadurch werden Aktionen, die auf einen der vertauschten Spieler gerichtet werden, auf den anderen getauschten Spieler geleitet. (Gilt auch fürs Retten und für Überprüfungen)
 
       **Tipp**: Du kannst deine Rolle meistens preisgeben, da du dich einfach vertauschen kannst.
-
-      **Schwierigkeitsgrad**: Mittel
 
       **Tipps für den *Spielleiter***:
 
@@ -279,16 +247,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * ”Rolle, die wie ein One-Up Pilz in Mario funktioniert”
 
       **Fähigkeit**: Vergibt eine Schutzweste an einen anderen Spieler. Das rettet ebendiesen einmal und gewährt ihm sozusagen ein zweites Leben. Der Ausrüster kann nur eine einzige Schutzweste pro Spiel vergeben.
-
-      **Tipp**: Höre genau zu, da du auch einem der Mafiosi deine Schutzweste geben kannst.
-
-      **Schwierigkeitsgrad**: Anspruchsvoll
-
+	  
       **Tipps für den *Spielleiter***:
 
-      * Der Ausrüster benötigt die ganze Nacht, um die Schutzweste einem Spieler anzulegen.
-      * Jener Spieler, der von der Weste geschützt wird, gleicht einem Barbaren. Allerdings stirbt er nicht in der Runde danach, sondern erst, wenn er im Prinzip zwei mal getötet worden ist.
-      * Die Schutzweste wird beim Lynchen ignoriert.
       * Dem geschützten Spieler wird mitgeteilt, dass er nun eine Schutzweste trägt.
       * Der Ausrüster kann sich selbst die Schutzweste nicht anlegen.
 
@@ -312,9 +273,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * Sollte nur noch ein Mafiosi im Spiel sein, eignet sich diese Rolle um besagten Mafiosi aufzudecken.
       * Um einen bestimme Rolle vor der Mafia zu beschützen, eignet sich diese Rolle ebenfalls.
-
-      **Schwierigkeitsgrad**: Mittel
-
+	  
       **Tipps für den *Spielleiter***:
 
       * Der eingesperrte Spieler wird über seinen Aufenthalt in der Haftanstalt informiert.
@@ -329,8 +288,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       {: #samurai}
 
       **Fähigkeit**: Tötet jede Nacht einen beliebigen Spieler. Sollte das Ziel kein Mafiosi sein, begeht der Samurai ehrenhaften Selbstmord (“Seppuku”). Der Samurai ist in der nullten Nacht handlungsunfähig.
-
-      **Schwierigkeitsgrad**: Schwer
 
       **Tipps für den *Spielleiter***:
 
@@ -360,9 +317,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * Seine Bombe in der ersten Nacht auf einer Person zu platzieren, ist selten eine gute Idee.
       * Ein Bluff ist meist ein netter Plan.
-
-      **Schwierigkeitsgrad**: Anspruchsvoll
-
+	  
       **Tipps für den *Spielleiter***:
 
       * Die Bombe zündet auch, wenn der Hutmacher gelyncht wird.
@@ -383,8 +338,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Der Veteran sollte sich bedeckt halten.
       * Zuhören ist auch wichtig! Sollte der Schuss den falschen Spieler treffen, kann das die Town das Spiel kosten.
 
-      **Schwierigkeitsgard**: Mittel - Anspruchsvoll
-
       **Tipps für den *Spielleiter***: Der Veteran kommt vor der Mafia, was die Nachtaktionen angeht.
 
       **Varianten**:
@@ -404,8 +357,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Um seine Rolle als Bürger zu legitimieren, kann sie also ohne Bedenken preisegeben werden.
       * Die Information, wen man “verkuppelt” hat, kann man auch als Grund nennen, um am Leben zu bleiben.
 
-      **Schwierigkeitsgard**: Einfach
-
       **Tipp für den *Spielleiter***: Im ganzen Spiel darauf achten, dass zwei Spieler verkuppelt sind.
 
   - ### **Gärtner**
@@ -416,8 +367,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Fähigkeit**: Wird für den Detektiv als Mafiosi ausgegeben, spielt jedoch für die Town.
 
       **Tipp**: Damit der Detektiv dich nicht für einen Mafiosi hält, solltest du deine Rolle am besten preisgeben.
-
-      **Schwierigkeitsgard**: Einfach - Mittel
 
       **Tipp für den *Spielleiter***: Detektiv schreiben, dass der überprüfte Spieler Mafia ist und nicht Town.
 
@@ -431,8 +380,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Überlege dir einen Plan, bevor du zum bösen Judas wirst.
       * Solltest du am Tag hingerichtetet werden, hast du ein Problem.
 
-      **Schwierigkeitsgard**: Schwer
-
       **Tipp für den *Spielleiter***: Judas verhält sich ähnlich wie ein Spieler mit einer Schutzweste.
 
   - ### **Geist**
@@ -443,8 +390,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Fähigkeit**: Jeder weiß, wer der Geist ist. Der Geist kann nicht nominiert werden, allerdings darf er auch nicht nominieren. Der Geist ist unsterblich. Der Geist zählt natürlich nicht zur Siegbedingung (Anzahl Mafia = Anzahl Town).
 
       **Protipp**: Du bist ein Geist!
-
-      **Schwierigkeitsgrad**: Anspruchsvoll
 
       **Tipps für den *Spielleiter***:
 
@@ -461,8 +406,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Du überlebst einen Tag nachdem du getötet wurdest. Klingt komisch, aber das bringt dich außer Gefahr und du kannst deine Rolle ruhig preisgeben.
 
-      **Schwierigkeitsgrad**: Einfach - Mittel
-
   - ### **Freimaurer**
       {: #freimaurer}
 
@@ -472,12 +415,21 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Freimaurer können einfach zusammenarbeiten und sich gegenseitig decken beziehungsweise bestätigen.
 
-      **Schwierigkeitsgrad**: Einfach
-
       **Tipp für den *Spielleiter***: Schreib den Freimaurern einfach so etwas wie “Deine Brüder sind <andere Freimaurer>”
 
       **Variante**: "Offene Sekte": Die Freimaurer bekommen einen Chat, den sie—ähnlich der Mafia—nur nachts verwenden dürfen.
+  
+  - ### **Bürgermeister**
+      {: #buergermeister}
 
+      **Alias**: Doublevoter
+
+      **Fähigkeit**: Der Bürgermeister funktioniert wie eine zweite Rolle. Sie wird von dem Spielleiter zufällig verteilt am Anfang des Spiels. Der Spieler der die Bürgermeister Rolle zusätzlich bekommen hat eine doppelte Stimme in der Wahl des Lynchens.
+
+      **Tipp für den *Spielleiter***: Die Identität des Bürgermeisters ist immer bekannt.
+
+      *Eingereicht von Bujuhu*
+	  
 # Mafia
 {: #mafia}
 
@@ -495,20 +447,19 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Nutz die Zeit nachts und sprich dich mit deinen Mafia Kumpels ab.
 
-      **Schwierigkeitsgrad**: Anspruchsvoll
-
       **Tipp für den *Spielleiter***: Mafia-Mitglieder dürfen nur nachts schreiben.
 
+	  **Variante**
+	  
+	  * "Die schweigenden Lämmer": Es gibt keinen Mafia Chat. Keine weiß wer die anderen Mafiosi sind, außer der Pate, der auch die Tötungsbefehle gibt. Sollte der Pate sterben wird ein neuer Pate ausgewählt vom Spielleiter. 
+	  * "One Liner": Jedes Mitgleid der Mafiosi kann nur einen Nachricht pro Nacht schreiben. Sollte das nicht beachtet werden wird er gemodkillt. 
+	  
   - ### **Pate**
       {: #pate}
 
       **Fähigkeit**: Entscheidet im Alleingang, wer jede Nacht sterben soll. Der Detektiv erkennt den Paten als Bürger.
 
       **Tipp**: Lass dich von deinen Mafiosis beraten und ignoriere sie nicht.
-
-      **Schwierigkeitsgrad**: Mittel
-
-      **Tipp für den *Spielleiter***: Sei beim Überprüfen durch den Detektiv achtsam.
 
 - ## **Supporter der Mafia Tier I**
 
@@ -526,11 +477,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Sollte jemand viele Leute verdächtigen, ist es eine gute Idee ihn zu töten, sodass die Verwirrung groß ist.
       * Genaues Zuhören und schnelle Reaktionen sind gefragt.
       * Wenn du deine Fähigkeit benutzen willst, stupse am besten den Spielleiter an mit “Timeout! Ich möchte Person XY umbringen!”.
-
-      **Schwierigkeitsgrad**: Mittel - Anspruchsvoll
-
+	  
       **Tipp für den *Spielleiter***: Selbsterklärend! Im Prinzip nur schnell genug reagieren, vielleicht auch eine kleine Pause machen.
-
+      
+	  **Variante**: "Drunken Heckenschütze": Der Heckenschütze erschießt nicht sein Ziel sondern die Person die unter dem Ziel im TS ist. (Tobias Idee)
 
   - ### **Voodoo-Puppe**
       {: #voodoo-puppe}
@@ -540,8 +490,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Fähigkeit**: Sucht sich jede Nacht ein Ziel aus. Alles was der Voodoo-Puppe zustößt, geschieht nun auch mit dem ausgewähltem Spieler. Dieser Effekt hält auch tagsüber an.
 
       **Tipp**: Solltest du am nächsten Tag gelyncht werden, ist es immer eine guter Tipp, eine Spezialrolle leiden zu lassen.
-
-      **Schwierigkeitsgrad**: Anspruchsvoll
 
       **Tipps für den *Spielleiter***:
 
@@ -562,7 +510,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Schierigkeitsgrad**: Mittel
 
       **Tipp für den *Spielleiter***: Schauen, dass der Spieler nichts im Mafia Chat schreibt!
-
+	  
+	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi sondern Bürger aus. Die für einen Detektiv oder Cop aussehen wie ein Mafiosi.
+	  
 - ## **Supporter der Mafia Tier II**
 
   *Identität nicht bekannt; keine Teilnahme am Mafia Chat*
@@ -577,23 +527,14 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Fähigkeit**: Vergnügt sich jede Nacht mit einem Spieler, dessen Fähigkeiten dadurch blockiert werden.
 
-      **Tipp**: Achte darauf, dass du niemanden aus deinem eigenen Team blockierst.
-
-      **Schwierigkeitsgrad**: Mittel
-
       **Tipps für den *Spielleiter***:
-
-      * Achte auf den Busfahrer.
+	  
       * Wenn ein Spieler geblockt wird, schreib ihm einfach “Du wurdest von der Hure geblockt!”.
 
   - ### **Terrorist**
       {: #terrorist}
 
       **Fähigkeit**: Kann zu einem beliebigen Zeitpunkt in der Tagphase ein Selbstmordattentat begehen, welches ihn und einen weiteren von ihm ausgewählten Spieler in den Tod reißt.
-
-      **Tipp**: Denk dir ein witzigen Spruch für wenn du dich hochjagst aus. Sorgt für mehr F.U.N.!
-
-      **Schwierigkeitsgrad**: Schwer
 
       **Tipp für den *Spielleiter***: Achte auf den Terroristen, vorallem, wenn er etwas sagt.
 
@@ -611,14 +552,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Ziel**: Wird der Narr gelyncht, hat er gewonnen. Sollte ihn etwas anderes als der Galgen töten, hat er verloren. Bei Offenbarung der Rolle durch Fähigkeiten anderer Spieler, stirbt der Narr sofort.
 
-      **Tipp**: Je verdächtiger du bist, umso besser ist es!
-
-      **Schwierigkeitsgrad**: Schwer
-
       **Tipps für den *Spielleiter***
 
       * Wenn die Rolle des Narren zum Beispiel vom Orakel offenbart wird, stirbt der Narr sofort.
-      * Sollte der Narr am Tag sterben, jedoch nicht durch lynchen, hat er trotzdem verloren.
+      * Sollte der Narr am Tag sterben, jedoch nicht durch das lynchen, hat er trotzdem verloren.
 
       **Variante**: “Schärfer”: Der Narr gewinnt erst dann, wenn er von den Mafiosi getötet wird und danach von den Bürgern am Tag darauf gelyncht wird.
 
@@ -626,8 +563,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       {: #lyncher}
 
       **Ziel**: Gewinnt indem er die Town dazu bringt einen vom Spielleiter bestimmten Spieler zu lynchen. Sollte sein Ziel anders sterben, hat er verloren.
-
-      **Schwierigkeitsgard**: Anspruchsvoll
 
       **Tipp für den *Spielleiter***: Jener Spieler, den der Lyncher töten soll, wird zufällig vom Spielleiter ausgesucht.
 
@@ -642,8 +577,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Als Golem solltest du erst für die Town spielen und der Town helfen alle Mafiosi zu töten. Dadurch gewinnst du meistens auch das Vertrauen der Town. Also bring du dich ein und tarne dich unter ihnen.
 
-      **Schwierigkeitsgrad**: Schwer
-
       **Tipp für den *Spielleiter***: Der Golem darf auch jede Nacht jemanden töten, wenn er beginnt, die Aufgabe der Mafia zu übernehmen.
 
       **Variante**: “Steiniger Golem”: Der Golem trägt eine Schutzweste, welche ihm ein extra Leben gewährt. (siehe “Ausrüster”)
@@ -654,8 +587,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Fähigkeit**: Jede Nacht erweitert der Kultmeister seine Reihen um einen Spieler seiner Wahl, welcher dadurch seine alte Rolle verliert und erfährt, wer der Kultmeister ist. Der Kultmeister gewinnt, sobald alle Spieler entweder dem Kult angehören oder tot sind. Beim Tod des Kultmeisters sterben seine Anhänger ebenfalls.
 
       **Tipp**: Wähle dein erstes Kultmitglied weise!
-
-      **Schwierigkeitsgrad**: Anspruchsvoll
 
       **Tipps für den *Spielleiter***:
 
@@ -675,8 +606,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Fähigkeit/Ziel**: Tötet einen Spieler in der Nacht. Ist er der letzte Überlebende, gewinnt er.
 
-      **Schwierigkeitsgrad**: Schwer
-
       **Tipp für den *Spielleiter***: Der Psychopath ist vor allen Rollen in der Nacht dran, was das Töten angeht.
 
       **Note: Psych**
@@ -686,8 +615,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Fähigkeit**: Nimmt die Rolle des ersten toten Spielers ein. Solange kein toter Spieler vorhanden ist, verhält sich der Schleimer neutral.
 
-      **Schwierigkeitsgard**: Nicht definierbar
-
       **Tipp für den *Spielleiter***: Der Schleimer wird nicht zum Kultmitglied, sondern zu jener Rolle, die der Spieler vor der Umwandlung hatte, aber nur, wenn die Person in der gleichen Nacht zum Kultmitglied wurde.
 
 
@@ -695,8 +622,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       {: #prominenter}
 
       **Beschreibung**: Jeder kennt deine Identität. Du bekommst ein Spielziel vom Spielleiter.
-
-      **Schwierigkeitsgrad**: variabel, je nach Aufgabenstellung
 
       **Ziel-Vorschläge**:
 
@@ -713,8 +638,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Fähigkeit**: Er ist nachts in der Lage Häuser (Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich–sofern er noch lebt–dafür entscheiden, in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird Detektiv/Cop als Mafioso angezeigt.
 
-      **Schwierigkeitsgrad**: Anspruchsvoll
-
       **Tipps für den *Spielleiter***:
 
       * Wenn der Brandstifter stirbt, passiert gar nichts.
@@ -722,15 +645,12 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       *Eingereicht von Blubb*
 
-  - ### **Bürgermeister**
-      {: #buergermeister}
+  - ### **Trickster**
+      {: #trickster}
 
-      **Alias**: Doublevoter
+      **Fähigkeit**: Jede Nacht wählt er zwei Spieler aus, diesen zwei Spielern passieren zufällige Aktionen. Dabei kann der Spielerleiter auswählen was diese zufälligen Aktionen sind. Der Trickster gewinnt, wenn alles Spieler tot sind. 
 
-      **Fähigkeit**: Der Bürgermeister funktioniert wie eine zweite Rolle. Sie wird von dem Spielleiter zufällig verteilt am Anfang des Spiels. Der Spieler der die Bürgermeister Rolle zusätzlich bekommen hat eine doppelte Stimme in der Wahl des Lynchens.
+      **Tipps für den *Spielleiter***:
 
-      **Schwierigkeitsgrad**: Mittel - Anspruchsvoll
-
-      **Tipp für den *Spielleiter***: Die Identität des Bürgermeisters ist immer bekannt.
-
-      *Eingereicht von Bujuhu*
+	  * Du solltest auch schauen das auch zwei Spieler mit einander verlinkt werden können, mittels der Fähigkeit des Amors.
+	  * Sollte ein Spieler zum Kultmitglied gemacht wird der Trickster als Kultmeister gezählt. 
