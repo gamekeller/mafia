@@ -100,14 +100,14 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Detektiv**
       {: #detektiv}
 
-      **Fähigkeit**: Überprüft—ähnlich dem Cop—jede Nacht einen Spieler. Der Unterschied zum Cop besteht darin, dass er eine ungefähre Rolle gesagt bekommt. Dabei hängen Pate und Gärtner, Arzt und Psychopath so wie Geist und Voodoo-Puppe zusammen.
+      **Fähigkeit**: Überprüft—ähnlich dem Cop—jede Nacht einen Spieler. Der Unterschied zum Cop besteht darin, dass er eine ungefähre Rolle gesagt bekommt. Dabei hängen Pate und Gärtner, Arzt und Psychopath sowie Geist und Voodoo-Puppe zusammen.
 
       **Tipps**:
 
       * Wenn du dich verteidigen musst, ist es meist ein guter Zeitpunkt seine Rolle zu offenbaren und den überprüften Spielerkreis der letzten Nächte wieder zu geben.
       * Aufpassen! Es kann immer sein, dass ein Busfahrer im Spiel ist.
       * Du bist nicht gezwungen, jede Nacht einen Spieler zu überprüfen, allerdings solltest du das dem Spielleiter mitteilen.
-      * Beachte das dir bei den Rollen Pate & Gärtner, Arzt & Psychpath so wie Geist und Voodoo-Puppe nur das Werkzeug ausgegeben wird.
+      * Beachte, dass dir bei den Rollen Pate & Gärtner, Arzt & Psychpath so wie Geist und Voodoo-Puppe nur das Werkzeug ausgegeben wird.
 
       **Tipps für den *Spielleiter***:
 
@@ -215,7 +215,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Jungspund”: Es besteht eine 50/50 Chance, dass er sein Opfer umbringt.
       * “Möchtegern Doktor”: In Wirklichkeit macht er nichts, außer Pflaster auf Knochenbrüche zu kleben. Also ein Kurpfuscher.
       * “Mafia-Engel”: Der Arzt ist ganz klar auf der Seite der Mafia und liest auch im Chat mit. Er rettet die Mafiosi vor dem Veteran und ähnlichen Rollen.
-	  * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (sowohl Town, Thirdparty also auch Mafiosi.) 
+	  * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (das gilt für Town, Mafia und Thirdparty) 
 	  
   - ### **Busfahrer**
       {: #busfahrer}
@@ -280,7 +280,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Achte als Spielleiter auf den Busfahrer. Es kann immer sein, dass das Ziel vom Busfahrer aus dem Gefängnis ausgetauscht wird.
       * Die Person ist nicht unsterblich! (siehe “Verrückter Hutmacher”)
       * Der Jailer kann sich nicht selbst einsperren.
-	  * Der Jailer ist vor der Thirdparty.
+      * Die Aktionen des Jailers werden vor jenen der Third-Party-Rollen ausgeführt.
 
 - ## **Mörderrollen**
 
@@ -424,11 +424,11 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Doublevoter
 
-      **Fähigkeit**: Der Bürgermeister funktioniert wie eine zweite Rolle. Sie wird von dem Spielleiter zufällig verteilt am Anfang des Spiels. Der Spieler der die Bürgermeister Rolle zusätzlich bekommen hat eine doppelte Stimme in der Wahl des Lynchens.
+      **Fähigkeit**: Der Bürgermeister funktioniert wie eine zweite Rolle. Sie wird von dem Spielleiter zufällig verteilt am Anfang des Spiels. Der Spieler, der die Bürgermeister Rolle zusätzlich bekommen hat, hat eine doppelte Stimme in der Wahl des Lynchens.
 
       **Tipp für den *Spielleiter***: Die Identität des Bürgermeisters ist immer bekannt.
 
-      *Eingereicht von Bujuhu*
+      [*Eingereicht von Bujuhu*](https://gamekeller.net/Bujuhu)
 	  
 # Mafia
 {: #mafia}
@@ -449,10 +449,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp für den *Spielleiter***: Mafia-Mitglieder dürfen nur nachts schreiben.
 
-	  **Variante**
+      **Variante**
 	  
-	  * "Die schweigenden Lämmer": Es gibt keinen Mafia Chat. Keine weiß wer die anderen Mafiosi sind, außer der Pate, der auch die Tötungsbefehle gibt. Sollte der Pate sterben wird ein neuer Pate ausgewählt vom Spielleiter. 
-	  * "One Liner": Jedes Mitgleid der Mafiosi kann nur einen Nachricht pro Nacht schreiben. Sollte das nicht beachtet werden wird er gemodkillt. 
+	  * "Die schweigenden Lämmer": Es gibt keinen Mafia Chat. Keiner weiß, wer die anderen Mafiosi sind, außer der Pate, der auch die Tötungsbefehle gibt. Sollte der Pate sterben, wird vom Spielleiter ein neuer Pate ausgewählt. 
+	  * "One Liner": Jedes Mitgleid der Mafia kann nur eine Nachricht pro Nacht schreiben. Sollte das nicht beachtet werden, wird er gemodkillt. 
 	  
   - ### **Pate**
       {: #pate}
@@ -480,7 +480,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 	  
       **Tipp für den *Spielleiter***: Selbsterklärend! Im Prinzip nur schnell genug reagieren, vielleicht auch eine kleine Pause machen.
       
-	  **Variante**: "Drunken Heckenschütze": Der Heckenschütze erschießt nicht sein Ziel sondern die Person die unter dem Ziel im TS ist. (Tobias Idee)
+      **Variante**: "Drunken Heckenschütze": Der Heckenschütze erschießt nicht sein Ziel sondern die Person, die unter dem Ziel im TS ist. (Tobias Idee)
 
   - ### **Voodoo-Puppe**
       {: #voodoo-puppe}
@@ -555,7 +555,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipps für den *Spielleiter***
 
       * Wenn die Rolle des Narren zum Beispiel vom Orakel offenbart wird, stirbt der Narr sofort.
-      * Sollte der Narr am Tag sterben, jedoch nicht durch das lynchen, hat er trotzdem verloren.
+      * Sollte der Narr am Tag sterben, jedoch nicht durch das Lynchen, hat er trotzdem verloren.
 
       **Variante**: “Schärfer”: Der Narr gewinnt erst dann, wenn er von den Mafiosi getötet wird und danach von den Bürgern am Tag darauf gelyncht wird.
 
@@ -648,7 +648,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Trickster**
       {: #trickster}
 
-      **Fähigkeit**: Jede Nacht wählt er zwei Spieler aus, diesen zwei Spielern passieren zufällige Aktionen. Dabei kann der Spielerleiter auswählen was diese zufälligen Aktionen sind. Der Trickster gewinnt, wenn alles Spieler tot sind. 
+      **Fähigkeit**: Wählt jede Nacht zwei Spieler aus, welchen dann zufällige, vom Spielleiter ausgewählte Aktionen widerfahren. Der Trickster gewinnt, wenn alle Spieler tot sind.
 
       **Tipps für den *Spielleiter***:
 
