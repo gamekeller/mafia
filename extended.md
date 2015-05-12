@@ -19,7 +19,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Petze](#petze) | [Terrorist](#terrorist) | [Prominenter](#prominenter)
 [Maler](#maler) | | [Brandstifter](#brandstifter)
 [Arzt](#arzt) | | [Trickster](#trickster)
-[Busfahrer](#busfahrer) | |
+[Busfahrer](#busfahrer) | |[Vampirmeister](#vampirmeister)
 [Ausrüster](#ausruester) | |
 [Jailer](#jailer) | |
 [Samurai](#samurai) | |
@@ -267,7 +267,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Jailkeeper
       * Wärter
 
-      **Fähigkeit**: Sperrt einen Spieler weg, welcher dann nicht mehr getötet werden kann. Allerdings kann der eingesperrte Spieler auch nicht mehr seine (eventuell vorhandene) Rollenfähigkeit einsetzen. Der Justizvollzugsbeamter kann jede Nacht einen Spieler einsperren, jedoch hält diese “Haftstrafe” auch nur für diese eine Nacht.
+      **Fähigkeit**: Sperrt einen Spieler weg, welcher dann nicht mehr getötet werden kann. Allerdings kann der eingesperrte Spieler auch nicht mehr seine (eventuell vorhandene) Rollenfähigkeit einsetzen. Der Jailer kann jede Nacht einen Spieler einsperren, jedoch hält diese “Haftstrafe” auch nur für diese eine Nacht.
 
       **Tipps**:
 
@@ -279,8 +279,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Der eingesperrte Spieler wird über seinen Aufenthalt in der Haftanstalt informiert.
       * Achte als Spielleiter auf den Busfahrer. Es kann immer sein, dass das Ziel vom Busfahrer aus dem Gefängnis ausgetauscht wird.
       * Die Person ist nicht unsterblich! (siehe “Verrückter Hutmacher”)
-      * Der Justizvollzugsbeamter kann sich nicht selbst einsperren.
-      * Der Geist kann auch nicht eingesperrt werden.
+      * Der Jailer kann sich nicht selbst einsperren.
+	  * Der Jailer ist vor der Thirdparty.
 
 - ## **Mörderrollen**
 
@@ -654,3 +654,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 	  * Du solltest auch schauen das auch zwei Spieler mit einander verlinkt werden können, mittels der Fähigkeit des Amors.
 	  * Sollte ein Spieler zum Kultmitglied gemacht wird der Trickster als Kultmeister gezählt. 
+	  
+   - ### **Vampirmeister**
+      {: #vampirmeister}
+
+      **Fähigkeit**: Der Vampirmeister funktioniert ähnlich wie der Kultmeister, er sucht jede Nacht einen Spieler aus der zum Vampir wird und auch dem Chat vom Vampirmeister beitritt. Sollte er sterben sterben auch seine Vampiranhänger. Sollten folgene Rollen den Vampirmeister oder ein Vampiranhänger in der Nacht wählen, stirbt dieser sofort: Hynotiseur, Detektiv, Cop, Arzt, Maler und Amor.

@@ -63,7 +63,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Ausrüster**](extended/#ausrüster) - Der Ausrüster vergibt eine Schutzweste. Das gewährt ihm oder ihr einmal, sozusagen ein zweites Leben. Der Ausrüster kann nur eine Schutzweste pro Spiel vergeben.
 
-[**Jailer**](extended/#jailer) - Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch seine Fähigkeit nicht mehr benutzen.
+[**Jailer**](extended/#jailer) - Er sperrt einen Spieler weg. Dieser kann nicht mehr getötet werden, allerdings kann er auch seine Fähigkeit nicht mehr benutzen. Der Jailer ist vor der Thirdparty.
 
 [**Samurai**](extended/#samurai) - Samurai - Tötet jede Nacht einen Spieler. Sollte das Ziel kein Mafiosi sein, begeht der Samurai Selbstmord. (In der ersten Nacht handlungsunfähig)
 
@@ -126,6 +126,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 [**Brandstifter**](extended/#brandstifter) - Er ist nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” zu töten.
 
 [**Trickster**](extended/#trickster) - Wählt zwei Spieler pro Nacht, dennen etwas zufälliges passiert. Gewinnt wenn alle tot sind.
+
+[**Vampirmeister**](extended/#vampirmeister) - Wählt jede Nacht einen Spieler der dem Chat beitritt und seine Rolle verlieht. Wird von was allem getötet. 
 
 ---
 
