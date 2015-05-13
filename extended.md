@@ -387,15 +387,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Ghost
 
-      **Fähigkeit**: Jeder weiß, wer der Geist ist. Der Geist kann nicht nominiert werden, allerdings darf er auch nicht nominieren. Der Geist ist unsterblich. Der Geist zählt natürlich nicht zur Siegbedingung (Anzahl Mafia = Anzahl Town).
-
-      **Protipp**: Du bist ein Geist!
-
-      **Tipps für den *Spielleiter***:
-
-      * Der Geist darf nicht mitlynchen.
-      * Der Geist zählt auch nicht in der Rechnung: Mafia Gewinnbedingungen.
-      * Am Anfang der Runde wird vom Spielleiter bekanntgegeben wer der Geist ist.
+      **Fähigkeit**: Der Geist ist in der Nacht unverwundbar, allerdings kann er während des Tages getötet werden in dem er gelyncht wird oder von einer Rolle am Tag angegriffen wird. (Siehe: Heckenschütze, Amor oder Hutmacher)
 
 - ## **Mutierte Bürgerrollen**
 
