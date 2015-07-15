@@ -45,7 +45,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Cop**](extended/#cop) - Der Cop ist in der Lage, jede Nacht eine Person zu überprüfen. Er erhält Informartionen darüber, welche Gesinnung diese hat. (Neutrale Rollen werden als Town angezeigt)
 
-[**Orakel**](extended/#orakel) - Die Rolle einer vom Orakel ausgewählten Person wird beim Tod des Orakels offenbart.
+[**Orakel**](extended/#orakel) - Die Rolle einer vom Orakel ausgewählten Person wird beim Tod des Orakels offenbart, dies kann das Orakel in einer beliebigen Nacht tun.
 
 [**Hypnotiseur**](extended/#hypnotiseur) - Durch seine hypnotische Fähigkeit kann der Hypnotiseur in zwei verschiedenen Nächten andere Rollen aufdecken, sofern er die Nacht überlebt. Die hypnotisierte Person muss ihre Rolle in den ersten 10 Sekunden zu Beginn der Tag Phase preisgeben.
 
