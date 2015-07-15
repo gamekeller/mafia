@@ -10,7 +10,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 [Town](#town) | [Mafia](#mafia) | [Third Party](#third-party)
 ------------- | --------------- | ---------------------------
-[Bürger](#buerger) | [Goon](#goon) | [Der Narr](#narr)
+[Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
 [Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
 [Detektiv](#detektiv) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
 [Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
@@ -533,7 +533,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 # Thrid Party Roles *(Drittpartei-Rollen)*
 {: #third-party}
 
-  - ### **Der Narr**
+  - ### **Narr**
       {: #narr}
 
       **Alias**:

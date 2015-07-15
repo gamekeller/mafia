@@ -109,7 +109,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 ## Thrid Party Roles (Drittpartei Rollen)
 
-[**Der Narr**](extended/#narr) - Wenn du am Tag gelyncht wurdest, hast du gewonnen. Bei Offenbarung der Rolle durch Fähigkeiten anderer Spieler stirbt der Narr sofort.
+[**Narr**](extended/#narr) - Wenn du am Tag gelyncht wurdest, hast du gewonnen. Bei Offenbarung der Rolle durch Fähigkeiten anderer Spieler stirbt der Narr sofort.
 
 [**Lyncher**](extended/#lyncher)  - Du musst einen bestimmten Spieler durch das Lynchen töten. Sollte dieser Spieler gelyncht werden, hast du gewonnen. Stirbt sie auf anderem Wege, hast du verloren.
 
