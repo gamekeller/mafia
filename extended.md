@@ -12,7 +12,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 ------------- | --------------- | ---------------------------
 [Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
 [Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
-[Detektiv](#detektiv) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
+ | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
 [Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
 [Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
 [Mathematiker](#mathematiker) | [Hure](#hure) | [Schleimer](#schleimer)
@@ -72,6 +72,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Fahrkartenkontrolleur
       * Strafzettelverteiler
       * Scout
+	  * Detektiv
+	  * Dete
 
       **Fähigkeit**: Überprüft (“checkt”) jede Nacht einen Spieler. Er erhält Informationen über die Gesinnung der jeweiligen Person. (Neutrale Rollen werden als Town angezeigt)
 
@@ -97,22 +99,6 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
 
-  - ### **Detektiv**
-      {: #detektiv}
-
-      **Fähigkeit**: Überprüft—ähnlich dem Cop—jede Nacht einen Spieler. Der Unterschied zum Cop besteht darin, dass er eine ungefähre Rolle gesagt bekommt. Dabei hängen Pate und Gärtner, Arzt und Psychopath sowie Geist und Voodoo-Puppe zusammen.
-
-      **Tipps**:
-
-      * Wenn du dich verteidigen musst, ist es meist ein guter Zeitpunkt seine Rolle zu offenbaren und den überprüften Spielerkreis der letzten Nächte wieder zu geben.
-      * Aufpassen! Es kann immer sein, dass ein Busfahrer im Spiel ist.
-      * Du bist nicht gezwungen, jede Nacht einen Spieler zu überprüfen, allerdings solltest du das dem Spielleiter mitteilen.
-      * Beachte, dass dir bei den Rollen Pate & Gärtner, Arzt & Psychpath so wie Geist und Voodoo-Puppe nur das Werkzeug ausgegeben wird.
-
-      **Tipps für den *Spielleiter***:
-
-      * Der Busfahrer kann zwei Spieler vertauschen. Dies bedeutet, dass ebenfalls die Rollen vertauscht werden. Der Detektiv bekommt also ebenfalls die Rolle des Getauschten, statt des eigentlichen Zieles.
-      * Dem Detektiv wird die Gesinnung und die Rolle angezeigt, also es wird “Mafia” oder “Town/Doctor” angezeigt.   Drittparteitrollen werden als das angezeigt, was sie sind.
 
   - ### **Orakel**
       {: #orakel}
@@ -364,11 +350,11 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Alias**: Miller
 
-      **Fähigkeit**: Wird für den Detektiv als Mafiosi ausgegeben, spielt jedoch für die Town.
+      **Fähigkeit**: Wird für den Cop als Mafiosi ausgegeben, spielt jedoch für die Town.
 
-      **Tipp**: Damit der Detektiv dich nicht für einen Mafiosi hält, solltest du deine Rolle am besten preisgeben.
+      **Tipp**: Damit der Cop dich nicht für einen Mafiosi hält, solltest du deine Rolle am besten preisgeben.
 
-      **Tipp für den *Spielleiter***: Detektiv schreiben, dass der überprüfte Spieler Mafia ist und nicht Town.
+      **Tipp für den *Spielleiter***: Dem Cop schreiben, dass der überprüfte Spieler Mafia ist und nicht Town.
 
   - ### **Judas**
       {: #judas}
@@ -449,7 +435,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Pate**
       {: #pate}
 
-      **Fähigkeit**: Entscheidet im Alleingang, wer jede Nacht sterben soll. Der Detektiv erkennt den Paten als Bürger.
+      **Fähigkeit**: Entscheidet im Alleingang, wer jede Nacht sterben soll. Der Cop erkennt den Paten als Bürger.
 
       **Tipp**: Lass dich von deinen Mafiosis beraten und ignoriere sie nicht.
 
@@ -485,7 +471,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipps für den *Spielleiter***:
 
-      * Die Fähigkeit wirkt nicht für Überprüfungen durch den Cop oder Detektiv.
+      * Die Fähigkeit wirkt nicht für Überprüfungen durch den Cop.
       * Die Fähigkeit wirkt für das Retten durch den Arzt.
       * Die Fähigkeit wirkt auch bei dem Kult. Das heißt, sollte der von der Voodoo-Puppe gewählte Spieler zu einem Kultmitglied werden, wird die Voodoo-Puppe auch zu einem Kultmitglied.
       * Schauen, dass der Spieler nichts im Mafia Chat schreibt!
@@ -503,7 +489,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp für den *Spielleiter***: Schauen, dass der Spieler nichts im Mafia Chat schreibt!
 	  
-	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi, sondern Bürger aus, die für den Detektiv und Cop aussehen wie Mafiosi.
+	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi, sondern Bürger aus, die für den Cop aussehen wie Mafiosi.
 	  
 - ## **Supporter der Mafia Tier II**
 
@@ -628,7 +614,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Brandstifter**
       {: #brandstifter}
 
-      **Fähigkeit**: Er ist nachts in der Lage Häuser (Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich–sofern er noch lebt–dafür entscheiden, in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird Detektiv/Cop als Mafioso angezeigt.
+      **Fähigkeit**: Er ist nachts in der Lage Häuser (Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich–sofern er noch lebt–dafür entscheiden, in der Nacht ein Feuer zu legen, um alle “Präparierten” auszulöschen. Wird Cop als böseartig angezeigt.
 
       **Tipps für den *Spielleiter***:
 
@@ -650,4 +636,4 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
    - ### **Vampirmeister**
       {: #vampirmeister}
 
-      **Fähigkeit**: Der Vampirmeister funktioniert ähnlich wie der Kultmeister: Er sucht jede Nacht einen Spieler aus, welcher zum Vampir wird und auch dem Chat des Vampirmeisters beitritt. Sollte der Vampirmeister sterben, sterben alle seine Vampiranhänger mit ihm. Sollten folgende Rollen den Vampirmeister oder einen Vampiranhänger in der Nacht als Ziel ihrer Fähigkeit wählen, stirbt dieser sofort: Hypnotiseur, Detektiv, Cop, Arzt, Maler und Amor.
+      **Fähigkeit**: Der Vampirmeister funktioniert ähnlich wie der Kultmeister: Er sucht jede Nacht einen Spieler aus, welcher zum Vampir wird und auch dem Chat des Vampirmeisters beitritt. Sollte der Vampirmeister sterben, sterben alle seine Vampiranhänger mit ihm. Sollten folgende Rollen den Vampirmeister oder einen Vampiranhänger in der Nacht als Ziel ihrer Fähigkeit wählen, stirbt dieser sofort: Hypnotiseur, Cop, Arzt, Maler und Amor.
