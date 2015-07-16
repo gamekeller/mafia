@@ -350,6 +350,51 @@ h1 a[id] {
   display: block;
 }
 
+.post-container{
+  padding-bottom:50px;
+}
+
+.post-date{
+  padding-left:10px;
+  color: #C5C5C5;
+}
+
+.post-h{
+  display:inline;
+  line-height: 2.5em;
+}
+
+.embed .logo, .facebook-logo, .twitter-logo{
+  fill:#454441;
+  height:50px;
+  width:50px;
+} 
+
+.embed .logo:hover, .facebook-logo:hover, .twitter-logo:hover{
+  fill:#888580;
+} 
+
+.embed #reddit-svg{
+  height:50px;
+  width:50px;
+  stroke:#454441;
+}
+
+.embed #reddit-svg:hover{
+  stroke:#888580;
+}
+
+#reddit-svg{
+  height:25px;
+  width:25px;
+  stroke:#454441;
+}
+
+#reddit-svg:hover{
+  stroke:#888580;
+}
+
+
 
 /* Error pages (404)
 -------------------------------------------------- */

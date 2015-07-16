@@ -12,11 +12,11 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 ------------- | --------------- | ---------------------------
 [Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
 [Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
- | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
+[Hacker](#hacker) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
 [Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
 [Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
-[Mathematiker](#mathematiker) | [Hure](#hure) | [Schleimer](#schleimer)
-[Petze](#petze) | [Terrorist](#terrorist) | [Prominenter](#prominenter)
+[Mathematiker](#mathematiker) | [Schläger](#schlaeger) | [Schleimer](#schleimer)
+[Petze](#petze) | [Hure](#hure) [Terrorist](#terrorist) | [Prominenter](#prominenter)
 [Maler](#maler) | | [Brandstifter](#brandstifter)
 [Arzt](#arzt) | | [Trickster](#trickster)
 [Busfahrer](#busfahrer) | |[Vampirmeister](#vampirmeister)
@@ -98,13 +98,25 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Psycho-Cop (Kira)”: Jeder Spieler, den der Cop überprüft, stirbt.
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
+  
+  - ### **Hacker**
+      {: #hacker}
+	  
+      **Alias**: Nachtwächter
 
+      **Fähigkeit**: Kurz vor dem Ende der Nacht bekommt der Hacker eine Nachricht vom Spielleiter mit den Spielern, die in der Nacht aktiv waren.
+
+      **Tipp**: Der Hacker kann sowohl gute Aktionen als auch schlechte vollbringen. Einmal mehr vorsichtig zu sein, ist immer eine gute Idee.
+	  
+      **Tipp für den *Spielleiter***: Zu dem gehören auch Mafia Goon, allerdings nicht der Pate und auch keine Rollen, die gedeckt wurde vom Anwalt.
+	
+	*Eingereicht von Floka*
 
   - ### **Orakel**
       {: #orakel}
 
       **Fähigkeit**: Wählt während einer beliebigen Nacht des Spiels einen Spieler aus, dessen Rolle zum Todeszeitpunkt des Orakels offenbart wird.
-
+	  
       **Tipp**: Seine Rolle am Anfang des Spiels bekannt zu geben, erweist sich oft als intelligenter Spielzug, da die Mafiosi wahrscheinlich Angst haben werden dich zu töten.
 
       **Tipp für den *Spielleiter***: Offenbaren heißt in dem Fall, es wird deutlich vom Spielleiter verkündet.
@@ -330,7 +342,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * “Double Shooter”: Der Veteran hat zwei Schüsse.
       * “Daylight Shooter”: Der Veteran kann auch tagsüber schießen, seine Identität wird allerdings–im Gegensatz zur Nacht–offenbart.
+      * “Drunken Shooter“: Der Veteran schießt daneben.
+	  * “Samuran“: Halb Samurai, Halb Veteran: Für jede erfolgreiche Tötung einer bösen Rolle, bekommt der Veteran eine weitere Kugel.
 
+	  
 - ## **Besondere Rollen auf Seiten der Town**
 
   - ### **Amor**
@@ -490,7 +505,17 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Schauen, dass der Spieler nichts im Mafia Chat schreibt!
 	  
 	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi, sondern Bürger aus, die für den Cop aussehen wie Mafiosi.
+	 
+  - ### **Schläger**
+      {: #schlaeger}
 	  
+      **Alias**: Verkrüppler
+
+      **Fähigkeit**: Wählt zwei mal während eines Spiels jemanden aus, der seine Rolle verlieht mit der Fähigkeit.
+	  
+      **Tipp für den *Spielleiter***: An den Spieler kann eine Nachricht geschrieben werden, wie: "Du bist verkrüppelt und nicht mehr im Stande Fähigkeiten zu verwenden". Sollte der Kultmeister getroffen worden sein, sterben seine Anhänger, aber er bleibt am Leben. Sollte eine Person im Laufe des Spiels sterben, die vom Schläger ausgewählt wurde, stirbt sie als "Krüppel". Der Schläger kann auch Mafiosi zu Krüppeln machen. Der Busfahrer kann Ziele auch tauschen.
+
+
 - ## **Supporter der Mafia Tier II**
 
   *Identität nicht bekannt; keine Teilnahme am Mafia Chat*
