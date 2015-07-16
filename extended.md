@@ -12,12 +12,12 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 ------------- | --------------- | ---------------------------
 [Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
 [Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
- | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
+[Hacker](#hacker) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
 [Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
 [Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
-[Mathematiker](#mathematiker) | [Hure](#hure) | [Schleimer](#schleimer)
-[Petze](#petze) | [Terrorist](#terrorist) | [Prominenter](#prominenter)
-[Maler](#maler) | | [Brandstifter](#brandstifter)
+[Mathematiker](#mathematiker) | [Schläger](#schlaeger) | [Schleimer](#schleimer)
+[Petze](#petze) | [Hure](#hure)  | [Prominenter](#prominenter)
+[Maler](#maler) | [Terrorist](#terrorist) | [Brandstifter](#brandstifter)
 [Arzt](#arzt) | | [Trickster](#trickster)
 [Busfahrer](#busfahrer) | |[Vampirmeister](#vampirmeister)
 [Ausrüster](#ausruester) | |
@@ -98,13 +98,25 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Psycho-Cop (Kira)”: Jeder Spieler, den der Cop überprüft, stirbt.
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
+  
+  - ### **Hacker**
+      {: #hacker}
+	  
+      **Alias**: Nachtwächter
 
+      **Fähigkeit**: Kurz vor dem Ende der Nacht bekommt der Hacker eine Nachricht vom Spielleiter mit den Spielern, die in der Nacht aktiv waren.
+
+      **Tipp**: Der Hacker kann sowohl gute Aktionen als auch schlechte vollbringen. Einmal mehr vorsichtig zu sein, ist immer eine gute Idee.
+	  
+      **Tipp für den *Spielleiter***: Zu dem gehören auch Mafia Goon, allerdings nicht der Pate und auch keine Rollen, die gedeckt wurde vom Anwalt.
+	
+	*Eingereicht von Floka*
 
   - ### **Orakel**
       {: #orakel}
 
       **Fähigkeit**: Wählt während einer beliebigen Nacht des Spiels einen Spieler aus, dessen Rolle zum Todeszeitpunkt des Orakels offenbart wird.
-
+	  
       **Tipp**: Seine Rolle am Anfang des Spiels bekannt zu geben, erweist sich oft als intelligenter Spielzug, da die Mafiosi wahrscheinlich Angst haben werden dich zu töten.
 
       **Tipp für den *Spielleiter***: Offenbaren heißt in dem Fall, es wird deutlich vom Spielleiter verkündet.
@@ -330,7 +342,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       * “Double Shooter”: Der Veteran hat zwei Schüsse.
       * “Daylight Shooter”: Der Veteran kann auch tagsüber schießen, seine Identität wird allerdings–im Gegensatz zur Nacht–offenbart.
+      * “Drunken Shooter“: Der Veteran schießt daneben.
+	  * “Samuran“: Halb Samurai, Halb Veteran: Für jede erfolgreiche Tötung einer bösen Rolle, bekommt der Veteran eine weitere Kugel.
 
+	  
 - ## **Besondere Rollen auf Seiten der Town**
 
   - ### **Amor**
@@ -490,7 +505,17 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipp für den *Spielleiter***: Schauen, dass der Spieler nichts im Mafia Chat schreibt!
 	  
 	  **Variante**: "AntiWalt": Der Anwalt wählt keine Mafiosi, sondern Bürger aus, die für den Cop aussehen wie Mafiosi.
+	 
+  - ### **Schläger**
+      {: #schlaeger}
 	  
+      **Alias**: Verkrüppler
+
+      **Fähigkeit**: Wählt zwei mal während eines Spiels jemanden aus, der seine Rolle verlieht mit der Fähigkeit.
+	  
+      **Tipp für den *Spielleiter***: An den Spieler kann eine Nachricht geschrieben werden, wie: "Du bist verkrüppelt und nicht mehr im Stande Fähigkeiten zu verwenden". Sollte der Kultmeister getroffen worden sein, sterben seine Anhänger, aber er bleibt am Leben. Sollte eine Person im Laufe des Spiels sterben, die vom Schläger ausgewählt wurde, stirbt sie als "Krüppel". Der Schläger kann auch Mafiosi zu Krüppeln machen. Der Busfahrer kann Ziele auch tauschen.
+
+
 - ## **Supporter der Mafia Tier II**
 
   *Identität nicht bekannt; keine Teilnahme am Mafia Chat*
@@ -600,17 +625,17 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       {: #prominenter}
 
       **Beschreibung**: Jeder kennt deine Identität. Du bekommst ein Spielziel vom Spielleiter.
-
-      **Ziel-Vorschläge**:
-
-      * “Der Gespaltene Narr”: Das Ziel ist es, nominiert zu werden und 50% der Leute im Spiel müssen für den Tod des Prominenten stimmen – allerdings darf er nicht sterben.
-      * “Cop-Hasser”: Gewinnt nur mit der Town – allerdings muss der Cop tot sein, wenn die Town gewinnt.
-      * “Möchte-Gern-Cop”: Darft einen Spieler im Spiel überprüfen. Sollte der überprüfte Spieler ein Mafioso sein, wird allen gesagt, um wen es sich handelt. Sollte er jedoch kein Mafioso sein, stirbt der Prominenter. Er gewinnt nur mit der Town.
-      * “Auftragskiller”: Spielt für die Mafia. Kann einen Spieler umbringen. Sollte der getötete Spieler eine Spezialrolle haben, gewinnt er. Sollte der gewählte Spieler keine Spezialrolle sein, verliert er.
-      * “Dunkler Narr”: Verhält sich gleich wie ein Narr, mit dem Unterschied, dass er nicht am Tag, sondern in der Nacht sterben muss.
-      * “Random Lyncher”: Gewinnt, sobald drei Spieler von ihm nominiert und getötet worden sind.
-      * Die Grenzen sind unendlich! Es ist nicht schwer, ein eigenes Ziel zu suchen. Ebenfalls ein guter Weg für den Spielleiter, um Ideen für die Rolle zu testen!
-
+		
+	  
+    <div class="promi-box-parent">
+	  <strong>Ziel-Vorschläge<strong>:  <label for="promi-box-toggler" id="promi-box-btn">Vorschläge anzeigen</label>
+	  <input type="checkbox" id="promi-box-toggler">
+	  <div class="promi-box">
+		<ul>
+		  {% include promi-ideas.html %}
+		</ul>
+	 </div>
+	</div>
   - ### **Brandstifter**
       {: #brandstifter}
 
