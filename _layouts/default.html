@@ -8,10 +8,14 @@
     <link rel="stylesheet" href="{{ page.base_url }}css/main.css">
   </head>
   <body>
+    {% include icons.svg %}
 
     <header class="masthead">
       <div class="masthead-inner">
-        <h1>Mafia</h1>
+        <div class="headline-logo">
+          {% include icon.html icon="gamekeller" %}
+          <h1>Mafia</h1>
+        </div>
         <div class="colophon">
           <ul class="colophon-links">
             <li>
@@ -31,7 +35,6 @@
       {{ content }}
 
     </div>
-
     <script src="{{ page.base_url }}js/main.js"></script>
   </body>
 </html>

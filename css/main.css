@@ -59,9 +59,7 @@
 -------------------------------------------------- */
 
 * {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -258,10 +256,11 @@ a:hover {
   padding: 0 20px;
 }
 .masthead h1 {
-  margin-top: 0;
-  font-size: 160px;
+  float: left;
+  margin: 0 0 0 10px;
   line-height: 0.7;
   font-family: "valencialight";
+  font-size: 100px;
 }
 .masthead .lead {
   margin-bottom: 0;
@@ -271,7 +270,21 @@ a:hover {
 }
 
 /* Footer area of masthead */
+.headline-logo:after {
+  content: ' ';
+  display: table;
+  clear: both;
+}
+
+.headline-logo .icon-svg {
+  float: left;
+  width: 64px;
+  height: 64px;
+  fill: #fff;
+}
+
 .colophon {
+  display: none;
   margin-top: 20px;
   color: #7a7a7a;
 }
@@ -303,14 +316,11 @@ a:hover {
 }
 
 .nav > .active > a {
-  border-left: 2px solid #fff;
   color: #fff;
 }
 
-.nav.top > .active > a {
-  border: none;
-  color: #1a1a1a;
-  background-color: #fff;
+.nav > .active > a:not(:only-child) {
+  padding-bottom: 4px;
 }
 
 .nav .nav {
@@ -326,7 +336,6 @@ a:hover {
 }
 
 .nav .nav > :first-child > a { padding-top: 10px; }
-.nav .nav > .active > a { padding-left: 28px; }
 
 
 /* Content
@@ -340,6 +349,83 @@ h1 a[id] {
   display: block;
 }
 
+.icon:hover {
+  text-decoration: none;
+}
+
+.icon-svg {
+  width: 32px;
+  height: 32px;
+  fill: #1a1a1a;
+}
+
+.icon:hover .icon-svg {
+  fill: #555;
+}
+
+.banner {
+  font-family: 'valencialight';
+  line-height: 0.7;
+  font-size: 300px;
+}
+
+.post {
+  padding-bottom: 40px;
+}
+
+.post-date {
+  padding-left: 10px;
+  font-size: 75%;
+  color: #c5c5c5;
+}
+
+.post-heading {
+  margin: 0;
+  line-height: 2.5em;
+}
+
+.post-reddit {
+  line-height: 32px;
+}
+
+.post-reddit:hover .icon-svg {
+  fill: #1a1a1a;
+}
+
+.post-reddit:hover span {
+  text-decoration: underline;
+}
+
+.post-reddit .icon-svg {
+  vertical-align: top;
+}
+
+.toggle-content,
+.toggle-input {
+  display: none;
+}
+
+.toggle-content {
+  padding: 30px 0 0 25px;
+}
+
+.toggle-btn {
+  padding: 6px 10px 5px;
+  border: 1px solid #ededed;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.toggle-input:checked ~ .toggle-content {
+  display: block;
+}
+
+.toggle-input:checked ~ .toggle-btn,
+.toggle-btn:hover {
+  background-color: #454441;
+  color: #fff;
+  border-color: #454441;
+}
 
 /* Error pages (404)
 -------------------------------------------------- */
@@ -403,13 +489,24 @@ h1 a[id] {
     max-height: 100%;
     overflow: auto;
   }
-  .masthead h1 {
+
+  .headline-logo {
     float: left;
-    margin: 0;
-    line-height: 0.8;
-    font-size: 70px;
   }
+
+  .headline-logo .icon-svg {
+    width: 48px;
+    height: 48px;
+  }
+
+  .masthead h1 {
+    margin: 0;
+    padding-left: 10px;
+    font-size: 74px;
+  }
+
   .colophon {
+    display: block;
     margin-top: 0;
     padding-left: 10px;
     overflow: hidden;

@@ -1,13 +1,19 @@
 <nav>
   <ul class="nav top">
-    <li{% if page.url == "/" %} class="active"{% endif %}>
-      <a href="{{ page.base_url }}">Allgemein</a>
-      {% if page.url == "/" %}
+	<li{% if page.url == "/" %} class="active"{% endif %}>
+      <a href="{{ page.base_url }}">Home</a>
+	  {% if page.url == "/" %}
+        {% include nav-home.html %}
+      {% endif %}
+    </li>
+    <li{% if page.url == "/general/" %} class="active"{% endif %}>
+      <a href="{{ page.base_url }}general/">Grundlagen</a>
+      {% if page.url == "/general/" %}
         {% include nav-general.html %}
       {% endif %}
     </li>
-    <li{% if page.url == "/extended/" %} class="active"{% endif %}>
-      <a href="{{ page.base_url }}extended/">Rollen (Ausführlich)</a>
+    <li{% if page.url == "/roles/" %} class="active"{% endif %}>
+      <a href="{{ page.base_url }}roles/">Rollen (Ausführlich)</a>
     </li>
     <li{% if page.url == "/thanks/" %} class="active"{% endif %}>
       <a href="{{ page.base_url }}thanks/">Danksagung</a>
