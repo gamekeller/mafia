@@ -12,7 +12,7 @@ Danke an...
 * [Floka](http://steamcommunity.com/profiles/76561198125684710/)
 * [hnrch02](http://hnrch02.me)
 * [KleinGala](https://twitter.com/kleinGala)
-* [Okais] (https://twitter.com/okais555)
+* [Okais](https://twitter.com/okais555)
 * [Sakary](https://www.facebook.com/dominik.si.5)
 * [Shiyoda](http://steamcommunity.com/profiles/76561198054315970/)
 * [The Forgotten One](https://soundcloud.com/the-forgotten-one)
