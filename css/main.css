@@ -59,9 +59,7 @@
 -------------------------------------------------- */
 
 * {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -258,10 +256,11 @@ a:hover {
   padding: 0 20px;
 }
 .masthead h1 {
-  margin-top: 0;
+  float: left;
+  margin: 0 0 0 10px;
   line-height: 0.7;
   font-family: "valencialight";
-  font-size: 200px;
+  font-size: 100px;
 }
 .masthead .lead {
   margin-bottom: 0;
@@ -271,17 +270,21 @@ a:hover {
 }
 
 /* Footer area of masthead */
-.headline-logo .logo {
-  float:left;
-  margin-bottom: 10px;
-  padding-right: 20px;
-  fill: #fff;
-  height: 131px;
-  width: 131px;
+.headline-logo:after {
+  content: ' ';
+  display: table;
+  clear: both;
 }
 
+.headline-logo .icon-svg {
+  float: left;
+  width: 64px;
+  height: 64px;
+  fill: #fff;
+}
 
 .colophon {
+  display: none;
   margin-top: 20px;
   color: #7a7a7a;
 }
@@ -313,14 +316,11 @@ a:hover {
 }
 
 .nav > .active > a {
-  border-left: 2px solid #fff;
   color: #fff;
 }
 
-.nav.top > .active > a {
-  border: none;
-  color: #1a1a1a;
-  background-color: #fff;
+.nav > .active > a:not(:only-child) {
+  padding-bottom: 4px;
 }
 
 .nav .nav {
@@ -336,7 +336,6 @@ a:hover {
 }
 
 .nav .nav > :first-child > a { padding-top: 10px; }
-.nav .nav > .active > a { padding-left: 28px; }
 
 
 /* Content
@@ -350,67 +349,82 @@ h1 a[id] {
   display: block;
 }
 
-.post-container{
-  padding-bottom:50px;
+.icon:hover {
+  text-decoration: none;
 }
 
-.post-date{
-  padding-left:10px;
-  color: #C5C5C5;
+.icon-svg {
+  width: 32px;
+  height: 32px;
+  fill: #1a1a1a;
 }
 
-.post-h{
-  display:inline;
+.icon:hover .icon-svg {
+  fill: #555;
+}
+
+.banner {
+  font-family: 'valencialight';
+  line-height: 0.7;
+  font-size: 300px;
+}
+
+.post {
+  padding-bottom: 40px;
+}
+
+.post-date {
+  padding-left: 10px;
+  font-size: 75%;
+  color: #c5c5c5;
+}
+
+.post-heading {
+  margin: 0;
   line-height: 2.5em;
 }
 
-.embed .logo, .facebook-logo, .twitter-logo{
-  fill:#454441;
-  height:50px;
-  width:50px;
-} 
-
-.embed .logo:hover, .facebook-logo:hover, .twitter-logo:hover{
-  fill:#888580;
-} 
-
-.embed #reddit-svg{
-  height:50px;
-  width:50px;
-  stroke:#454441;
+.post-reddit {
+  line-height: 32px;
 }
 
-.embed #reddit-svg:hover{
-  stroke:#888580;
+.post-reddit:hover .icon-svg {
+  fill: #1a1a1a;
 }
 
-#reddit-svg{
-  height:25px;
-  width:25px;
-  stroke:#454441;
+.post-reddit:hover span {
+  text-decoration: underline;
 }
 
-#reddit-svg:hover{
-  stroke:#888580;
+.post-reddit .icon-svg {
+  vertical-align: top;
 }
 
-input#promi-box-toggler, .promi-box{
-  display:none;
+.toggle-content,
+.toggle-input {
+  display: none;
 }
 
-label#promi-box-btn{
-  border: 1px solid;
-  padding: 5px;
+.toggle-content {
+  padding: 30px 0 0 25px;
 }
 
-label#promi-box-btn:hover{
-  background-color:#454441;
-  color:#fff;
+.toggle-btn {
+  padding: 6px 10px 5px;
+  border: 1px solid #ededed;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
-input#promi-box-toggler:checked ~ div.promi-box {
-  padding-top: 25px;
-  display:block;
+.toggle-input:checked ~ .toggle-content {
+  display: block;
+}
+
+.toggle-input:checked ~ .toggle-btn,
+.toggle-btn:hover {
+  background-color: #454441;
+  color: #fff;
+  border-color: #454441;
 }
 
 /* Error pages (404)
@@ -475,24 +489,24 @@ input#promi-box-toggler:checked ~ div.promi-box {
     max-height: 100%;
     overflow: auto;
   }
-  
-  .masthead .logo{
-	margin-top: 5px;
-	padding-right: 0;
-	float: left;
-	fill: #fff;
-	height: 46px;
-	width: 46px;
-}
-  
-  .masthead h1 {
+
+  .headline-logo {
     float: left;
-    margin: 0;
-	padding-left: 10px;
-    line-height: 0.8;
-    font-size: 70px;
   }
+
+  .headline-logo .icon-svg {
+    width: 48px;
+    height: 48px;
+  }
+
+  .masthead h1 {
+    margin: 0;
+    padding-left: 10px;
+    font-size: 74px;
+  }
+
   .colophon {
+    display: block;
     margin-top: 0;
     padding-left: 10px;
     overflow: hidden;

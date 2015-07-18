@@ -8,5 +8,6 @@ kramdown:
 
 gems:
   - jemoji
+  - jekyll-redirect-from
 
 version:       0.4.2

@@ -22,9 +22,13 @@
 
   Spy.prototype.process = function() {
     var old = this.current;
+    var found = false;
 
     for(var i = 0; i <= this.offsets.length - 1; i++) {
-      if(window.scrollY >= this.offsets[i]) this.current = this.selectors[i];
+      if(window.scrollY >= this.offsets[i]) {
+        found = true;
+        this.current = this.selectors[i];
+      }
     };
 
     if((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
@@ -34,6 +38,11 @@
     if(this.current !== old) {
       if(old) old.parentNode.classList.remove('active');
       this.current.parentNode.classList.add('active');
+    }
+
+    if(!found && this.current) {
+      this.current.parentNode.classList.remove('active');
+      this.current = null;
     }
   }
 
