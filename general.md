@@ -139,5 +139,3 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 [**Brandstifter**](../roles/#brandstifter) - Er ist Nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” zu töten.
 
 [**Trickster**](../roles/#trickster) - Wählt zwei Spieler pro Nacht, denen etwas Zufälliges passiert. Gewinnt, wenn alle tot sind.
-
-[**Vampirmeister**](../roles/#vampirmeister) - Wählt jede Nacht einen Spieler aus, der seinem Chat beitritt und seine ursprüngliche Rolle verlieht. Stibt sofort wenn er durch eine Aufdeckerrolle enttarnt wird.

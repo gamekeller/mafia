@@ -20,7 +20,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Petze](#petze) | [Hure](#hure)  | [Prominenter](#prominenter)
 [Maler](#maler) | [Terrorist](#terrorist) | [Brandstifter](#brandstifter)
 [Arzt](#arzt) | | [Trickster](#trickster)
-[Busfahrer](#busfahrer) | |[Vampirmeister](#vampirmeister)
+[Busfahrer](#busfahrer) | |
 [Ausrüster](#ausruester) | |
 [Jailer](#jailer) | |
 [Samurai](#samurai) | |
@@ -597,8 +597,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Die Kultmitglieder wissen, was sie vorher gemacht haben, also können sie die Mafia in die Pfanne hauen, sofern sie das wollen.
       * Wenn jemand zum Kultmitglied gemacht wird, schreib ihm einfach “Du bist jetzt Mitglied des Kultes. Deine Rolle verfällt und du wirst keine Fähigkeiten mehr ausführen können.”.
 
-      **Variante**: “Gedankenleser”: Der Kultmeister bekommt mit seinem ersten Mitglied einen Chat, in dem sie nachtsüber schreiben dürfen. (ähnlichem dem Chat der Mafia)
-
+      **Variante**: 
+	  * “Gedankenleser”: Der Kultmeister bekommt mit seinem ersten Mitglied einen Chat, in dem sie nachtsüber schreiben dürfen. (ähnlichem dem Chat der Mafia)
+	  * "Vampirmeister": Er sucht jede Nacht einen Spieler aus, welcher zum Vampir wird und auch dem Chat des Vampirmeisters beitritt. Sollte der Vampirmeister sterben, sterben alle seine Vampiranhänger mit ihm. Sollten folgende Rollen den Vampirmeister oder einen Vampiranhänger in der Nacht als Ziel ihrer Fähigkeit wählen, stirbt dieser sofort: Hypnotiseur, Cop, Arzt, Maler und Amor.
+	  
   - ### **Psychopath**
       {: #psychopath}
 
