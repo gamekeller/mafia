@@ -551,6 +551,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipps für den *Spielleiter***:
 
       * Wenn ein Spieler geblockt wird, schreib ihm einfach “Du wurdest von der Hure geblockt!”.
+	  
+	  * Sollte die Hure jemanden besuchen, der in jener Nacht angegriffen wird, stirbt die Hure.
 
   - ### **Terrorist**
       {: #terrorist}
