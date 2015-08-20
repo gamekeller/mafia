@@ -114,6 +114,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Schläger**](../roles/#schlaeger) - Wählt zwei mal während eines Spiels jemanden aus, der seine Rolle verlieht mit der Fähigkeit.
 
+[**Silentisto**](../roles/#silentisto) - Wählt jede Nacht eine Person aus, die am folgenden Tag nicht sprechen kann.
+
 #### Supporter der Mafia Klasse II (Identität nicht bekannt; keine Teilnahme am Mafia Chat)
 
 [**Hure (Role Block)**](../roles/#hure) - Jede Nacht vergnügt sich die Hure mit einer Person, dessen Fähigkeiten dadurch blockiert werden.

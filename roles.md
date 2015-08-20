@@ -17,9 +17,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
 [Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
 [Mathematiker](#mathematiker) | [Schläger](#schlaeger) | [Schleimer](#schleimer)
-[Petze](#petze) | [Hure](#hure)  | [Prominenter](#prominenter)
-[Maler](#maler) | [Terrorist](#terrorist) | [Brandstifter](#brandstifter)
-[Arzt](#arzt) | | [Trickster](#trickster)
+[Petze](#petze) | [Silentisto](#silentisto) | [Prominenter](#prominenter)
+[Maler](#maler) | [Hure](#hure) | [Brandstifter](#brandstifter)
+[Arzt](#arzt) | [Terrorist](#terrorist)| [Trickster](#trickster)
 [Busfahrer](#busfahrer) | |
 [Ausrüster](#ausruester) | |
 [Jailer](#jailer) | |
@@ -515,7 +515,18 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp für den *Spielleiter***: An den Spieler kann eine Nachricht geschrieben werden, wie: "Du bist verkrüppelt und nicht mehr im Stande deine Fähigkeiten zu verwenden". Sollte der Kultmeister getroffen worden sein, sterben seine Anhänger, er bleibt jedoch am Leben. Sollte eine Person im Laufe des Spiels sterben, die vom Schläger ausgewählt wurde, stirbt sie als "Krüppel". Der Schläger kann auch Mafiosi zu Krüppeln machen. Der Busfahrer kann Ziele auch tauschen.
 
+  - ### **Silentisto**
+	  {: #silentisto}
 
+	  **Fähigkeit**: Wählt jede Nacht eine Person aus, die am folgenden Tag nicht sprechen kann.
+	  
+	  **Tipp für den *Spielleiter***: 
+	  
+	  * Wichtig ist, dass du als Spielleiter dem Spieler schreibst, dass er schweigen muss. Sowas wie "Du wurdest zum Schweigen gebracht für den nächsten Tag".
+	  * Am Anfang der Runde wird außerdem gesagt, dass der Spieler verstummt.
+	  * Mafioso können ebenfalls verstummen.
+	  * Das verstumpfte Opfer darf sich allerdings noch verteidigen.
+	  
 - ## **Supporter der Mafia Tier II**
 
   *Identität nicht bekannt; keine Teilnahme am Mafia Chat*
