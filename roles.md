@@ -95,7 +95,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Varianten**:
 
       * “Gegenteil-Cop”: Der Cop bekommt immer das Gegenteil der eigentlichen Gesinnung angezeigt.
-      * “Drunk-Cop”, Der Cop bekommt immer eine zufällige Gesinnung gezeigt. (Coin-Flip, wenn der Spielleiter es so möchte.)
+      * “Drunk-Cop”: Der Cop bekommt immer eine zufällige Gesinnung gezeigt. (Coin-Flip, wenn der Spielleiter es so möchte.)
       * “Psycho-Cop (Kira)”: Jeder Spieler, den der Cop überprüft, stirbt.
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
@@ -181,7 +181,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Diese Rolle sollte seine Fähigkeit eher im späteren Spielverlauf einsetzen, da die Wahrscheinlichkeit von einem Treffer eher gering ist und dadurch nützliche Rollen zu früh aufgedeckt werden.
       * Mit dieser Rolle kann man Spieler in Zugzwang bringen. Das weiß auch die Mafia!
 
-      **Tipp für den *Spielleiter***: Der Name des Malers wird mit dem Namen jenes Spielers, dessen Identität aufgedeckt wird, genannt.
+      **Tipp für den *Spielleiter***: 
+	  
+	  * Der Name des Malers wird mit dem Namen jenes Spielers, dessen Identität aufgedeckt wird, genannt.
 
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
@@ -213,7 +215,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Jungspund”: Es besteht eine 50/50 Chance, dass er sein Opfer umbringt.
       * “Möchtegern Doktor”: In Wirklichkeit macht er nichts, außer Pflaster auf Knochenbrüche zu kleben. Also ein Kurpfuscher.
       * “Mafia-Engel”: Der Arzt ist ganz klar auf der Seite der Mafia und liest auch im Chat mit. Er rettet die Mafiosi vor dem Veteran und ähnlichen Rollen.
-        * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (das gilt für Town, Mafia und Thirdparty)
+      * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (das gilt für Town, Mafia und Thirdparty)
 
   - ### **Busfahrer**
       {: #busfahrer}
