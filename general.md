@@ -56,7 +56,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Cop**](../roles/#cop) - Der Cop ist in der Lage, jede Nacht eine Person zu überprüfen. Er erhält Informartionen darüber, welche Gesinnung diese hat. (Neutrale Rollen werden als Town angezeigt)
 
-[**Hacker**](../roles/#hacker) Kurz vor dem Ende der Nacht bekommt der Hacker eine Nachricht vom Spielleiter mit den Spielern, die in der Nacht aktiv waren.
+[**Hacker**](../roles/#hacker) - Kurz vor dem Ende der Nacht bekommt der Hacker eine Nachricht vom Spielleiter mit den Spielern, die in der Nacht aktiv waren.
 
 [**Orakel**](../roles/#orakel) - Die Rolle, einer vom Orakel ausgewählten Person, wird beim Tod des Orakels offenbart, dies kann das Orakel in einer beliebigen Nacht tun.
 
@@ -66,7 +66,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Petze**](../roles/#petze) - Die Petze kann Rollen anderer Mitspieler aufdecken. Dies tut die Petze, indem sie dem Spielerleiter schreibt, welcher Spieler etwas über einen anderen Spieler erfahren soll. Die Petze erfährt nichts über die geteilte Rolle selbst.
 
-[**Maler**](../roles/#maler)  - Einmal im Spiel, kann der Maler ein Bild von einem Spieler malen. Dabei wird seine Identität, also Gesinnung und Rolle verraten. Die Identität des Malers wird dabei auch offenbart.
+[**Maler**](../roles/#maler) - Einmal im Spiel, kann der Maler ein Bild von einem Spieler malen. Dabei wird seine Identität, also Gesinnung und Rolle verraten. Die Identität des Malers wird dabei auch offenbart.
 
 [**Arzt**](../roles/#arzt) - Jede Nacht kann der Arzt jemanden retten, jedoch nicht zwei Mal hintereinander die selbe Person und nicht sich selbst.
 
@@ -84,17 +84,17 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Amor**](../roles/#amor) - In einer beliebigen Nacht verkuppelt der Amor zwei Spieler miteinander. Sobald einer dieser Spieler stirbt, geschieht es dem anderem ebenso.
 
-[**Gärtner**](../roles/#gaertner) - Der Gärtner wird für den Cop als Mafiosi ausgegeben zählt jedoch zur Town.
+[**Gärtner**](../roles/#gaertner) - Wird für den Cop als Mafiosi ausgegeben, zählt jedoch zur Town.
 
-[**Judas**](../roles/#judas) - Judas gewinnt, wenn die Bürger gewinnen. Sollte er von den Mafiosi getötet werden, lebt er weiter und gewinnt mit den Mafiosi.
+[**Judas**](../roles/#judas) - Gewinnt, wenn die Bürger gewinnen. Sollte er von den Mafiosi getötet werden, lebt er weiter und gewinnt mit den Mafiosi.
 
-[**Geist**](../roles/#geist) - Der Geist kann in der Nacht nicht getötet werden, allerdings von den Bürgern am Tag.
+[**Geist**](../roles/#geist) - Kann in der Nacht nicht getötet werden, allerdings von den Bürgern am Tag.
 
 [**Barbar**](../roles/#barbar) - Er zählt als normaler Bürger. Allerdings tritt sein Tod eine Nacht verspätet ein.
 
 [**Freimaurer**](../roles/#freimaurer)  - Es gibt zwei Freimaurer die sich untereinander kennen.
 
-[**Bürgermeister**](../roles/#buergermeister) - Der Bürgermeister ist eine Zweitrolle, die bei den Lynch-Votes am Tag doppelt so viel Stimmkraft hat.
+[**Bürgermeister**](../roles/#buergermeister) - Ist eine Zweitrolle, die bei den Lynch-Votes am Tag doppelt so viel Stimmkraft hat.
 
 ## Mafia
 
@@ -103,6 +103,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 [**Mafia Goon**](../roles/#goon) - Nimmt am Mafia Chat teil und wählt die Person aus, die getötet werden soll, es sei den ein Pate ist im Spiel.
 
 [**Pate**](../roles/#pate) - Der Cop erkennt den Paten als Bürger. Der Pate entscheidet wer sterben soll.
+
+[**Consigliere**](../roles/#consigliere) - Fungiert wie ein Anti-Cop. Er kann jede Nacht eine Person überprüfen, allerdings spielt er für die Mafia.
 
 #### Supporter der Mafia Klasse I (Identität ist bekannt; Teilnahme am Mafia Chat erfolgt nur durch lesen, nicht durch schreiben)
 
@@ -114,6 +116,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Schläger**](../roles/#schlaeger) - Wählt zwei mal während eines Spiels jemanden aus, der seine Rolle verlieht mit der Fähigkeit.
 
+[**Silentisto**](../roles/#silentisto) - Wählt jede Nacht eine Person aus, die am folgenden Tag nicht sprechen kann.
+
 #### Supporter der Mafia Klasse II (Identität nicht bekannt; keine Teilnahme am Mafia Chat)
 
 [**Hure (Role Block)**](../roles/#hure) - Jede Nacht vergnügt sich die Hure mit einer Person, dessen Fähigkeiten dadurch blockiert werden.
@@ -122,22 +126,22 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 ## Thrid Party Roles (Drittpartei Rollen)
 
+[**Amnesisto**](../roles/#amnesisto) - Sucht sich eine Rolle von Friedhof aus, die er dann übernimmt. Der Friedhof besteht aus den zu diesem Zeitpunkt bereits toten Spielern.
+
 [**Narr**](../roles/#narr) - Wenn du am Tag gelyncht wurdest, hast du gewonnen. Bei Offenbarung der Rolle durch Fähigkeiten anderer Spieler stirbt der Narr sofort.
 
-[**Lyncher**](../roles/#lyncher)  - Du musst einen bestimmten Spieler durch das Lynchen töten. Sollte dieser Spieler gelyncht werden, hast du gewonnen. Stirbt sie auf anderem Wege, hast du verloren.
+[**Lyncher**](../roles/#lyncher)  - Muss einen bestimmten Spieler durch das Lynchen töten. Sollte dieser Spieler gelyncht werden, hat der Lyncher gewonnen. Stirbt sie auf anderem Wege, hat der Lyncher verloren.
 
-[**Golem**](../roles/#golem) - Der Golem ist ein Mitglied der Town. Sollten alle Mafiosi tot sein, übernimmt der Golem die Aufgaben der Mafia. Dieser hat gewonnen, wenn sowohl die Mafia als auch die Town ausgelöscht wurden.
+[**Golem**](../roles/#golem) - Ist ein Mitglied der Town. Sollten alle Mafiosi tot sein, übernimmt der Golem die Aufgaben der Mafia. Dieser hat gewonnen, wenn sowohl die Mafia als auch die Town ausgelöscht wurden.
 
-[**Kultmeister**](../roles/#kultmeister) - In der ersten Nacht wählt der Kultmeister sein erstes Mitglied. Der gewählte Spieler erhält die Information wer der Kultmeister ist. Jede weitere Nacht erweitert er seine Reihen um einen Spieler seiner Wahl. Dieser verliert seine alte Rolle. Gewonnen hat der Kultmeister erst, sobald alle Spieler dem Kult angehören oder tot sind. Bei Tod des Kultmeisters sterben seine Anhänger ebenfalls.
+[**Kultmeister**](../roles/#kultmeister) - In der ersten Nacht wählt der Kultmeister sein erstes Mitglied, der gewählte Spieler erhält die Information wer der Kultmeister ist. Jede weitere Nacht erweitert er seine Reihen um einen Spieler seiner Wahl. Dieser verliert seine alte Rolle. Gewonnen hat der Kultmeister erst, sobald alle Spieler dem Kult angehören oder tot sind. Bei Tod des Kultmeisters sterben seine Anhänger ebenfalls.
 
 [**Psychopath**](../roles/#psychopath) - Gewinnt durch das Töten von Spielern in der Nacht.
 
-[**Schleimer**](../roles/#schleimer) - Der Schleimer ist zu Beginn des Spiels neutral. Er nimmt die Rolle des ersten toten Spielers an.
+[**Schleimer**](../roles/#schleimer) - Ist zu Beginn des Spiels neutral. Er nimmt die Rolle des ersten toten Spielers an.
 
 [**Prominenter**](../roles/#prominenter) - Jeder kennt deine Identität. Du bekommst ein Spielziel vom Spielleiter.
 
 [**Brandstifter**](../roles/#brandstifter) - Er ist Nachts in der Lage Häuser(Spieler) zu “präparieren”. Die Spieler werden darüber benachrichtigt. Er kann sich, sofern er noch lebt, dafür entscheiden in der Nacht ein Feuer zu legen, um alle “Präparierten” zu töten.
 
 [**Trickster**](../roles/#trickster) - Wählt zwei Spieler pro Nacht, denen etwas Zufälliges passiert. Gewinnt, wenn alle tot sind.
-
-[**Vampirmeister**](../roles/#vampirmeister) - Wählt jede Nacht einen Spieler aus, der seinem Chat beitritt und seine ursprüngliche Rolle verlieht. Stibt sofort wenn er durch eine Aufdeckerrolle enttarnt wird.

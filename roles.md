@@ -9,30 +9,30 @@ redirect_from: "/extended/"
 
 Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie nicht!
 
-[Town](#town) | [Mafia](#mafia) | [Third Party](#third-party)
+[Town](#town)                             | [Mafia](#mafia)                         | [Third Party](#third-party)
 ------------- | --------------- | ---------------------------
-[Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
-[Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
-[Hacker](#hacker) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
-[Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
-[Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
-[Mathematiker](#mathematiker) | [Schläger](#schlaeger) | [Schleimer](#schleimer)
-[Petze](#petze) | [Hure](#hure)  | [Prominenter](#prominenter)
-[Maler](#maler) | [Terrorist](#terrorist) | [Brandstifter](#brandstifter)
-[Arzt](#arzt) | | [Trickster](#trickster)
-[Busfahrer](#busfahrer) | |[Vampirmeister](#vampirmeister)
-[Ausrüster](#ausruester) | |
-[Jailer](#jailer) | |
-[Samurai](#samurai) | |
-[Hutmacher](#hutmacher) | |
-[Veteran](#veteran) | |
-[Amor](#amor) | |
-[Gärtner](#gaertner) | |
-[Judas](#judas) | |
-[Geist](#geist) | |
-[Barbar](#barbar) | |
-[Freimaurer](#freimaurer) | |
-[Bürgermeister](#buergermeister) | |
+[Bürger](#buerger)                        | [Goon](#goon)                           | [Amnesisto](#amnesisto)
+[Cop](#cop)                               | [Pate](#pate)                           | [Narr](#narr)
+[Hacker](#hacker)                         | [Consigliere](#consigliere)             | [Lyncher](#lyncher)
+[Orakel](#orakel)                         | [Heckenschütze](#heckenschuetze)       	| [Golem](#golem)
+[Hypnotiseur](#hypnotiseur)               | [Voodoo-Puppe](#voodoo-puppe)           | [Kultmeister](#kultmeister)
+[Mathematiker](#mathematiker)             | [Anwalt](#anwalt)                       | [Psychopath](#psychopath)
+[Petze](#petze)                           | [Schläger](#schlaeger)                  | [Schleimer](#schleimer)
+[Maler](#maler)                           | [Silentisto](#silentisto)               | [Prominenter](#prominenter)
+[Arzt](#arzt)                             | [Hure](#hure)                           | [Brandstifter](#brandstifter)
+[Busfahrer](#busfahrer)                   | [Terrorist](#terrorist)                 | [Trickster](#trickster)
+[Ausrüster](#ausruester)                  | |
+[Jailer](#jailer)                         | |
+[Samurai](#samurai)                       | |
+[Hutmacher](#hutmacher)                   | |
+[Veteran](#veteran)                       | |
+[Amor](#amor)                             | |
+[Gärtner](#gaertner)                      | |
+[Judas](#judas)                           | |
+[Geist](#geist)                           | |
+[Barbar](#barbar)                         | |
+[Freimaurer](#freimaurer)                 | |
+[Bürgermeister](#buergermeister)          | |
 {: #toc .table-bordered}
 
 ***
@@ -95,7 +95,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Varianten**:
 
       * “Gegenteil-Cop”: Der Cop bekommt immer das Gegenteil der eigentlichen Gesinnung angezeigt.
-      * “Drunk-Cop”, Der Cop bekommt immer eine zufällige Gesinnung gezeigt. (Coin-Flip, wenn der Spielleiter es so möchte.)
+      * “Drunk-Cop”: Der Cop bekommt immer eine zufällige Gesinnung gezeigt. (Coin-Flip, wenn der Spielleiter es so möchte.)
       * “Psycho-Cop (Kira)”: Jeder Spieler, den der Cop überprüft, stirbt.
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
@@ -181,7 +181,9 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Diese Rolle sollte seine Fähigkeit eher im späteren Spielverlauf einsetzen, da die Wahrscheinlichkeit von einem Treffer eher gering ist und dadurch nützliche Rollen zu früh aufgedeckt werden.
       * Mit dieser Rolle kann man Spieler in Zugzwang bringen. Das weiß auch die Mafia!
 
-      **Tipp für den *Spielleiter***: Der Name des Malers wird mit dem Namen jenes Spielers, dessen Identität aufgedeckt wird, genannt.
+      **Tipp für den *Spielleiter***: 
+        
+      * Der Name des Malers wird mit dem Namen jenes Spielers, dessen Identität aufgedeckt wird, genannt.
 
       *Diese Rolle wurde eingesendet von [@KleinGala](https://twitter.com/kleinGala) (und Börny).*
 
@@ -213,7 +215,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * “Jungspund”: Es besteht eine 50/50 Chance, dass er sein Opfer umbringt.
       * “Möchtegern Doktor”: In Wirklichkeit macht er nichts, außer Pflaster auf Knochenbrüche zu kleben. Also ein Kurpfuscher.
       * “Mafia-Engel”: Der Arzt ist ganz klar auf der Seite der Mafia und liest auch im Chat mit. Er rettet die Mafiosi vor dem Veteran und ähnlichen Rollen.
-        * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (das gilt für Town, Mafia und Thirdparty)
+      * “Militärsanitäter oder Guerilladoktor”: Sollte der Arzt jemanden retten, tötet er die Quelle des Angriffs. (das gilt für Town, Mafia und Thirdparty)
 
   - ### **Busfahrer**
       {: #busfahrer}
@@ -454,7 +456,18 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Lass dich von deinen Mafiosis beraten und ignoriere sie nicht.
 
-- ## **Supporter der Mafia Tier I**
+      **Tipp für den *Spielleiter***: 
+
+      * Sollte der Pate geblockt oder eingesperrt werden, wird der Tötungsbefehl NICHT ausgeführt.	  
+
+  - ### **Consigliere**
+      {: #consigliere}
+
+      **Fähigkeit**: Fungiert wie ein Anti-Cop. Er kann jede Nacht eine Person überprüfen, allerdings spielt er für die Mafia.
+
+      **Tipp für den *Spielleiter***: Die Ergebnisse der Überprüfungen werden nur dem Consigliere privat mitgeteilt, nicht dem Mafiachat.	  
+
+  - ## **Supporter der Mafia Tier I**
 
   *Identität ist bekannt; Teilnahme am Mafia Chat erfolgt nur durch lesen, nicht durch schreiben.*
 
@@ -515,6 +528,17 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp für den *Spielleiter***: An den Spieler kann eine Nachricht geschrieben werden, wie: "Du bist verkrüppelt und nicht mehr im Stande deine Fähigkeiten zu verwenden". Sollte der Kultmeister getroffen worden sein, sterben seine Anhänger, er bleibt jedoch am Leben. Sollte eine Person im Laufe des Spiels sterben, die vom Schläger ausgewählt wurde, stirbt sie als "Krüppel". Der Schläger kann auch Mafiosi zu Krüppeln machen. Der Busfahrer kann Ziele auch tauschen.
 
+  - ### **Silentisto**
+      {: #silentisto}
+
+      **Fähigkeit**: Wählt jede Nacht eine Person aus, die am folgenden Tag nicht sprechen kann.
+      
+      **Tipp für den *Spielleiter***: 
+      
+      * Wichtig ist, dass du als Spielleiter dem Spieler schreibst, dass er schweigen muss. Sowas wie "Du wurdest zum Schweigen gebracht für den nächsten Tag".
+      * Am Anfang der Runde wird außerdem gesagt, dass der Spieler verstummt.
+      * Mafioso können ebenfalls verstummen.
+      * Das verstumpfte Opfer darf sich allerdings noch verteidigen.
 
 - ## **Supporter der Mafia Tier II**
 
@@ -533,6 +557,8 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       **Tipps für den *Spielleiter***:
 
       * Wenn ein Spieler geblockt wird, schreib ihm einfach “Du wurdest von der Hure geblockt!”.
+        
+       * Sollte die Hure jemanden besuchen, der in jener Nacht angegriffen wird, stirbt die Hure.
 
   - ### **Terrorist**
       {: #terrorist}
@@ -543,6 +569,25 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 # Thrid Party Roles *(Drittpartei-Rollen)*
 {: #third-party}
+
+  - ### **Amnesisto**
+      {: #amnesisto}
+
+        **Fähigkeit**: Sucht sich eine Rolle vom Friedhof aus, die er dann übernimmt. Der Friedhof besteht aus den zu diesem Zeitpunkt bereits toten Spielern.
+
+        **Tipp**: Entscheide gut für welche Fraktion du spielen möchtest!
+
+        **Tipps für den *Spielleiter***
+  
+        * Er kann Mafioso, Town und alle Thrid Party Rollen annehmen, sofern sie tot sind.
+        * Die Fähigkeiten der Spezialrollen sind bei dem Amnesisto wieder aufgeladen.
+        * Sollte er sterben, wird gesagt, dass der Amnesisto mit der Rolle, die er übernommen hat, gestorben ist.      
+        **Varianten**:
+  
+        * “Good”: Der Amnesisto kann sich nur in guten Rollen verwandeln. 
+        * “Bad”: Der Amnesisto kann sich nur in böse Rollen (Mafia oder böse Third Party) verwandeln. 
+        * “Pleb”: Der Amnesisto kann sich nur in Rollen verwandeln, die keine wirkliche Fähigkeit haben (Bürger, Freimaurer etc.)
+
 
   - ### **Narr**
       {: #narr}
@@ -587,7 +632,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Kultmeister**
       {: #kultmeister}
 
-      **Fähigkeit**: Jede Nacht erweitert der Kultmeister seine Reihen um einen Spieler seiner Wahl, welcher dadurch seine alte Rolle verliert und erfährt, wer der Kultmeister ist. Der Kultmeister gewinnt, sobald alle Spieler entweder dem Kult angehören oder tot sind. Beim Tod des Kultmeisters sterben seine Anhänger ebenfalls.
+      **Fähigkeit**: Jede Nacht erweitert der Kultmeister seine Reihen um einen Spieler seiner Wahl, welcher dadurch seine alte Rolle verliert. Der Kultmeister gewinnt, sobald alle Spieler entweder dem Kult angehören oder tot sind. Beim Tod des Kultmeisters sterben seine Anhänger ebenfalls. Der Spieler, der als erstes Kultmitglied erwählt wurde, erfährt den Namen des Kultmeisters.
 
       **Tipp**: Wähle dein erstes Kultmitglied weise!
 
@@ -597,8 +642,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
       * Die Kultmitglieder wissen, was sie vorher gemacht haben, also können sie die Mafia in die Pfanne hauen, sofern sie das wollen.
       * Wenn jemand zum Kultmitglied gemacht wird, schreib ihm einfach “Du bist jetzt Mitglied des Kultes. Deine Rolle verfällt und du wirst keine Fähigkeiten mehr ausführen können.”.
 
-      **Variante**: “Gedankenleser”: Der Kultmeister bekommt mit seinem ersten Mitglied einen Chat, in dem sie nachtsüber schreiben dürfen. (ähnlichem dem Chat der Mafia)
-
+      **Varianten**: 
+      * “Gedankenleser”: Der Kultmeister bekommt mit seinem ersten Mitglied einen Chat, in dem sie nachtsüber schreiben dürfen. (ähnlichem dem Chat der Mafia)
+      * "Vampirmeister": Er sucht jede Nacht einen Spieler aus, welcher zum Vampir wird und auch dem Chat des Vampirmeisters beitritt. Sollte der Vampirmeister sterben, sterben alle seine Vampiranhänger mit ihm. Sollten folgende Rollen den Vampirmeister oder einen Vampiranhänger in der Nacht als Ziel ihrer Fähigkeit wählen, stirbt dieser sofort: Hypnotiseur, Cop, Arzt, Maler und Amor.
+  
   - ### **Psychopath**
       {: #psychopath}
 
