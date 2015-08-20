@@ -104,6 +104,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Pate**](../roles/#pate) - Der Cop erkennt den Paten als Bürger. Der Pate entscheidet wer sterben soll.
 
+[**Consigliere**](../roles/#consigliere) - Fungiert wie ein Anti-Cop. Er kann jede Nacht eine Person überprüfen, allerdings spielt er für die Mafia.
+
 #### Supporter der Mafia Klasse I (Identität ist bekannt; Teilnahme am Mafia Chat erfolgt nur durch lesen, nicht durch schreiben)
 
 [**Heckenschütze (Mafia Veteran)**](../roles/#heckenschuetze) - Besitzt wie der Veteran eine Kugel, die er am Tag auf einen anderen Spieler feuern kann. Dafür schreibt er das Ziel dem Spielleiter privat.

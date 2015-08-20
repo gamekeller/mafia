@@ -13,14 +13,14 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 ------------- | --------------- | ---------------------------
 [Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
 [Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
-[Hacker](#hacker) | [Heckenschütze](#heckenschuetze) | [Golem](#golem)
-[Orakel](#orakel) | [Voodoo-Puppe](#voodoo-puppe) | [Kultmeister](#kultmeister)
-[Hypnotiseur](#hypnotiseur) | [Anwalt](#anwalt) | [Psychopath](#psychopath)
-[Mathematiker](#mathematiker) | [Schläger](#schlaeger) | [Schleimer](#schleimer)
-[Petze](#petze) | [Silentisto](#silentisto) | [Prominenter](#prominenter)
-[Maler](#maler) | [Hure](#hure) | [Brandstifter](#brandstifter)
-[Arzt](#arzt) | [Terrorist](#terrorist)| [Trickster](#trickster)
-[Busfahrer](#busfahrer) | |
+[Hacker](#hacker) | [Consigliere](#consigliere) | [Golem](#golem)
+[Orakel](#orakel) | [Heckenschütze](#heckenschuetze) | [Kultmeister](#kultmeister)
+[Hypnotiseur](#hypnotiseur) | [Voodoo-Puppe](#voodoo-puppe) | [Psychopath](#psychopath)
+[Mathematiker](#mathematiker) | [Anwalt](#anwalt) | [Schleimer](#schleimer)
+[Petze](#petze) | [Schläger](#schlaeger) | [Prominenter](#prominenter)
+[Maler](#maler) | [Silentisto](#silentisto) | [Brandstifter](#brandstifter)
+[Arzt](#arzt) | [Hure](#hure) | [Trickster](#trickster)
+[Busfahrer](#busfahrer) | [Terrorist](#terrorist) |
 [Ausrüster](#ausruester) | |
 [Jailer](#jailer) | |
 [Samurai](#samurai) | |
@@ -454,6 +454,13 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
       **Tipp**: Lass dich von deinen Mafiosis beraten und ignoriere sie nicht.
 
+  - ### **Consigliere**
+      {: #consigliere}
+
+	  **Fähigkeit**: Fungiert wie ein Anti-Cop. Er kann jede Nacht eine Person überprüfen, allerdings spielt er für die Mafia.
+	  
+	  **Tipp für den *Spielleiter***: Die Ergebnisse der Überprüfungen werden nur dem Consigliere privat mitgeteilt, nicht dem Mafiachat.	  
+	  
 - ## **Supporter der Mafia Tier I**
 
   *Identität ist bekannt; Teilnahme am Mafia Chat erfolgt nur durch lesen, nicht durch schreiben.*
