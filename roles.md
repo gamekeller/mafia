@@ -9,30 +9,30 @@ redirect_from: "/extended/"
 
 Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie nicht!
 
-[Town](#town) | [Mafia](#mafia) | [Third Party](#third-party)
+[Town](#town) 					| [Mafia](#mafia) 				| [Third Party](#third-party)
 ------------- | --------------- | ---------------------------
-[Bürger](#buerger) | [Goon](#goon) | [Narr](#narr)
-[Cop](#cop) | [Pate](#pate) | [Lyncher](#lyncher)
-[Hacker](#hacker) | [Consigliere](#consigliere) | [Golem](#golem)
-[Orakel](#orakel) | [Heckenschütze](#heckenschuetze) | [Kultmeister](#kultmeister)
-[Hypnotiseur](#hypnotiseur) | [Voodoo-Puppe](#voodoo-puppe) | [Psychopath](#psychopath)
-[Mathematiker](#mathematiker) | [Anwalt](#anwalt) | [Schleimer](#schleimer)
-[Petze](#petze) | [Schläger](#schlaeger) | [Prominenter](#prominenter)
-[Maler](#maler) | [Silentisto](#silentisto) | [Brandstifter](#brandstifter)
-[Arzt](#arzt) | [Hure](#hure) | [Trickster](#trickster)
-[Busfahrer](#busfahrer) | [Terrorist](#terrorist) |
-[Ausrüster](#ausruester) | |
-[Jailer](#jailer) | |
-[Samurai](#samurai) | |
-[Hutmacher](#hutmacher) | |
-[Veteran](#veteran) | |
-[Amor](#amor) | |
-[Gärtner](#gaertner) | |
-[Judas](#judas) | |
-[Geist](#geist) | |
-[Barbar](#barbar) | |
-[Freimaurer](#freimaurer) | |
-[Bürgermeister](#buergermeister) | |
+[Bürger](#buerger) 				| [Goon](#goon) 					| [Amnesisto](#amnesisto)
+[Cop](#cop) 					| [Pate](#pate) 					| [Narr](#narr)
+[Hacker](#hacker) 				| [Consigliere](#consigliere) 		| [Lyncher](#lyncher)
+[Orakel](#orakel) 				| [Heckenschütze](#heckenschuetze)       	| [Golem](#golem)
+[Hypnotiseur](#hypnotiseur) 		      | [Voodoo-Puppe](#voodoo-puppe)		| [Kultmeister](#kultmeister)
+[Mathematiker](#mathematiker) 		| [Anwalt](#anwalt) 				| [Psychopath](#psychopath)
+[Petze](#petze) 					| [Schläger](#schlaeger) 			| [Schleimer](#schleimer)
+[Maler](#maler) 					| [Silentisto](#silentisto) 		      | [Prominenter](#prominenter)
+[Arzt](#arzt) 					| [Hure](#hure) 					| [Brandstifter](#brandstifter)
+[Busfahrer](#busfahrer) 			| [Terrorist](#terrorist) 			| [Trickster](#trickster)
+[Ausrüster](#ausruester) 			| |
+[Jailer](#jailer) 				| |
+[Samurai](#samurai) 				| |
+[Hutmacher](#hutmacher) 			| |
+[Veteran](#veteran) 				| |
+[Amor](#amor) 					| |
+[Gärtner](#gaertner) 				| |
+[Judas](#judas) 					| |
+[Geist](#geist) 					| |
+[Barbar](#barbar) 				| |
+[Freimaurer](#freimaurer) 			| |
+[Bürgermeister](#buergermeister)     	| |
 {: #toc .table-bordered}
 
 ***
