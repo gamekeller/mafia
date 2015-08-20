@@ -544,6 +544,26 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 # Thrid Party Roles *(Drittpartei-Rollen)*
 {: #third-party}
 
+  - ### **Amnesisto**
+      {: #amnesisto}
+
+	  **Fähigkeit**: Sucht sich eine Rolle von Friedhof aus, die er dann übernimmt. Der Friedhof besteht aus den zu diesem Zeitpunkt bereits toten Spielern.
+
+	  **Tipp**: Entscheide gut für welche Fraktion du spielen möchtest!
+
+	  **Tipps für den *Spielleiter***
+	  
+	  * Er kann Mafioso, Town und alle Thrid Party Rollen annehmen, sofern sie tot sind.
+	  * Die Fähigkeiten der Spezialrollen sind bei dem Amnesisto wieder aufgeladen.
+	  * Sollte er sterben, wird gesagt, dass der Amnesisto mit der Rolle, die er übernommen hat, gestorben ist.
+
+	  **Varianten**:
+	  
+	  * “Good”: Der Amnesisto kann sich nur in guten Rollen verwandeln. 
+	  * “Bad”: Der Amnesisto kann sich nur in böse Rollen (Mafia oder böse Third Party) verwandeln. 
+	  * “Pleb”: Der Amnesisto kann sich nur in Rollen verwandeln, die keine wirkliche Fähigkeit haben (Bürger, Freimaurer etc.)
+
+
   - ### **Narr**
       {: #narr}
 
