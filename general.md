@@ -84,7 +84,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 [**Amor**](../roles/#amor) - In einer beliebigen Nacht verkuppelt der Amor zwei Spieler miteinander. Sobald einer dieser Spieler stirbt, geschieht es dem anderem ebenso.
 
-[**Gärtner**](../roles/#gaertner) - Wird für den Cop als Mafiosi ausgegeben zählt jedoch zur Town.
+[**Gärtner**](../roles/#gaertner) - Wird für den Cop als Mafiosi ausgegeben, zählt jedoch zur Town.
 
 [**Judas**](../roles/#judas) - Gewinnt, wenn die Bürger gewinnen. Sollte er von den Mafiosi getötet werden, lebt er weiter und gewinnt mit den Mafiosi.
 
