@@ -625,7 +625,7 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
   - ### **Kultmeister**
       {: #kultmeister}
 
-      **Fähigkeit**: Jede Nacht erweitert der Kultmeister seine Reihen um einen Spieler seiner Wahl, welcher dadurch seine alte Rolle verliert und erfährt, wer der Kultmeister ist. Der Kultmeister gewinnt, sobald alle Spieler entweder dem Kult angehören oder tot sind. Beim Tod des Kultmeisters sterben seine Anhänger ebenfalls.
+      **Fähigkeit**: Jede Nacht erweitert der Kultmeister seine Reihen um einen Spieler seiner Wahl, welcher dadurch seine alte Rolle verliert. Der Kultmeister gewinnt, sobald alle Spieler entweder dem Kult angehören oder tot sind. Beim Tod des Kultmeisters sterben seine Anhänger ebenfalls. Der Spieler, der als erstes Kultmitglied erwählt wurde, erfährt den Namen des Kultmeisters.
 
       **Tipp**: Wähle dein erstes Kultmitglied weise!
 
