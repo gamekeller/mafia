@@ -126,7 +126,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 ## Thrid Party Roles (Drittpartei Rollen)
 
-[**Amnesisto**](../roles/#amnesisto) - Sucht sich eine Rolle von Friedhof aus, die er dann übernimmt. Der Friedhof besteht aus den zu diesem Zeitpunkt bereits toten Spielern.
+[**Amnesisto**](../roles/#amnesisto) - Sucht sich eine Rolle vom Friedhof aus, die er dann übernimmt. Der Friedhof besteht aus den zu diesem Zeitpunkt bereits toten Spielern.
 
 [**Narr**](../roles/#narr) - Wenn du am Tag gelyncht wurdest, hast du gewonnen. Bei Offenbarung der Rolle durch Fähigkeiten anderer Spieler stirbt der Narr sofort.
 
