@@ -4,27 +4,10 @@
       **Alias**:
 
       * Polizist
-      * Fahrkartenkontrolleur
-      * Strafzettelverteiler
-      * Scout
       * Detektiv
-      * Dete
 
-      **Fähigkeit**: Überprüft (“checkt”) jede Nacht einen Spieler. Er erhält Informationen über die Gesinnung der jeweiligen Person. (Neutrale Rollen werden als Town angezeigt)
+      **Fähigkeit**: Überprüft (“checkt”) jede Nacht einen Spieler. Er erhält Informationen über die Gesinnung der jeweiligen Person in Form von Farben "Grün" und "Rot". (Third Party Rollen werden als Rot angezeigt)
 
-      **Tipps**:
-
-      * Seine Rolle am Anfang zu offenbaren ist nicht immer intelligent.
-      * Wenn du dich verteidigen musst, ist es meist ein guter Zeitpunkt deine Rolle zu offenbaren und den überprüften Spielerkreis der letzten Nächte wiederzugeben.
-      * **Aufpassen!** Es kann immer sein, dass ein Busfahrer im Spiel ist oder, dass du eine der Varianten spielst.
-      * Offensichtliche Bürger solltest du nicht überprüfen, da es nur eine Verschwendung deiner Fähigkeit wäre.
-      * Du bist nicht gezwungen jede Nacht einen Spieler zu überprüfen, allerdings solltest du das dem Spielleiter schreiben.
-
-      **Tipps für den *Spielleiter***:
-
-      * Die Gesinnung wird für den Spieler als “Grün (Gut)” und “Rot (Böse)” ausgegeben. Der Spielleiter kann allerdings auch “Town/Nicht-Town”, “Schuldig/Unschuldig” oder “Mafia/Nicht-Mafia” verwenden.
-      * Der Busfahrer kann zwei Spieler vertauschen. Das bedeutet, dass ebenfalls die Rollen vertauscht werden. Der Cop bekommt also ebenfalls die Rolle des getauschten statt des eigentlichen Zieles angezeigt.
-      * Dem Cop wird nur “Mafia” oder “Town” angezeigt. Drittparteitrollen werden als Town angezeigt.
 
       **Varianten**:
 
@@ -33,3 +16,4 @@
       * “Psycho-Cop (Kira)”: Jeder Spieler, den der Cop überprüft, stirbt.
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
+      * "Kaufhaus-Cop": Zu seiner Fähigkeit, die er vom Cop erbt, kann der Kaufhaus-Cop jemanden einmalig in einer beliebigen Nacht erschießen. Sollte dieser Schuss ein Mitgleid der Town treffen, verliert der Kaufhaus-Cop seine Rolle und wird zum Bürger. 

@@ -1,5 +1,3 @@
-Role Graveyard
-
 [Detektiv](#detektiv)
 
   - ### **Detektiv**
@@ -24,6 +22,3 @@ Role Graveyard
 	  kann ich nicht die Komplexität ausleben die ich dieser Rolle 
 	  gerne geben würde.
 	  ```
-	  
-	  
-[**Detektiv**](extended/#detektiv) - Auch der Detektiv kann jede Nacht eine Person überprüfen. Unterschied zum Cop ist, dass ihm das Werkzeug mitgeteilt wird. Zum Beispiel: Gärtner und Pate verwenden beide die Gartenschere oder der Arzt und der Psychopath benutzten beide ein Skalpell.

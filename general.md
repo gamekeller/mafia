@@ -4,6 +4,7 @@ title: Grundlagen
 base_url: "../"
 ---
 
+
 # Spielaufbau
 {: #setup}
 
@@ -16,10 +17,10 @@ Die Anzahl der Mafiosi/Third-Party-Roles im Spiel richtet sich nach der Gesamtsp
 Das Spiel ist in mehrere Phasen unterteilt.
 
 ### Nacht
-In der Nacht werden alle Handlungen der nachtaktiven Rollen getätigt..
+In der Nacht werden alle Handlungen der nachtaktiven Rollen getätigt.
 Die Mafiosi bringen eine Person um, der Arzt versucht jemanden zu retten,
-der Cop überprüft einen Spieler usw..
-In der Nacht werden erst die Aktionen der Third Party dann der Town und zu letzt der Mafia ausgeführt.
+der Cop überprüft einen Spieler usw.
+Du solltest dich auch darüber informieren, in welcher [Reihenfolge](http://yeti1337.github.io/Mafia-Night-Graphic/) die Nachtaktionen ausgeführt werden.
 
 ### Der Morgen (Zwischen Phase)
 In dieser Phase werden nur die nächtlich Verstorbenen verkündet.
@@ -36,6 +37,11 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 - Bürger - entscheiden das Spiel für sich, wenn alle Mafiosi tot sind.
 - Third-Party-Roles - gewinnen durch Erfüllung der jeweiligen Ziele in ihrer Beschreibung.
 
+
+Für eine grobe Einführung in das Spielprinzip und den Ablauf, empfehlen wir dieses Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cj-O5BEFRak" frameborder="0" allowfullscreen></iframe>
+
+
 ---
 
 # Regeln
@@ -43,6 +49,8 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 
 1. Wenn die Nacht-Phase anfängt, schalten sich alle Spieler stumm außer der Spielleiter.
 2. Seid fair, freundlich und witzig.
-3. Mafiosi schreiben NUR nachts im Chat! (Andernfalls Mod kill)
-4. Tote Personen können nicht reden und sollten sich bitte auch daran halten. (stummschalten!)
+3. Mafiosi schreiben NUR nachts im Chat! 
+4. Tote Personen können nicht reden und sollten sich bitte auch daran halten.
 5. Es wird **nicht** im privaten Chat mit anderen Personen geschrieben, während das Spiel noch läuft. Dies gilt ausnahmlos für alle Rollen. Der Spielleiter kann jederzeit angeschrieben werden.
+
+Die Konsequenz ist der Ausschluss vom Spiel bzw. zukünftigen Spielen. 
