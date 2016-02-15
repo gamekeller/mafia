@@ -16,4 +16,4 @@
       * “Psycho-Cop (Kira)”: Jeder Spieler, den der Cop überprüft, stirbt.
       * “Naive-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Grün” angezeigt.
       * “Paranoid-Cop”: Jeder Spieler, den der Cop überprüft, wird als “Rot” angezeigt.
-      * "Kaufhaus-Cop": Zu seiner Fähigkeit, die er vom Cop erbt, kann der Kaufhaus-Cop jemanden einmalig in einer beliebigen Nacht erschießen. Sollte dieser Schuss ein Mitgleid der Town treffen verliert der Kaufhaus-Cop seiner Rolle und wird zum Bürger. 
+      * "Kaufhaus-Cop": Zu seiner Fähigkeit, die er vom Cop erbt, kann der Kaufhaus-Cop jemanden einmalig in einer beliebigen Nacht erschießen. Sollte dieser Schuss ein Mitgleid der Town treffen, verliert der Kaufhaus-Cop seine Rolle und wird zum Bürger. 

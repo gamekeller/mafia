@@ -20,7 +20,7 @@ Das Spiel ist in mehrere Phasen unterteilt.
 In der Nacht werden alle Handlungen der nachtaktiven Rollen getätigt.
 Die Mafiosi bringen eine Person um, der Arzt versucht jemanden zu retten,
 der Cop überprüft einen Spieler usw.
-Du solltest dich auch darüber informieren in welcher [Reihnfolge](http://yeti1337.github.io/Mafia-Night-Graphic/) die Nachtaktionen ausgeführt werden.
+Du solltest dich auch darüber informieren, in welcher [Reihenfolge](http://yeti1337.github.io/Mafia-Night-Graphic/) die Nachtaktionen ausgeführt werden.
 
 ### Der Morgen (Zwischen Phase)
 In dieser Phase werden nur die nächtlich Verstorbenen verkündet.
@@ -38,7 +38,7 @@ Der Spielleiter gibt kurze Details über die hingerichtete Person bekannt und de
 - Third-Party-Roles - gewinnen durch Erfüllung der jeweiligen Ziele in ihrer Beschreibung.
 
 
-Wir empfehlen, dass du dir das Video kurz anguckst, damit du eine ungefähre Vorstellung bekommst.
+Für eine grobe Einführung in das Spielprinzip und den Ablauf, empfehlen wir dieses Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cj-O5BEFRak" frameborder="0" allowfullscreen></iframe>
 
 

@@ -22,5 +22,5 @@
 
       * "Bürgermeister": Der Spieler, der die Bürgermeister Rolle zusätzlich bekommen hat, hat eine doppelte Stimme in der Wahl des Lynchens. Die Identität des Bürgermeisters ist immer bekannt.
       * “Freimaurer”: Allen Freimaurern wird mitgeteilt, wer die anderen Freimaurer sind.
-      * “Barbar”: Der Tod des Barbars wird um eine Nacht verzögert.
-      * “Gärtner”: Der Bürger sieht für den Cop aus wie ein Mafiosi.
+      * “Barbar”: Sollte der Barbar während der Nacht tödlich verletzt werden, wird sein Tod um eine Nacht verzögert.
+      * “Gärtner”: Der Gärtner sieht für den Cop aus wie ein Mafiosi.
