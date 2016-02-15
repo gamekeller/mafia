@@ -12,7 +12,7 @@ Danke an...
 * [Floka](http://steamcommunity.com/profiles/76561198125684710/)
 * [hnrch02](http://hnrch02.me)
 * [KleinGala](https://twitter.com/kleinGala)
-* [MadJogger](https://gamekeller.net/Jogger)
+* [Jogger](https://gamekeller.net/Jogger)
 * [Okais](https://twitter.com/okais555)
 * [Paddy](https://gamekeller.net/paddy)
 * [Sakary](https://www.facebook.com/dominik.si.5)
