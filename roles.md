@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rollen (ausführlich)
+title: Rollen
 base_url: "../"
 redirect_from: "/extended/"
 ---
@@ -11,26 +11,22 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 
 [Town](#town)                             | [Mafia](#mafia)                         | [Third Party](#third-party)
 ----------------------------------------- | --------------------------------------- | -----------------------------------------
-[Amor](#amor)                             | [Anti-Cop (V)](#anti-cop)               | [Brandstifter](#brandstifter)
-[Arzt](#arzt)                             | [Anwalt (H)](#anwalt)                   | [Golem](#golem)
-[Ausrüster](#ausruester)                  | [Goon (V)](#goon)                       | [Kultmeister](#kultmeister)
-[Barbar](#barbar)                         | [Heckenschütze (H)](#heckenschuetze)    | [Lyncher](#lyncher)
-[Busfahrer](#busfahrer)                   | [Hure (E)](#hure)                       | [Narr](#narr)
-[Bürger](#buerger)                        | [Pate (V)](#pate)                       | [Prominenter](#prominenter)
-[Cop](#cop)                               | [Schläger (H)](#schlaeger)              | [Psychopath](#psychopath)
-[Freimaurer](#freimaurer)                 | [Silencio (H)](#silencio)               | [Schleimer](#schleimer)
-[Geist](#geist)                           | [Terrorist (E)](#terrorist)             | [Trickster](#trickster)
-[Gärtner](#gaertner)                      | [Voodoo-Puppe (H)](#voodoo-puppe)       | 
-[Hacker](#hacker)                         | |
-[Hutmacher](#hutmacher)                   | |
-[Hypnotiseur](#hypnotiseur)               | |
-[Jailer](#jailer)                         | |
-[Judas](#judas)                           | |
+[Amor](#amor)                             | [Goon (V)](#goon)                       | [Brandstifter](#brandstifter)
+[Arzt](#arzt)                             | [Heckenschütze (H)](#heckenschuetze)    | [Golem](#golem)
+[Ausrüster](#ausruester)                  | [Hure (E)](#hure)                       | [Kultmeister](#kultmeister)
+[Busfahrer](#busfahrer)                   | [Pate (V)](#pate)                       | [Lyncher](#lyncher)
+[Bürger](#buerger)                        | [Schläger (H)](#schlaeger)              | [Narr](#narr)
+[Cop](#cop)                               | [Terrorist (E)](#terrorist)             | [Prominenter](#prominenter)
+[Geist](#geist)                           |                                         | [Psychopath](#psychopath)
+[Hutmacher](#hutmacher)                   |                                         | [Schleimer](#schleimer)
+[Hypnotiseur](#hypnotiseur)               |                                         | [Trickster](#trickster)
+[Jailer](#jailer)                         | | 
 [Maler](#maler)                           | |
 [Mathematiker](#mathematiker)             | |
 [Orakel](#orakel)                         | |
 [Petze](#petze)                           | |
 [Samurai](#samurai)                       | |
+[Schreiber](#schreiber)                   | |
 [Veteran](#veteran)                       | |
 {: #toc .table-bordered}
 
@@ -42,24 +38,19 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 {% include roles/amor.md %}
 {% include roles/arzt.md %}
 {% include roles/ausruester.md %}
-{% include roles/barbar.md %}
 {% include roles/buerger.md %}
-{% include roles/buergermeister.md %}
 {% include roles/busfahrer.md %}
 {% include roles/cop.md %}
-{% include roles/freimaurer.md %}
-{% include roles/gaertner.md %}
 {% include roles/geist.md %}
-{% include roles/hacker.md %}
 {% include roles/hutmacher.md %}
 {% include roles/hypnotiseur.md %}
 {% include roles/jailer.md %}
-{% include roles/judas.md %}
 {% include roles/maler.md %}
 {% include roles/mathematiker.md %}
 {% include roles/orakel.md %}
 {% include roles/petze.md %}
 {% include roles/samurai.md %}
+{% include roles/schreiber.md %}
 {% include roles/veteran.md %}
 
 ***
@@ -75,16 +66,12 @@ Die Mafia ist in drei Mitgliederbereiche eingeteilt:
 
 Was für eine Art von Mitglied, die Rolle ist, siehst du an dem Buchstaben hinter dem Namen. Es steht außerdem in dem Tipps für den Spielleiter Abschnitt jeder Rolle.
 
-{% include roles/anti-cop.md %}
-{% include roles/anwalt.md %}
 {% include roles/goon.md %}
 {% include roles/heckenschuetze.md %}
 {% include roles/hure.md %}
 {% include roles/pate.md %}
 {% include roles/schlaeger.md %}
-{% include roles/silencio.md %}
 {% include roles/terrorist.md %}
-{% include roles/voodoo-puppe.md %}
 
 ***
 
