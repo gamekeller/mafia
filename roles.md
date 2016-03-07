@@ -16,10 +16,10 @@ Jede Rolle ist wichtig, egal ob Bürger oder Mafia Goon, also verschwendet sie n
 [Ausrüster](#ausruester)                  | [Hure (E)](#hure)                       | [Kultmeister](#kultmeister)
 [Busfahrer](#busfahrer)                   | [Pate (V)](#pate)                       | [Lyncher](#lyncher)
 [Bürger](#buerger)                        | [Schläger (H)](#schlaeger)              | [Narr](#narr)
-[Cop](#cop)                               | [Terrorist (E)](#terrorist)             | [Prominenter](#prominenter)
-[Geist](#geist)                           |                                         | [Psychopath](#psychopath)
-[Hutmacher](#hutmacher)                   |                                         | [Schleimer](#schleimer)
-[Hypnotiseur](#hypnotiseur)               |                                         | [Trickster](#trickster)
+[Cop](#cop)                               | [Terrorist (E)](#terrorist)             | [Psychopath](#psychopath)
+[Geist](#geist)                           |                                         | [Schleimer](#schleimer)
+[Hutmacher](#hutmacher)                   |                                         | [Trickster](#trickster)
+[Hypnotiseur](#hypnotiseur)               | | 
 [Jailer](#jailer)                         | | 
 [Maler](#maler)                           | |
 [Mathematiker](#mathematiker)             | |
@@ -83,7 +83,6 @@ Was für eine Art von Mitglied, die Rolle ist, siehst du an dem Buchstaben hinte
 {% include roles/kultmeister.md %}
 {% include roles/lyncher.md %}
 {% include roles/narr.md %}
-{% include roles/prominenter.md %}
 {% include roles/psychopath.md %}
 {% include roles/schleimer.md %}
 {% include roles/trickster.md %}
